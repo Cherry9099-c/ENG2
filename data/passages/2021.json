@@ -1,0 +1,328 @@
+{
+  "meta": {
+    "note": "段落结构分析。做题时先用它把文章骨架搭起来，再回头处理长难句——主旨题和态度题靠的是这一层。",
+    "fields": {
+      "topic": "文章话题",
+      "type": "行文类型",
+      "mainIdea": "全文主旨（一句话）",
+      "structure": "段落功能串起来的结构",
+      "paragraphs": "逐段：作用 / 段落主旨 / 提示"
+    }
+  },
+  "passages": [
+    {
+      "id": "y21p1",
+      "source": "2021 英语二 Text 1",
+      "topic": "再培训：谁该买单",
+      "type": "问题分析型",
+      "mainIdea": "再培训已从流行话术变成硬需求，但谁来付费是个悬而未决的棘手问题；瑞典航空的跨企业合作案例暗示了方向。",
+      "structure": "提出议题（1）→ 揭示矛盾（2）→ 正面案例（3）",
+      "paragraphs": [
+        {
+          "n": 1,
+          "role": "提出议题",
+          "gist": "再培训不是空话而是必需；核心技能的更新时间窗口只有几年，非常紧迫。",
+          "note": "首句先抑后扬——sounds like a buzzword but is actually a requirement。这种「先让步再反转」是英二开篇的常见套路。段末 That is a very short timeline. 是作者的评价句，态度题要留意。"
+        },
+        {
+          "n": 2,
+          "role": "揭示矛盾",
+          "gist": "谁该出钱是个棘手问题：企业倾向换人而非培训，政府介入也软弱无力，导致雇主招不到人与高失业率并存。",
+          "note": "thorny one 直接点出争议所在。段落推进是「先企业、后政府」：For individual companies... 之后用 When the skills mismatch is in the broader economy though 把视角切换到政府层面。arguably languid at best 是委婉的负面评价。"
+        },
+        {
+          "n": 3,
+          "role": "正面案例",
+          "gist": "疫情下失业率高企；瑞典北欧航空被迫让 90% 客舱员工休假后，联合其他公司和一所大学做再培训，把他们转成医院辅助人员。",
+          "note": "That seems to be the case in Sweden 是转折信号，从「问题」转向「正面案例」。末尾的 The effort was a collective one 是作者的态度落点——合作才是出路。"
+        }
+      ]
+    },
+    {
+      "id": "y21p2",
+      "source": "2021 英语二 Text 2",
+      "topic": "英国能否回归粮食自给自足",
+      "type": "设问—反驳型",
+      "mainIdea": "英国回归粮食自给自足的设想不切实际：土地和气候决定了它只能以畜牧业为主，即使采取极端措施也无法满足本国需求。",
+      "structure": "设问（1）→ 数据反驳（2-3）→ 排除替代方案（4）→ 数据坐实（5）",
+      "paragraphs": [
+        {
+          "n": 1,
+          "role": "引入 + 设问",
+          "gist": "全球粮食安全成为热点；脱欧让「回归自给自足」的呼声再起，听起来很美。",
+          "note": "末句 Sounds great—but how feasible is this vision? 是全文的**总起设问**。后面每一段都在回答「可行吗」，抓住这句就抓住了主旨题的答案方向。"
+        },
+        {
+          "n": 2,
+          "role": "摆数据",
+          "gist": "英国 85% 的土地用于肉奶生产，只供给 80% 的消费——所以就算全国都改成牧场也不够。",
+          "note": "According to a report 是数据来源标志。so even covering the whole country in livestock farms wouldn't allow us to... 是作者用数据直接反驳第一段的乐观论调。"
+        },
+        {
+          "n": 3,
+          "role": "让步 + 强化",
+          "gist": "这些数字有保留，但形势依然严峻；要自给自足就得大幅减少动物性食品，代价是绿地变少、工业化生产变多。",
+          "note": "There are many caveats... but they are still grave 是典型的「先让步再转折」。drastically reduce... meaning fewer green fields 把「自给自足」的代价摆了出来。"
+        },
+        {
+          "n": 4,
+          "role": "排除替代方案",
+          "gist": "改吃素也解决不了：英国地形和气候不适合商业化种粮，全部改种也只能增产 30%。",
+          "note": "But 开头表示对上一段所提方案的否定。Even if we converted all... we would achieve only... 是「即使…也只能…」，作者用这个结构把可能性压到最低。"
+        },
+        {
+          "n": 5,
+          "role": "数据坐实",
+          "gist": "果蔬自给率目前只有 23%，极限措施下也只能满足 30%；这还没算主粮、糖和油。",
+          "note": "That is before we look for... 是「更别说」的递进，把结论推到极致。全文到这句为止，反驳彻底完成。"
+        }
+      ]
+    },
+    {
+      "id": "y21p3",
+      "source": "2021 英语二 Text 3",
+      "topic": "科技巨头的「收购式招聘」",
+      "type": "现象—争议—监管型",
+      "mainIdea": "科技巨头用小额收购吞掉最有威胁的潜在竞争者（acqui-hire，甚至「买了就关」），金额虽小却扼杀了未来的竞争，监管机构因此开始介入这个此前无法触及的领域。",
+      "structure": "举例（1-2）→ 批评观点（3-4）→ 监管介入（5）→ 让步（6）→ 转折结论（7）",
+      "paragraphs": [
+        {
+          "n": 1,
+          "role": "举例引入",
+          "gist": "2015 年微软收购 Wunderlist 和 Sunrise 两个备受关注的新秀 App，它们代表为智能手机从零设计的新技术。",
+          "note": "designed from the ground up 暗示这些初创公司的价值在于「原生移动」，这是它们被收购的原因。"
+        },
+        {
+          "n": 2,
+          "role": "揭示现象",
+          "gist": "两个 App 后来都被关停，但工程团队留了下来——这就是「收购式招聘」（acqui-hire）。",
+          "note": "however 转折。scrapped（关停）与 engineers stayed on（团队留下）形成对比，一句话点出 acqui-hire 的实质：**要人不要产品**。这是解题的关键概念。"
+        },
+        {
+          "n": 3,
+          "role": "呈现批评方观点",
+          "gist": "批评者认为这两个 App 的命运说明科技巨头在无情吞噬任何挡路的创新公司。",
+          "note": "To Microsoft's critics 是观点归属信号，提醒你这是「批评者的看法」而非作者定论。引语 They bought the seedlings and closed them down 用幼苗比喻有潜力的小公司。"
+        },
+        {
+          "n": 4,
+          "role": "呈现复杂性",
+          "gist": "投资人 Arnold 承认自己利益相关、对结果感情复杂，并自问「这有利于美国经济吗？我不知道」。",
+          "note": "though he admits to mixed feelings 是态度信号。自问自答说明连当事人都无法定论，为第 5 段的「监管介入」埋下伏笔。"
+        },
+        {
+          "n": 5,
+          "role": "引入监管视角",
+          "gist": "美国联邦贸易委员会要求五大科技公司提供过去十年小额收购的信息，这是监管首次涉足早期科技市场。",
+          "note": "wading into（涉足）和 beyond their reach（此前无法触及）说明这是**新变化**，是细节题的常考处。"
+        },
+        {
+          "n": 6,
+          "role": "让步（反方论据）",
+          "gist": "相比巨头 5.5 万亿的市值，这些小交易微不足道，就像沧海一粟。",
+          "note": "a drop in the ocean 是「沧海一粟」。might seem beside the point 表明作者在替「调查没必要」一方说话——**这是让步，为下一段转折铺垫**，千万不要误当成作者立场。"
+        },
+        {
+          "n": 7,
+          "role": "转折结论",
+          "gist": "但批评者说，巨头正是用这些交易买下最有威胁的潜在竞争者，有时就是「买了就关」的策略。",
+          "note": "However 把前一段的「微不足道」推翻：**金额小不代表影响小**，因为被扼杀的是未来的竞争者。这是全文的落脚点，也是主旨题的答案句。"
+        }
+      ]
+    },
+    {
+      "id": "y21p4",
+      "source": "2021 英语二 Text 4",
+      "topic": "直觉胜过深思",
+      "type": "论点—实验—限定型",
+      "mainIdea": "在判断他人、识别欺骗、形成偏好这类复杂的社会认知任务上，依赖直觉往往优于刻意思考；但直觉只在特定情境下才管用。",
+      "structure": "提出论点（1）→ 反证（2）→ 补充证据 + 类比（3）→ 扩展 + 限定（4）→ 收束（5）",
+      "paragraphs": [
+        {
+          "n": 1,
+          "role": "提出论点 + 实验 1",
+          "gist": "少量经验片段就足以准确判断他人；即使占用了工作记忆，判断依然准确，说明这是直觉性的加工。",
+          "note": "首句就是全文论点句（deliberation can be not only extraneous but intrusive）。Another set of participants... occupying their conscious working memory 是**控制变量**：干扰理性思考后结果不变，才证明判断不依赖理性。"
+        },
+        {
+          "n": 2,
+          "role": "反证",
+          "gist": "一旦要求先写出理由再打分，准确率骤降——说明刻意分析反而干扰判断。",
+          "note": "Critically 是强调副词，提示这是最关键的一组实验。vivid but misleading cues（生动但误导的线索）解释了为什么理性思考会帮倒忙。"
+        },
+        {
+          "n": 3,
+          "role": "补充证据 + 类比",
+          "gist": "识别欺骗也是靠直觉更准；心理学家用「开手动挡」作类比——想太多反而做不好。",
+          "note": "引语中的 stick shift（手动挡）类比是理解全文的钥匙：熟练动作一旦刻意去想就会失常。go on automatic pilot（自动巡航）对应中文的「凭本能」。"
+        },
+        {
+          "n": 4,
+          "role": "扩展 + 加限定",
+          "gist": "想太多还会损害偏好判断；但**只在决策复杂、信息量大时才成立**。",
+          "note": "but only if the decision was complex 是重要的**限定条件**，细节题常在这里设干扰项——把结论绝对化就错了。also 表示论证范围从「判断他人」扩大到「形成偏好」。"
+        },
+        {
+          "n": 5,
+          "role": "收束 + 限定",
+          "gist": "直觉只在特定场合管用：反思性任务（辨别规则、理解词汇）靠直觉会变差，创造性任务（想新产品、造修辞）靠直觉会变好。",
+          "note": "only in certain circumstances 是全篇的**限定**，防止把论点绝对化。末句 Sometimes the heart is smarter than the head 是画龙点睛——注意 Sometimes 这个限定词，主旨题选项若写成 always 就错了。"
+        }
+      ]
+    },
+    {
+      "id": "y21p5",
+      "source": "2021 英语二 完形填空",
+      "topic": "考核目标的意外后果",
+      "type": "反常识立论—实例—机制—让步收束",
+      "mainIdea": "给员工设一个单一考核目标并不难，难的是预见它的负面后果：工作行为大多是多维的，只优化一个维度，其他维度就会被扭曲。",
+      "structure": "反常识立论（1）→ 公交实例（2）→ 因果机制（3）→ 澄清立场并收束（4）",
+      "paragraphs": [
+        {
+          "n": 1,
+          "role": "反常识立论",
+          "gist": "设目标本身不难，难的是看清它的负面后果；工作行为大多是多维的，只盯一个维度就会让其他维度变形。",
+          "note": "开篇用 not difficult ... much harder 的对比把重心压在「后果」上，这是全文的论点句所在。本段还有几处空，主题仍是在说「单维目标会失真」，抓住 negatively / distorted 这两个词就能定调。"
+        },
+        {
+          "n": 2,
+          "role": "实例举证",
+          "gist": "拿伦敦公交举例：司机不在乎票有没有被查、乘客照样逃票，因为考核的是准点率而不是票款收入。",
+          "note": "整段是一串自问自答的反问句（Are they...? Never. / Do people...? Of course!）。反问句在完形填空里往往是「举例」的信号，读的时候要意识到作者不是在提问，是在摆事实。"
+        },
+        {
+          "n": 3,
+          "role": "因果机制",
+          "gist": "追因：考核准点率 → 加开班次、按时间奖惩 → 司机准时了，却撞上骑车人；换成安全或票款标准，司机行为立刻不同。任何单一标准都要牺牲别的维度。",
+          "note": "全篇最长的一段，靠两个平行的 If 假设句（time → safety）推进。段落推进链条是：Why? → Because the target is ... → 举例 → 换标准会怎样 → 所以说 Most jobs are multidimensional。抓住这条链，段末的结论句就是本段主旨。"
+        },
+        {
+          "n": 4,
+          "role": "澄清立场 + 收束",
+          "gist": "作者不是反对设目标，而是主张先把后果想清楚：好目标要同时包含时间、钱、质量、客户反馈等多个维度，难点在于不能只优化一两个维度。",
+          "note": "This is not an argument against ... But it is an argument for ... 是典型的「先澄清立场、再给主张」结构。态度题和主旨题常在这里设题——作者不是否定目标管理，而是否定「单一维度」。"
+        }
+      ]
+    },
+    {
+      "id": "y21p6",
+      "source": "2021 英语二 Part B",
+      "topic": "如何向上级表达不同意见",
+      "type": "总—分型（小标题匹配：标题立论 + 五条并列建议 + 选项区）",
+      "mainIdea": "向上级或资深同事提异议，关键不是把想法憋回去，也不是硬碰硬，而是按五条办法把话说到位：先攒够人和时机、把异议挂到共同目标上、用问句先征求许可、稳住语气和身体语言、把观点说成观点而不是事实。",
+      "structure": "题干说明（1）→ 亮出标题并提出问题（2）→ 先别急着开口（攒人、换私密场合）（3）→ 把异议挂到更高的共同目标上（4）→ 开口前先征求许可（5）→ 身体语言与语速要稳（6）→ 把话说得像观点而非事实（7）→ 三条候选小标题（8—10）",
+      "paragraphs": [
+        {
+          "n": 1,
+          "role": "题干说明",
+          "gist": "There are two extra subheadings which you do not need to use. —— 候选小标题的数量多于需要匹配的段落数，有两条是多余的。",
+          "note": "这一行是**题干说明，不是文章的一部分**，做题时先读它、然后立刻跳过。它给的是本题最重要的**数量信息**：候选标题多于正文段落，所以必然有段落配不上正确标题，也必然有标题用不上——这正是排除法能用得起来的前提。按本篇的实际结构：正文需要配标题的是第 3—7 段共 5 段，本段（题干）、第 2 段（标题加引言）、第 8—10 段（选项区）都不参与匹配。把它单独记成一段，是为了对原文的分段保持忠实，不要把它和标题段混读。"
+        },
+        {
+          "n": 2,
+          "role": "亮标题 + 提问开篇",
+          "gist": "标题 How to disagree with someone more powerful than you 已经点明全文主题：怎么跟比你权力大的人唱反调。正文先摆两个具体场景（老板提了一个你觉得行不通的新方案、资深同事给了一份你觉得不现实的时间表），接着连抛三问：有分歧时你说什么？值不值得说？要说又该怎么说？然后一句 Here's how to disagree with someone more powerful than you 把答案指向下文各段。",
+          "note": "本段是**标题所在处＋全文总起段**，是 Part B 里最该先读的一段：`How to disagree with someone more powerful than you` 直接告诉你主题是「向上提异议」，而 `Here's how to ...` 是典型的总起信号，看到它就应当预期下面**每一段各是一条具体办法**，而且办法都是动作——这正是小标题题标题句式的来源。三个连续问句（What do you say...? / How do you decide...? / what exactly should you say?）是**修辞性提问**，作者并不等你回答，它们只起「把话题从场景收拢到方法」的作用，不要当成阅读理解题去逐句作答。本段是引言，不出题。另外，标题里的 more powerful than you 是全文的**限定条件**：所有建议都建立在「对方权力更大、你不能硬顶」这个前提上，选项里若出现与「权力不对等」无关的说法就与本篇无关。"
+        },
+        {
+          "n": 3,
+          "role": "建议一（先别急着开口）",
+          "gist": "开口之前先做准备：也许你还没把问题想透，或者想先弄清群体的看法；如果你觉得别人也会反对，就不妨先把「同盟」聚起来，别人能给你的经验和信息会让你的异议更有分量。如果当时是在开会或其他公开场合，最好把谈话往后推——私下讨论会让那位掌权者少一些被威胁感。",
+          "note": "本段是**条件式建议段，全段没有一句概括性的主题句**，主旨要从一连串「如果你…你就…」里自己归纳：`Maybe you haven't finished thinking the problem through`、`If you think other people are going to disagree, too`、`It's also a good idea to delay the conversation`、`if you are in a meeting or other public space`。做题时的抓手是段末的**后果句** `Discussing the issue in private will make the powerful person feel less threatened`——`less threatened` 再次回扣标题里的 more powerful（权力不对等会让对方更容易感到受威胁），所以本段讲的是「时机、场合、先攒人」，而不是判断对错、也不是目标、更不是征求许可。本段没有对应的正确小标题，属 Part B 典型的**空档段/干扰段**：选项 E 的 judgements、F 的 shared goal、G 的 permission 三个关键词在本段一个都没出现。注意 `gather your army` 是比喻（＝先把支持你的人聚起来），不是真的要「召集军队」。"
+        },
+        {
+          "n": 4,
+          "role": "建议二（对应 F）",
+          "gist": "如果你的异议能被挂到一个更高的目的上，你就更容易被听见。真要开口时，别以为对方自然看得出这层关联，你得把这层关联明说出来，并给自己的说法交代背景，这样你才不会被视为一个难相处的下属，而被看成在推进共同目标的同事。这样一来，这场讨论就更像下棋，而不是打拳。",
+          "note": "本段是**主题句在段首**的建议段，本段的主题句就是第 1 句：`You're more likely to be heard if you can connect your disagreement to a higher purpose.`——`more likely ... if ...` 是「条件—结果」句式，条件部分 `connect your disagreement to a higher purpose` 就是本段的核心动作，正对 `[ F ] Identify a shared goal.`（connect ... to a higher purpose ＝ identify a shared goal）。第 2 句 `don't assume the link will be clear` 是把主张讲得更实的一层：既然关联不会自动被看见，就要 `state it overtly`。第 3 句里的 `not as a disagreeable subordinate but as a colleague who's trying to advance a common objective` 是**选 F 的决定性证据**：`common objective` 与 a shared goal 同义，`colleague` 也说明你把关系定位成「一起干活的同事」。末句 `more like a chess game than a boxing match` 用比喻收尾——下棋要算计、要顾及对手，打拳只想击倒对方，这个比喻正是「有共同目标」的形象说法，主旨题或推理题常拿它设题。另需注意：本段已有长难句分析（第 3 句），阅读时按成分切开即可，不要被 `contextualizing ... so that ...` 这一长串修饰拖住，主干只有 `You'll want to state it overtly`。"
+        },
+        {
+          "n": 5,
+          "role": "建议三（对应 G）",
+          "gist": "你可以这样说：「我知道我们似乎正在朝第一季度的承诺推进，但我有理由认为这行不通，我想把我的理由摆一摆，可以吗？」——这就把选择权交给了对方，让他亲口答应；而一旦他答应了，你开口表达异议时也会更有底气。",
+          "note": "本段是**示例型建议段，主题句藏在段末**：段首直接给一段示范台词，段末两句才交代这条办法的道理——`This gives the person a choice, allowing him to verbally opt in` 和 `And, assuming he says yes, it will make you feel more confident about voicing your disagreement`。本段对应 `[ G ] Ask permission to disagree.`：证据就是台词里最后那句 `Would that be OK?`，以及段末的 `assuming he says yes`——「先问一句行不行、等对方点头」正是 ask permission。做题时的对比关系要理清：`This gives the person a choice` 是**把决定权交出去**（对应 permission），而 `it will make you feel more confident about voicing your disagreement` 是**你得到的收益**（对应 disagree），两层合起来才把 G 的两半都对上。注意选项 G 的措辞是 ask permission to **disagree**，不是 ask permission to speak：许可的对象是「提异议」这件事本身，所以只盯住 `Would that be OK?` 而忽略 `voicing your disagreement` 就会漏掉一半依据。本段的两句长难句分析见本文件 sentences 第 2 条。"
+        },
+        {
+          "n": 6,
+          "role": "建议四？（身体语言与语气）",
+          "gist": "当你的身体语言流露出不情愿或焦虑时，它会削弱你想传递的信息：你会同时发出两套信号，对方就挑对他有利的来读。深呼吸有帮助，把话说慢一点、稳一点也有帮助。人一慌就容易说得又响又快；只要放慢节奏、用平和的语调，对方会冷静下来，你自己也一样，而且这样会让你显得自信，哪怕你并不自信。",
+          "note": "本段是**方法型建议段（怎么做）**，段落结构是「问题（身体语言泄底）→ 后果（对方挑信号读）→ 办法（深呼吸、放慢、平和语调）→ 附带好处（你显得自信）」。它与上一条（段 5，征求意见）合起来是「怎么把异议说出口」的一组，靠段首的 `When your body language communicates reluctance or anxiety` 与上一段的 `more confident` 形成呼应：上一段讲「心里有了底气」，本段讲「别让身体把底气泄掉」。本段在整个小节里没有配对的正确小标题，属第二个**空档段**——`body language`、`deep breaths`、`slowing the pace`、`even tone` 这些关键词在 E、F、G 三条候选标题里都没有对应项。做题价值在于**排除法**：只要能确认本段讲的是「语气、语速、身体语言」，就可以把它直接归给多余选项，从而把 E、F、G 留给真正切题的三段。文中 `It sends a mixed message, and your counterpart gets to choose what signals to read` 是典型的后果句，态度题/细节题若问「身体语言不配合会怎样」，答案就在这一句，而不是在后面的深呼吸建议上。`It also makes you seem confident, even if you aren't` 又用 even if 加了一层让步，注意作者承认「这可能只是显得自信」，不是真的自信。"
+        },
+        {
+          "n": 7,
+          "role": "建议五？（把观点说成观点）",
+          "gist": "这也许是一个有充分依据、做过充分研究的看法，但它终究只是看法，所以说的时候要留有余地，略微压低你的把握程度：与其说「如果我们把截止日期定在季末，我们绝对完不成」，不如说「这只是我的看法，但我看不出我们怎么能赶上那个截止日期」。表明了自己的观点之后（是立场，不是事实），还要对其他看法表现出同样的好奇，提醒对方这是你的个人视角，然后主动请人批评，并乐于听取别人的意见。",
+          "note": "本段是**建议＋对照举例＋补充建议**的结构，段首第 1 句就是主题句：`It may be a well-informed, wellresearched opinion, but it's still an opinion, so talk tentatively and slightly understate your confidence.`——`may ... but ... so ...` 一口气完成「让步—转折—结论」，`talk tentatively and slightly understate your confidence` 是本段的核心动作。中间的 `Instead of saying: ..., say, ...` 是**直接引语式对照举例**，考场上一眼就能看出这是「换个说法」的建议，引号里的内容读大意即可，不必逐词翻译。段末 `Remind the person that this is your point of view, and then invite critique. Be open to hearing other opinions.` 又用两个祈使句把建议推向「不要把自己的判断当成事实」。本段同样**没有配对的正确小标题**（讲的是措辞与态度上的分寸，E 说的 judgements 是「不要评判别人」，方向不对）。理解本段的关键词是 `opinion / position / not as a fact` 这一组对立：作者要你区分「立场」和「事实」，这与第 4 段的 shared goal、第 5 段的 permission 属于不同层面，注意别把 `invite critique` 误读成征求意见（那是在你已经表态之后请人挑毛病）。"
+        },
+        {
+          "n": 8,
+          "role": "候选小标题一",
+          "gist": "[ E ] Don't make judgements.",
+          "note": "选项区的第一条。它是**祈使句式的动宾结构**，意思是「不要（对人或事）下判断、作评判」——judgement 在这里指对别人评头论足，不是「判断力」。它在本篇正文里**找不到落点**：正文五条建议讲的是时机、目标、许可、语气、措辞，没有一段在讲「别评判别人」，所以 E 是两条多余选项之一。要注意它和段 7 的干扰关系：段 7 说 `just my opinion, but I don't see how we will make that deadline`，表面像是在「不给结论」，但作者要的是**把观点说成观点**（措辞上的分寸），而不是「不要评判」，两者方向不同。小标题题里这种「字面沾边、话题不同」的选项就是用来骗人的。"
+        },
+        {
+          "n": 9,
+          "role": "候选小标题二（对应段 4）",
+          "gist": "[ F ] Identify a shared goal.",
+          "note": "选项区的第二条，意思是「找出一个共同的目标」。Identify 是「确定、指认出」，不是「实现」；shared goal 是「双方共同的目标」。它是**段 4 的正确答案**：段 4 主题句里的 `connect your disagreement to a higher purpose` 和随后的 `a colleague who's trying to advance a common objective` 与它逐词对应——higher purpose ＝ shared goal，connect ... to ... ＝ identify，advance ＝ 朝着目标推进。做题时的判断办法是**先看动词再看宾语**：本选项是「找出目标」，所以正文那段必须出现「目标/目的」类的名词（purpose、objective、goal），段 3 讲时机场合、段 5 讲问许可、段 6 讲语气、段 7 讲措辞，都拿不出这个宾语，只有段 4 有。"
+        },
+        {
+          "n": 10,
+          "role": "候选小标题三（对应段 5）",
+          "gist": "[ G ] Ask permission to disagree.",
+          "note": "选项区的第三条，意思是「请求允许自己提出不同意见」，是**段 5 的正确答案**。要看清它包含两个动作：ask permission（先问一句「可以吗」）和 disagree（要说的内容就是异议），缺一不可。段 5 里 `Would that be OK?` 是 ask permission 的直接体现，`assuming he says yes` 是「对方点头」这个条件，而 `voicing your disagreement` 正好落实 disagree。干扰点在于：正文里出现疑问句的段落容易让人误选，但段 5 的 `Would that be OK?` 问的是「我能不能把理由摆一摆」，问的对象正是「提异议」这件事，所以它不是客气话，而是本题的题眼。另外 `permission` 这个词在正文里并没有原词出现，靠的是语义同义替换——这也是小标题题最常见的设题方式：选项用概括词，正文用具体说法。"
+        }
+      ]
+    },
+    {
+      "id": "y21p7",
+      "source": "2021 英语二 翻译",
+      "topic": "与陌生人搭话的意外好处",
+      "type": "常理—反证—纠偏型",
+      "mainIdea": "我们习惯把亲友当成情感联结的主要来源，但研究证明与陌生人的日常交谈同样能提升情绪和归属感，阻碍我们的只是一种「人家不想理我」的错位焦虑。",
+      "structure": "常理铺垫（1）→ 研究反证（2）",
+      "paragraphs": [
+        {
+          "n": 1,
+          "role": "常理铺垫",
+          "gist": "我们想当然地认为亲友才是联结、欢笑与温暖的最大来源；研究却发现和陌生人互动也能提升情绪和归属感。",
+          "note": "两句合起来就是英译汉第一段的完整骨架：先立一个「人人都这么想」的常识，再用 While 让步加 researchers have found 把它翻过来。汉语译文的落点要放在「然而／不过」之后的发现上——阅卷时第 2 句的几个采分点（interacting with strangers 作主语、brings a boost in mood、feelings of belonging）都在这半句里，第 1 句只要译得顺、三个抽象名词不串位即可。"
+        },
+        {
+          "n": 2,
+          "role": "研究举证与纠偏",
+          "gist": "芝加哥通勤实验：被要求与身旁陌生人攀谈的人心情好于被告知保持沉默的人；研究者指出，我们回避闲聊往往是出于「对方可能不想跟我说话」的错位焦虑，而事实恰恰相反——多数人乐意交谈，甚至因你的关注而受宠若惊。",
+          "note": "这段按「实验 → 结论 → 转折 → 真相」推进：instructed ... to strike up a conversation 摆出实验，On average ... felt better than 给出结果，The researchers also argued 把结论拔到普遍人性，Much of the time, however 一转，As it turns out 再给出与直觉相反的事实。翻译时 however 要译出转折语气，否则「这种想法多半是错的」就接不上前一句；As it turns out 是固定说法，意思是「事实证明／原来」，不要直译成「当它转出来」。本段最后一句带破折号递进，是英译汉最容易丢掉「甚至」这层意思的地方。"
+        }
+      ]
+    },
+    {
+      "id": "y21p8",
+      "source": "2021 英语二 写作",
+      "topic": "Part A 书信（email）：邀请 Jack 参加线上会议并告知细节；Part B 柱状图作文：解读居民体育锻炼方式调查并评论",
+      "type": "应用文（邀请类书信/email）＋ 图表作文（说明＋议论）",
+      "mainIdea": "Part A 以李明的身份给留学生 Jack 写一封 email：说明你们正在筹办一场线上会议（online meeting），先正式邀请他参加，再把会议的时间、平台、议程、需要准备的事项等细节交代清楚（约 100 词，10 分）；Part B 根据所给柱状图写一篇约 150 词的短文：先解读图表数据——某市居民体育锻炼方式的调查结果，独自锻炼占 54.3% 最高，与朋友一起 47.7%，与家人一起 23.9%，参加团体活动 15.8% 最低——再分析原因并给出自己的评论（15 分）。两题都不许署真名，一律用 Li Ming。",
+      "structure": "Part A：称呼 → 自我介绍与写信目的（发出邀请）→ 交代会议细节（时间 / 平台 / 议程 / 准备事项）→ 期待回复与客套收尾 → 落款 Li Ming；Part B：概述图表并点数据（提纲要点1）→ 分析这一现象背后的原因 → 给出评论与展望（提纲要点2）",
+      "paragraphs": [
+        {
+          "n": 1,
+          "role": "提纲要点 1",
+          "gist": "对应 Part A 提纲第 1 点 invite him to participate：开门见山说明「我是谁、为什么写这封信」，并正式向 Jack 发出参加线上会议的邀请。题干明确给出了身份和事由——Suppose you are organizing an online meeting，所以第一段必须点出 online meeting 这个事由，不能只说 I would like to invite you to an activity，那样信息空、要点不落地。段落只写 2-3 句：自我介绍 + 事由 + 邀请，邀请的语气用 I would like to / I am writing to 这类委婉句式。",
+          "note": "【格式骨架，先贴出来】Dear Jack, 开头（题目已给出对方名字 Jack，用 Dear Jack 最稳；写 Dear Sir or Madam 会被判「没看清题目对象」，写 Dear friend 太随意）；结尾 Best regards, / Yours sincerely, 加落款 Li Ming（题目要求：Do not use your own name. Use “Li Ming” instead. 写真名或写成 Li Hua 直接丢格式分）。\n【自我介绍 + 写信目的，一句写完】\n· I am Li Ming, a student from ... University, and I am writing to invite you to ...\n· On behalf of our class / the Student Union, I am writing to extend a sincere invitation to you.\n· I am writing to invite you to attend an online meeting which we are going to hold next week.\n【发出邀请的三种句式，按正式程度递进】\n· I would like to invite you to participate in ...（最常用、最稳）\n· It would be a great pleasure for us if you could join us in ...\n· We would be honored to have you with us at ...\n【把事由说清楚，避免 information 空转】\n· We are organizing an online meeting on the theme of ...\n· The meeting is intended to / is aimed at discussing ...\n· Since you are an expert in ... / As you have a keen interest in ..., your presence would be of great value to us.\n【Part A 常考表达】invite sb. to do sth. 邀请某人做某事；participate in / take part in 参加；attend a meeting 出席会议；on behalf of 代表；extend an invitation 发出邀请；be aimed at 旨在；in response to 回应。\n【易错提醒】① 提纲第 1 点是 invite，第 2 点是 details，两点必须都写到；第一段只负责「邀请」这件事，别把时间地点全堆进来，否则第二段没内容可写、结构分也丢了；② 邀请类书信的语气是「客气但明确」，不要写成 Should you come 这种过于生硬的虚拟倒装，也不要写成 Come to our meeting 的祈使句。"
+        },
+        {
+          "n": 2,
+          "role": "提纲要点 2",
+          "gist": "对应 Part A 提纲第 2 点 tell him the details：把线上会议的具体安排交代清楚——什么时候开（time）、在哪里开（平台或链接：Tencent Meeting / Zoom / DingTalk）、会议主题和议程（theme and agenda）、他要准备什么或怎么确认参加（reply / prepare）。这是本题真正的得分重心，「细节」必须可见、可执行：用 To begin with / Besides / What is more 之类的信号词把两到三条信息摆清楚，每条一句，不要写成一大团。",
+          "note": "【交代时间，最常考也最容易写错】\n· The meeting is scheduled to be held from 2 p.m. to 4 p.m. on June 20th.\n· It will take place / be held next Friday afternoon, lasting about two hours.\n· 时间介词：具体钟点用 at，具体某天用 on，月份年份用 in（at 2 p.m. on June 20th）。\n【交代平台与进入方式】\n· The meeting will be held online via Tencent Meeting / on Zoom.\n· The meeting ID is ... and the password is ...; please log in ten minutes earlier.\n· I will send you the link before the meeting, so please check your email in time.\n【交代主题与议程】\n· The meeting is mainly about ... / The agenda includes ... and ...\n· We will first ... , and then ...（用 first / then / finally 排议程，字面就体现条理）\n【交代准备事项与回复要求】\n· Please prepare a short self-introduction / a brief report on ...\n· You are expected to / It would be appreciated if you could reply to me before Friday so that we can make arrangements.\n· If you have any questions, please feel free to contact me.\n【收尾与落款】\n· I am looking forward to your early reply. / I do hope you can make it.\n· Best regards, / Yours sincerely, / Li Ming\n【Part A 常考表达】be scheduled to 预定；take place 举行；via 通过；log in 登录；agenda 议程；in advance 提前；make arrangements 做安排；look forward to doing 期待做（to 是介词，后面接动名词，写成 look forward to hear 是最常见的低级错）。\n【易错提醒】① 提纲说的是 the details，所以细节一定要「有料」：时间、地点/平台、内容三样至少写全两样，只写 I will tell you the details later 等于没写；② 时态以一般将来时为主（会议还没开），介绍自己的身份和写信目的用一般现在时，两种时态混着用是 Part A 最常见的扣分点；③ 全信控制在 100 词左右，写超了不扣内容分但会挤掉检查时间，收尾句一到两句就够。"
+        },
+        {
+          "n": 3,
+          "role": "提纲要点 3",
+          "gist": "对应 Part B 的两个提纲要点，要一起消化：1) interpret the chart——描述图表是柱状图，说明调查对象是「某市居民体育锻炼方式」，并落到数据上：独自锻炼（doing exercise alone）占 54.3%，比例最高；与朋友一起（exercising with friends）47.7%；与家人一起（taking exercise with families）23.9%；参加团体活动（participating in group activities）15.8%，比例最低。2) give your comments——解释这种「以独自锻炼和结伴锻炼为主、团体活动最少」的分布背后的原因（健康意识增强、时间碎片化、独自锻炼更自由、结伴锻炼能互相督促），并给出正面评价与展望。篇幅约 150 词，标准配置是三段：描述段、分析段、评论段，其中「解读」和「评论」都要有，只抄数据不评论是本题最大的失分方式。",
+          "note": "【第一段：解读图表，四件套写全】\n· The bar chart given above reflects the statistics of a survey concerning different ways for residents to do their physical exercise in a certain city.\n· 点极值：Overall, doing exercise alone ranks the highest proportion, which accounts for 54.3%.\n· 排次序＋分别列数：The next is exercising with friends, with 47.7%, followed by taking exercise with families and participating in group activities, at 23.9% and 15.8% respectively.\n【图表作文高频词】bar chart 柱状图；statistics of a survey 调查数据；account for / make up 占（比例）；the proportion of ... 的比例；rank the highest / the lowest 排在最高/最低；followed by 紧随其后；respectively 分别；by contrast 相比之下；peak at 达到峰值；remain stable 保持稳定。\n【第二段：分析原因，两层就够】\n· Then what are the invisible and probable reasons behind this phenomenon mirrored by the chart?\n· To begin with, with the improvement of living standards, people are increasingly aware of the importance of physical fitness.\n· What is more, doing exercise alone gives one more freedom, since city dwellers are often short of time / their schedules are fragmented.\n· In addition, exercising with friends or families helps people keep each other motivated and makes exercise less boring.\n· 让步转折（显水平）：Admittedly, group activities are far less popular, but they are by no means less valuable.\n【第三段：评论与建议，态度要明确】\n· Given the analysis above, it can be concluded that this phenomenon is positive and therefore beneficial.\n· From my point of view, this trend is encouraging and deserves our attention.\n· As college students, we should take an active part in physical exercise rather than sit in front of screens all day.\n· Only by doing so can we keep fit both physically and mentally.（Only + 状语置句首引起部分倒装）\n· There is every reason to believe that this established trend is bound to continue in the forthcoming years.\n【易错提醒】① 解读图表必须「有数」，只写 the chart shows the ways of exercise 的空话拿不到描述分，至少要落到一个百分比或一组升降；② 数据不要逐个流水账，用「最高—其次—最后」的框架串起来，阅卷老师一眼就看到层次；③ 时态分层：描述图表数据用一般现在时（图表本身），谈原因和影响用一般现在时，谈建议用 should / must 或现在完成时；④ 提纲两句是并列的，comment 段绝不能被描述段挤掉——150 词里描述约占 60-70 词，分析 50 词，评论 40 词；⑤ 不要照抄 Directions 里的句子，阅卷时会被视为无效内容；⑥ 图表题目中的 a certain city / residents 照抄即可，不要自己编成具体城市名。"
+        }
+      ]
+    }
+  ]
+}

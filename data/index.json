@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "note": "内容按卷子分文件存放。每加一份新卷子，在这里加一行即可，不用改代码。",
+    "schema": "每个文件的结构是 { meta, cards } / { meta, sentences } / { meta, passages }"
+  },
+  "cards": [
+    "data/cards/2021.json",
+    "data/cards/2020.json"
+  ],
+  "sentences": [
+    "data/sentences/2021.json",
+    "data/sentences/2020.json",
+    "data/sentences/2007.json"
+  ],
+  "passages": [
+    "data/passages/2021.json",
+    "data/passages/2020.json",
+    "data/passages/2007.json"
+  ]
+}

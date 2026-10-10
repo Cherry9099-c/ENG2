@@ -1,0 +1,600 @@
+{
+  "meta": {
+    "note": "卡片内容来自 2021 考研英语二真题。例句为真题原句，source 标注了具体出处。",
+    "schema": {
+      "term": "词或短语",
+      "type": "word | phrase",
+      "phon": "音标",
+      "pos": "词性",
+      "cn": "全部释义",
+      "sense": "在这句真题里的具体意思（提分关键）",
+      "note": "辨析 / 搭配提示",
+      "context": { "source": "出处", "sentence": "真题原句", "translation": "参考译文" },
+      "tags": ["分类标签"]
+    }
+  },
+  "cards": [
+    {
+      "id": "y21t1-01",
+      "term": "reskill",
+      "type": "word",
+      "phon": "ˌriːˈskɪl",
+      "pos": "v.",
+      "cn": "（使）重新学习技能，再培训",
+      "sense": "再培训（让员工获得新技能）",
+      "note": "re-（重新）+ skill。英二 2021 Text 1 全篇主题词。名词 reskilling 出现 4 次",
+      "context": {
+        "source": "2021 英语二 Text 1",
+        "sentence": "\"Reskilling\" is something that sounds like a buzzword but is actually a requirement if we plan to have a future where a lot of would-be workers do not get left behind.",
+        "translation": "「再培训」听起来像个流行术语，但如果我们希望未来大量潜在劳动者不被落下，它就是必需的。",
+        "match": ["reskill", "reskilling", "reskilled", "reskills"]
+      },
+      "tags": ["高频", "职场类"]
+    },
+    {
+      "id": "y21t1-02",
+      "term": "buzzword",
+      "type": "word",
+      "phon": "ˈbʌzwɜːd",
+      "pos": "n.",
+      "cn": "流行术语，时髦词汇",
+      "sense": "听起来时髦但常被滥用的说法",
+      "note": "作者用 sounds like a buzzword but is actually... 制造「先抑后扬」的转折，是英二常见的态度表达",
+      "context": {
+        "source": "2021 英语二 Text 1",
+        "sentence": "\"Reskilling\" is something that sounds like a buzzword but is actually a requirement if we plan to have a future where a lot of would-be workers do not get left behind.",
+        "translation": "「再培训」听起来像个流行术语，但如果我们希望未来大量潜在劳动者不被落下，它就是必需的。"
+      },
+      "tags": ["态度词"]
+    },
+    {
+      "id": "y21t1-03",
+      "term": "thorny",
+      "type": "word",
+      "phon": "ˈθɔːni",
+      "pos": "adj.",
+      "cn": "棘手的，麻烦的；多刺的",
+      "sense": "（问题）棘手的、难以解决的",
+      "note": "同义替换：tricky / knotty / delicate。a thorny question 是固定说法",
+      "context": {
+        "source": "2021 英语二 Text 1",
+        "sentence": "The question of who should pay for reskilling is a thorny one.",
+        "translation": "谁该为再培训买单，是个棘手的问题。"
+      },
+      "tags": ["同义替换"]
+    },
+    {
+      "id": "y21t1-04",
+      "term": "languid",
+      "type": "word",
+      "phon": "ˈlæŋɡwɪd",
+      "pos": "adj.",
+      "cn": "倦怠的，无精打采的；（活动）不活跃的",
+      "sense": "（努力）软弱无力、不见成效",
+      "note": "本义是「没精神的」，这里形容政府的努力「疲软」。同段 arguably 表示作者留有余地，是英二常见的谨慎语气",
+      "context": {
+        "source": "2021 英语二 Text 1",
+        "sentence": "Efforts in Canada and elsewhere have been arguably languid at best, and have given us a situation where we frequently hear of employers begging for workers, even at times and in regions where unemployment is high.",
+        "translation": "加拿大和其他地方的举措往好里说也只能算是疲软无力，结果就是我们常常听说雇主招不到人，即使是在失业率高的时期和地区。"
+      },
+      "tags": ["态度词", "难词"]
+    },
+    {
+      "id": "y21t1-05",
+      "term": "mismatch",
+      "type": "word",
+      "phon": "ˈmɪsmætʃ",
+      "pos": "n./v.",
+      "cn": "错配，不匹配",
+      "sense": "（技能供需的）错配",
+      "note": "mis-（错）+ match。skills mismatch 是就业类文章的高频表达",
+      "context": {
+        "source": "2021 英语二 Text 1",
+        "sentence": "When the skills mismatch is in the broader economy though, the focus usually turns to government to handle.",
+        "translation": "不过，当技能错配出现在更宏观的经济层面时，关注点通常就转向政府来处理了。"
+      },
+      "tags": ["经济类"]
+    },
+    {
+      "id": "y21t1-06",
+      "term": "furlough",
+      "type": "word",
+      "phon": "ˈfɜːləʊ",
+      "pos": "v./n.",
+      "cn": "（临时）让…休假，停职；无薪休假",
+      "sense": "让员工暂时离岗休假",
+      "note": "疫情后高频词。注意是「临时休假」不是「解雇」，所以后文才有 reskilled the laid-off workers 的对比",
+      "context": {
+        "source": "2021 英语二 Text 1",
+        "sentence": "That seems to be the case in Sweden: When forced to furlough 90 per cent of their cabin staff, Scandinavian Airlines decided to start up a short retraining program that reskilled the laid-off workers to support hospital staff.",
+        "translation": "瑞典的情况似乎就是如此：被迫让 90% 的客舱员工休假后，北欧航空决定启动一个短期再培训项目，把这些被裁的员工培训成医院辅助人员。"
+      },
+      "tags": ["难词", "社会类"]
+    },
+    {
+      "id": "y21t2-01",
+      "term": "self-sufficiency",
+      "type": "word",
+      "phon": "ˌself səˈfɪʃnsi",
+      "pos": "n.",
+      "cn": "自给自足",
+      "sense": "（粮食）自给自足",
+      "note": "self-sufficient adj. 自给自足的。2021 Text 2 全篇围绕 food self-sufficiency 展开",
+      "context": {
+        "source": "2021 英语二 Text 2",
+        "sentence": "A move back to self-sufficiency, the argument goes, would boost the farming industry, political sovereignty and even the nation's health.",
+        "translation": "这种观点认为，回归自给自足将提振农业、政治主权乃至国民健康。"
+      },
+      "tags": ["经济类", "主题词"]
+    },
+    {
+      "id": "y21t2-02",
+      "term": "boost",
+      "type": "word",
+      "phon": "buːst",
+      "pos": "v./n.",
+      "cn": "促进，提高，提振；推动",
+      "sense": "提振（产业）",
+      "note": "写作高频：boost the economy / confidence / sales。注意 the argument goes 是插入语，去掉后句子才通顺",
+      "context": {
+        "source": "2021 英语二 Text 2",
+        "sentence": "A move back to self-sufficiency, the argument goes, would boost the farming industry, political sovereignty and even the nation's health.",
+        "translation": "这种观点认为，回归自给自足将提振农业、政治主权乃至国民健康。"
+      },
+      "tags": ["高频", "写作替换"]
+    },
+    {
+      "id": "y21t2-03",
+      "term": "sovereignty",
+      "type": "word",
+      "phon": "ˈsɒvrənti",
+      "pos": "n.",
+      "cn": "主权，统治权；自治权",
+      "sense": "（国家的）主权",
+      "note": "sovereign adj. 有主权的。Brexit 类文章的高频词",
+      "context": {
+        "source": "2021 英语二 Text 2",
+        "sentence": "A move back to self-sufficiency, the argument goes, would boost the farming industry, political sovereignty and even the nation's health.",
+        "translation": "这种观点认为，回归自给自足将提振农业、政治主权乃至国民健康。"
+      },
+      "tags": ["政治类"]
+    },
+    {
+      "id": "y21t2-04",
+      "term": "dominate",
+      "type": "word",
+      "phon": "ˈdɒmɪneɪt",
+      "pos": "v.",
+      "cn": "支配，主导；在…中占首要地位",
+      "sense": "（农业）以…为主",
+      "note": "be dominated by = 以…为主。形容词 dominant、名词 dominance 同族，阅读里常做同义替换",
+      "context": {
+        "source": "2021 英语二 Text 2",
+        "sentence": "There is a good reason why the UK is dominated by animal husbandry: most of its terrain doesn't have the right soil or climate to grow crops on a commercial basis.",
+        "translation": "英国以畜牧业为主是有充分理由的：它大部分地形的土壤和气候都不适合商业化种植农作物。",
+        "match": ["dominate", "dominated", "dominates", "dominating"]
+      },
+      "tags": ["高频"]
+    },
+    {
+      "id": "y21t2-05",
+      "term": "terrain",
+      "type": "word",
+      "phon": "təˈreɪn",
+      "pos": "n.",
+      "cn": "地形，地势；地带",
+      "sense": "（一国的）地形地貌",
+      "note": "不要和 territory（领土）混。地理类文章里 terrain 指「地形」本身",
+      "context": {
+        "source": "2021 英语二 Text 2",
+        "sentence": "There is a good reason why the UK is dominated by animal husbandry: most of its terrain doesn't have the right soil or climate to grow crops on a commercial basis.",
+        "translation": "英国以畜牧业为主是有充分理由的：它大部分地形的土壤和气候都不适合商业化种植农作物。"
+      },
+      "tags": ["环境类"]
+    },
+    {
+      "id": "y21t2-06",
+      "term": "husbandry",
+      "type": "word",
+      "phon": "ˈhʌzbəndri",
+      "pos": "n.",
+      "cn": "农牧业，饲养；妥善管理",
+      "sense": "animal husbandry 畜牧业",
+      "note": "几乎只以 animal husbandry 这个搭配出现。别按 husband（丈夫）去理解",
+      "context": {
+        "source": "2021 英语二 Text 2",
+        "sentence": "There is a good reason why the UK is dominated by animal husbandry: most of its terrain doesn't have the right soil or climate to grow crops on a commercial basis.",
+        "translation": "英国以畜牧业为主是有充分理由的：它大部分地形的土壤和气候都不适合商业化种植农作物。"
+      },
+      "tags": ["难词", "环境类"]
+    },
+    {
+      "id": "y21t3-01",
+      "term": "acquisition",
+      "type": "word",
+      "phon": "ˌækwɪˈzɪʃn",
+      "pos": "n.",
+      "cn": "收购，购置；获得；习得",
+      "sense": "（企业对企业的）收购",
+      "note": "动词 acquire（获得）。商业文章里 acquisition 常指「收购」，acqui-hire 是「收购式招聘」的造词",
+      "context": {
+        "source": "2021 英语二 Text 3",
+        "sentence": "This week, it asked the five most valuable US tech companies for information about their many small acquisitions over the past decade.",
+        "translation": "本周，它要求美国市值最高的五家科技公司提供过去十年间它们众多小型收购的信息。"
+      },
+      "tags": ["经济类"]
+    },
+    {
+      "id": "y21t3-02",
+      "term": "remorseless",
+      "type": "word",
+      "phon": "rɪˈmɔːsləs",
+      "pos": "adj.",
+      "cn": "无情的，毫无悔意的；持续不停的",
+      "sense": "（推进）毫不留情的",
+      "note": "-less 表否定，remorse 是「悔恨」。a remorseless drive 指「一股毫不留情的势头」",
+      "context": {
+        "source": "2021 英语二 Text 3",
+        "sentence": "To Microsoft's critics, the fates of Wunderlist and Sunrise are examples of a remorseless drive by Big Tech to chew up any innovative companies that lie in their path.",
+        "translation": "在微软的批评者看来，Wunderlist 和 Sunrise 的命运正是科技巨头无情吞噬任何挡路创新公司的例证。"
+      },
+      "tags": ["态度词", "难词"]
+    },
+    {
+      "id": "y21t4-01",
+      "term": "intuition",
+      "type": "word",
+      "phon": "ˌɪntjuˈɪʃn",
+      "pos": "n.",
+      "cn": "直觉，直觉力",
+      "sense": "直觉（相对于理性思考）",
+      "note": "本句是 rely on intuition instead of reflection 的对比结构，是全文论点：直觉判断有时优于深思熟虑",
+      "context": {
+        "source": "2021 英语二 Text 4",
+        "sentence": "Other research shows we're better at detecting deception from thin slices when we rely on intuition instead of reflection.",
+        "translation": "另有研究表明，当我们依靠直觉而非深思熟虑时，更能从少量片段中识别出欺骗。"
+      },
+      "tags": ["高频", "心理类"]
+    },
+    {
+      "id": "y21t4-02",
+      "term": "deception",
+      "type": "word",
+      "phon": "dɪˈsepʃn",
+      "pos": "n.",
+      "cn": "欺骗，欺诈；骗术",
+      "sense": "（他人的）欺骗行为",
+      "note": "动词 deceive，形容词 deceptive（有欺骗性的）。detect deception = 识破欺骗",
+      "context": {
+        "source": "2021 英语二 Text 4",
+        "sentence": "Other research shows we're better at detecting deception from thin slices when we rely on intuition instead of reflection.",
+        "translation": "另有研究表明，当我们依靠直觉而非深思熟虑时，更能从少量片段中识别出欺骗。"
+      },
+      "tags": ["心理类"]
+    },
+    {
+      "id": "y21t4-03",
+      "term": "deliberation",
+      "type": "word",
+      "phon": "dɪˌlɪbəˈreɪʃn",
+      "pos": "n.",
+      "cn": "深思熟虑，仔细考虑；审议",
+      "sense": "（决策前的）反复思考",
+      "note": "动词 deliberate。本文的立场是 deliberation 反而 extraneous and intrusive（多余且干扰）",
+      "context": {
+        "source": "2021 英语二 Text 4",
+        "sentence": "We're fairly good at judging people based on first impressions, thin slices of experience ranging from a glimpse of a photo to five-minute interaction, and deliberation can be not only extraneous but intrusive.",
+        "translation": "我们很擅长凭第一印象——从瞥一眼照片到五分钟互动这样的少量经验片段——来判断他人，而反复思考不仅多余，甚至会造成干扰。"
+      },
+      "tags": ["高频", "心理类"]
+    },
+    {
+      "id": "y21t4-04",
+      "term": "extraneous",
+      "type": "word",
+      "phon": "ɪkˈstreɪniəs",
+      "pos": "adj.",
+      "cn": "无关的，外来的，多余的",
+      "sense": "（对判断）无关紧要的",
+      "note": "考研难词。同义替换：irrelevant / unrelated。常搭配 extraneous information / details",
+      "context": {
+        "source": "2021 英语二 Text 4",
+        "sentence": "We're fairly good at judging people based on first impressions, thin slices of experience ranging from a glimpse of a photo to five-minute interaction, and deliberation can be not only extraneous but intrusive.",
+        "translation": "我们很擅长凭第一印象——从瞥一眼照片到五分钟互动这样的少量经验片段——来判断他人，而反复思考不仅多余，甚至会造成干扰。"
+      },
+      "tags": ["难词", "同义替换"]
+    },
+    {
+      "id": "y21t4-05",
+      "term": "intrusive",
+      "type": "word",
+      "phon": "ɪnˈtruːsɪv",
+      "pos": "adj.",
+      "cn": "侵入的，打扰的，扰人的",
+      "sense": "（对判断过程）构成干扰的",
+      "note": "动词 intrude（闯入）。not only extraneous but intrusive 是「不但…而且…」的递进，注意语义方向是负面的",
+      "context": {
+        "source": "2021 英语二 Text 4",
+        "sentence": "We're fairly good at judging people based on first impressions, thin slices of experience ranging from a glimpse of a photo to five-minute interaction, and deliberation can be not only extraneous but intrusive.",
+        "translation": "我们很擅长凭第一印象——从瞥一眼照片到五分钟互动这样的少量经验片段——来判断他人，而反复思考不仅多余，甚至会造成干扰。"
+      },
+      "tags": ["态度词", "难词"]
+    },
+    {
+      "id": "y21t4-06",
+      "term": "glimpse",
+      "type": "word",
+      "phon": "ɡlɪmps",
+      "pos": "n./v.",
+      "cn": "一瞥，一眼；瞥见",
+      "sense": "匆匆看一眼",
+      "note": "catch / get a glimpse of。本句 a glimpse of a photo 指「瞥一眼照片」这个极短的经验片段",
+      "context": {
+        "source": "2021 英语二 Text 4",
+        "sentence": "We're fairly good at judging people based on first impressions, thin slices of experience ranging from a glimpse of a photo to five-minute interaction, and deliberation can be not only extraneous but intrusive.",
+        "translation": "我们很擅长凭第一印象——从瞥一眼照片到五分钟互动这样的少量经验片段——来判断他人，而反复思考不仅多余，甚至会造成干扰。"
+      },
+      "tags": ["高频"]
+    },
+    {
+      "id": "y21t4-07",
+      "term": "correlate",
+      "type": "word",
+      "phon": "ˈkɒrəleɪt",
+      "pos": "v./n.",
+      "cn": "相关联，有相关性",
+      "sense": "（数据）高度相关",
+      "note": "固定搭配 correlate with。名词 correlation，形容词 correlated。数据类文章必考词",
+      "context": {
+        "source": "2021 英语二 Text 4",
+        "sentence": "Their ratings correlated strongly with students' end-of-semester ratings.",
+        "translation": "他们的评分与学生的期末评分高度相关。",
+        "match": ["correlate", "correlated", "correlates", "correlating"]
+      },
+      "tags": ["高频", "数据类"]
+    },
+    {
+      "id": "y21t4-08",
+      "term": "interference",
+      "type": "word",
+      "phon": "ˌɪntəˈfɪərəns",
+      "pos": "n.",
+      "cn": "干扰，干涉；阻碍",
+      "sense": "（对判断的）干扰",
+      "note": "动词 interfere（interfere with）。这里指「理性分析反而干扰了准确判断」",
+      "context": {
+        "source": "2021 英语二 Text 4",
+        "sentence": "She found similar interference when participants watched 15-second clips of pairs of people and judged whether they were strangers, friends, or dating partners.",
+        "translation": "当参与者观看一对对陌生人的 15 秒短片、判断他们是陌生人、朋友还是恋人时，她也发现了类似的干扰。"
+      },
+      "tags": ["心理类"]
+    },
+    {
+      "id": "y21pb-01",
+      "term": "objective",
+      "type": "word",
+      "phon": "əbˈdʒektɪv",
+      "pos": "n./adj.",
+      "cn": "目标，目的；客观的",
+      "sense": "（共同的）目标",
+      "note": "一词两义要按语境判断：本句是名词「目标」；而 objectively（第 4 篇）是副词「客观地」。写作里 common objective 比 common goal 更正式",
+      "context": {
+        "source": "2021 英语二 Part B",
+        "sentence": "You'll want to state it overtly, contextualizing your statements so that you're seen not as a disagreeable subordinate but as a colleague who's trying to advance a common objective.",
+        "translation": "你需要把话说明白，并给自己的说法提供背景，这样你就不会被视为一个不好相处的下属，而是一个在努力推进共同目标的同事。"
+      },
+      "tags": ["高频", "一词多义"]
+    },
+    {
+      "id": "y21pb-02",
+      "term": "subordinate",
+      "type": "word",
+      "phon": "səˈbɔːdɪnət",
+      "pos": "n./adj.",
+      "cn": "下属，下级；次要的，从属的",
+      "sense": "下级（相对上级而言）",
+      "note": "not as a disagreeable subordinate but as a colleague 是 not A but B 的对比结构，是本题的命题点",
+      "context": {
+        "source": "2021 英语二 Part B",
+        "sentence": "You'll want to state it overtly, contextualizing your statements so that you're seen not as a disagreeable subordinate but as a colleague who's trying to advance a common objective.",
+        "translation": "你需要把话说明白，并给自己的说法提供背景，这样你就不会被视为一个不好相处的下属，而是一个在努力推进共同目标的同事。"
+      },
+      "tags": ["职场类"]
+    },
+    {
+      "id": "y21pb-03",
+      "term": "overtly",
+      "type": "word",
+      "phon": "əʊˈvɜːtli",
+      "pos": "adv.",
+      "cn": "公开地，明显地，不加掩饰地",
+      "sense": "把话摆到明面上",
+      "note": "形容词 overt（公开的），反义 covert（隐蔽的）/ implicit。state it overtly = 明确说出来",
+      "context": {
+        "source": "2021 英语二 Part B",
+        "sentence": "You'll want to state it overtly, contextualizing your statements so that you're seen not as a disagreeable subordinate but as a colleague who's trying to advance a common objective.",
+        "translation": "你需要把话说明白，并给自己的说法提供背景，这样你就不会被视为一个不好相处的下属，而是一个在努力推进共同目标的同事。"
+      },
+      "tags": ["难词", "反义词"]
+    },
+    {
+      "id": "y21pb-04",
+      "term": "demonstrate",
+      "type": "word",
+      "phon": "ˈdemənstreɪt",
+      "pos": "v.",
+      "cn": "证明，说明；展示，表现出；示威",
+      "sense": "表现出（同等的求知欲）",
+      "note": "三个义项：论证 / 展示 / 游行。名词 demonstration。本句的 demonstrate curiosity 是「表现出好奇」",
+      "context": {
+        "source": "2021 英语二 Part B",
+        "sentence": "Having asserted your opinion (as a position, not as a fact), demonstrate equal curiosity about other views.",
+        "translation": "在表明了自己的看法（是作为一种立场，而非当作事实）之后，对其他观点要表现出同样的求知欲。",
+        "match": ["demonstrate", "demonstrates", "demonstrated", "demonstrating"]
+      },
+      "tags": ["高频", "一词多义"]
+    },
+    {
+      "id": "y21pb-05",
+      "term": "threaten",
+      "type": "word",
+      "phon": "ˈθretn",
+      "pos": "v.",
+      "cn": "威胁，恐吓；危及；预示凶兆",
+      "sense": "让（对方）感到受威胁",
+      "note": "feel threatened = 感到受威胁。形容词 threatening，名词 threat",
+      "context": {
+        "source": "2021 英语二 Part B",
+        "sentence": "Discussing the issue in private will make the powerful person feel less threatened.",
+        "translation": "私下讨论这个问题，会让那位有权势的人感到威胁没那么大。",
+        "match": ["threaten", "threatened", "threatens", "threatening"]
+      },
+      "tags": ["心理类"]
+    },
+    {
+      "id": "y21cl-01",
+      "term": "criterion",
+      "type": "word",
+      "phon": "kraɪˈtɪəriən",
+      "pos": "n.",
+      "cn": "标准，准则（复数为 criteria）",
+      "sense": "（评判的）标准",
+      "note": "单数 criterion，复数 criteria——写作中用错很扎眼。2021 完形填空里两个形式都出现了",
+      "context": {
+        "source": "2021 英语二 完形填空",
+        "sentence": "If the criterion changed to safety, you would get more drivers who obeyed traffic laws.",
+        "translation": "如果标准改成安全，你就会得到更多遵守交通法规的司机。"
+      },
+      "tags": ["高频", "易错复数"]
+    },
+    {
+      "id": "y21cl-02",
+      "term": "at the expense of",
+      "type": "phrase",
+      "phon": "ət ði ɪkˈspens əv",
+      "pos": "phr.",
+      "cn": "以…为代价",
+      "sense": "牺牲…换来的",
+      "note": "完形填空的命题点：前面说时间标准、安全标准各有好处，但「两者都以时间为代价」。写作中用于批判「只顾一点不顾其余」",
+      "context": {
+        "source": "2021 英语二 完形填空",
+        "sentence": "But both these criteria would be at the expense of time.",
+        "translation": "但这两个标准都要以时间为代价。"
+      },
+      "tags": ["高频短语", "写作替换"]
+    },
+    {
+      "id": "y21ph-01",
+      "term": "rely on",
+      "type": "phrase",
+      "phon": "rɪˈlaɪ ɒn",
+      "pos": "phr.",
+      "cn": "依赖，依靠；信赖",
+      "sense": "依靠（直觉）",
+      "note": "同义：depend on / count on / lean on。阅读中常做同义替换考点",
+      "context": {
+        "source": "2021 英语二 Text 4",
+        "sentence": "Other research shows we're better at detecting deception from thin slices when we rely on intuition instead of reflection.",
+        "translation": "另有研究表明，当我们依靠直觉而非深思熟虑时，更能从少量片段中识别出欺骗。"
+      },
+      "tags": ["高频短语", "同义替换"]
+    },
+    {
+      "id": "y21ph-02",
+      "term": "from the ground up",
+      "type": "phrase",
+      "phon": "frəm ðə ɡraʊnd ʌp",
+      "pos": "phr.",
+      "cn": "从头开始，彻底地；从地基开始",
+      "sense": "为智能手机世界从零设计",
+      "note": "联想记忆：盖房子从地基（ground）往上盖。同义：from scratch",
+      "context": {
+        "source": "2021 英语二 Text 3",
+        "sentence": "Microsoft's own Office dominates the market for \"productivity\" software, but the start-ups represented a new wave of technology designed from the ground up for the smartphone world.",
+        "translation": "微软自家的 Office 主导着「生产力」软件市场，但这些初创公司代表了一波为智能手机世界从零设计的新技术。"
+      },
+      "tags": ["高频短语"]
+    },
+    {
+      "id": "y21ph-03",
+      "term": "shy away from",
+      "type": "phrase",
+      "phon": "ʃaɪ əˈweɪ frəm",
+      "pos": "phr.",
+      "cn": "回避，躲避，畏缩不前",
+      "sense": "回避（与陌生人的随意交谈）",
+      "note": "shy 在这里是动词「畏缩」，不是形容词「害羞」。翻译题原文里的关键短语",
+      "context": {
+        "source": "2021 英语二 翻译",
+        "sentence": "The researchers also argued that when we shy away from casual interactions with strangers, it is often due to a misplaced anxiety that they might not want to talk to us.",
+        "translation": "研究人员还指出，我们回避与陌生人的随兴交流，往往是因为一种不必要的担心，怕对方不想和我们说话。"
+      },
+      "tags": ["高频短语", "熟词僻义"]
+    },
+    {
+      "id": "y21ph-04",
+      "term": "strike up",
+      "type": "phrase",
+      "phon": "straɪk ʌp",
+      "pos": "phr.",
+      "cn": "开始（交谈、友谊、乐队演奏）",
+      "sense": "主动搭话，攀谈起来",
+      "note": "strike up a conversation / a friendship / a band。注意 strike 的过去式是 struck",
+      "context": {
+        "source": "2021 英语二 翻译",
+        "sentence": "In one series of studies, researchers instructed Chicago-area commuters using public transportation to strike up a conversation with someone near them.",
+        "translation": "在一系列研究中，研究人员让芝加哥地区乘坐公共交通的通勤者主动与身边的人攀谈。"
+      },
+      "tags": ["高频短语"]
+    },
+    {
+      "id": "y21ph-05",
+      "term": "as it turns out",
+      "type": "phrase",
+      "phon": "əz ɪt tɜːnz aʊt",
+      "pos": "phr.",
+      "cn": "事实证明，结果发现",
+      "sense": "（与预期相反的）实际情况是",
+      "note": "turn out 表「结果是」。同义：in fact / actually。用于引出与上文预期相反的事实，是英二态度转折的信号词",
+      "context": {
+        "source": "2021 英语二 翻译",
+        "sentence": "As it turns out, many people are actually perfectly willing to talk—and may even be flattered to receive your attention.",
+        "translation": "事实证明，很多人其实非常愿意交谈——甚至可能因为得到你的关注而感到受宠若惊。"
+      },
+      "tags": ["高频短语", "逻辑词"]
+    },
+    {
+      "id": "y21ph-06",
+      "term": "hold off on",
+      "type": "phrase",
+      "phon": "həʊld ɒf ɒn",
+      "pos": "phr.",
+      "cn": "推迟，暂缓（做某事）",
+      "sense": "暂不（说出自己的看法）",
+      "note": "hold off 单独用也可以；on 后面接名词或动名词。同义：put off / delay / postpone",
+      "context": {
+        "source": "2021 英语二 Part B",
+        "sentence": "You may decide it's best to hold off on voicing your opinion.",
+        "translation": "你可能会认为，最好先不要说出自己的看法。"
+      },
+      "tags": ["高频短语"]
+    },
+    {
+      "id": "y21ph-07",
+      "term": "leave behind",
+      "type": "phrase",
+      "phon": "liːv bɪˈhaɪnd",
+      "pos": "phr.",
+      "cn": "留下，丢弃；使落后，把…甩在后面",
+      "sense": "（被动）被落下、掉队",
+      "note": "get left behind = 被落下。Text 1 的核心关切：不让潜在劳动者掉队",
+      "context": {
+        "source": "2021 英语二 Text 1",
+        "sentence": "\"Reskilling\" is something that sounds like a buzzword but is actually a requirement if we plan to have a future where a lot of would-be workers do not get left behind.",
+        "translation": "「再培训」听起来像个流行术语，但如果我们希望未来大量潜在劳动者不被落下，它就是必需的。",
+        "match": ["leave behind", "leaves behind", "left behind", "leaving behind"]
+      },
+      "tags": ["高频短语"]
+    }
+  ]
+}

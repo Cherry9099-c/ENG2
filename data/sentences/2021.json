@@ -1,0 +1,803 @@
+{
+  "meta": {
+    "note": "长难句分析，句子取自 2021 考研英语二真题。括号化标记：[ ] 从句，( ) 短语或插入成分。"
+  },
+  "sentences": [
+    {
+      "id": "y21s01",
+      "type": "并列谓语 + 定语从句嵌套 + 让步短语",
+      "en": "Efforts in Canada and elsewhere have been arguably languid at best, and have given us a situation where we frequently hear of employers begging for workers, even at times and in regions where unemployment is high.",
+      "main": "Efforts have been languid, and have given us a situation.",
+      "clauses": [
+        {
+          "part": "主语",
+          "text": "Efforts in Canada and elsewhere",
+          "note": "in Canada and elsewhere 是后置定语"
+        },
+        {
+          "part": "谓语1",
+          "text": "have been arguably languid at best",
+          "note": "arguably 表示作者留有余地；at best = 往好里说"
+        },
+        {
+          "part": "谓语2",
+          "text": "and have given us a situation",
+          "note": "与谓语1并列，共用主语 Efforts"
+        },
+        {
+          "part": "定语从句",
+          "text": "where we frequently hear of employers begging for workers",
+          "note": "修饰 situation；where = in which"
+        },
+        {
+          "part": "让步短语",
+          "text": "even at times and in regions where unemployment is high",
+          "note": "其中又套一个 where 定语从句修饰 times and regions"
+        }
+      ],
+      "bracket": "(Efforts in Canada and elsewhere) have been arguably languid at best, and have given us (a situation [where we frequently hear of employers begging for workers]), even (at times and in regions [where unemployment is high]).",
+      "cn": "加拿大和其他地方的举措往好里说也只能算是疲软无力，结果就是我们常常听说雇主招不到人，即使是在失业率高的时期和地区。",
+      "points": [
+        "and 连接两个并列谓语 have been 和 have given，主语都是 Efforts。不要误以为 and 后面是新句子",
+        "两个 where 都是关系副词引导定语从句：第一个修饰 situation，第二个修饰 times and regions。判断依据是 where 前面紧挨着的是地点/情况类名词",
+        "hear of sb doing sth 表示「听说某人做某事」，begging 是现在分词作宾语补足语",
+        "arguably + at best 是「委婉的负面评价」，表示作者认为情况不好但说得很克制。态度题里这类表达往往暗示批评"
+      ],
+      "words": [
+        "languid",
+        "frequently",
+        "employer",
+        "unemployment"
+      ],
+      "source": "2021 英语二 Text 1"
+    },
+    {
+      "id": "y21s02",
+      "type": "定语从句 + but 并列谓语（省略主语）+ 条件状语从句套定语从句 + 被动语态",
+      "en": "\"Reskilling\" is something that sounds like a buzzword but is actually a requirement if we plan to have a future where a lot of would-be workers do not get left behind.",
+      "main": "\"Reskilling\" is something that sounds like a buzzword but is actually a requirement ...",
+      "clauses": [
+        {
+          "part": "主语",
+          "text": "\"Reskilling\"",
+          "note": "带引号的动名词，指「再培训」这件事，作全句主语。引号在这里表示「被讨论的那个词」，不是引用某人的话"
+        },
+        {
+          "part": "定语从句 + 并列谓语",
+          "text": "that sounds like a buzzword but is actually a requirement",
+          "note": "that 从句修饰 something。从句内部 sounds 和 is 是两个并列谓语，共用关系代词 that（也就是主语）：字面上是「听起来像流行话术，实际上是硬需求」，but 一出现就说明前面那半句是让步、后面才是作者要肯定的"
+        },
+        {
+          "part": "条件状语从句",
+          "text": "if we plan to have a future",
+          "note": "if 引导条件。if 从句里的谓语用一般现在时 plan，主句却说的是当前的事实判断，属于「真实条件」，不要当成虚拟语气去理解"
+        },
+        {
+          "part": "定语从句",
+          "text": "where a lot of would-be workers do not get left behind",
+          "note": "where = in which，修饰 a future。先行词是表示「情形、阶段」的抽象名词时，照样用 where"
+        },
+        {
+          "part": "被动语态",
+          "text": "do not get left behind",
+          "note": "get + 过去分词 = be + 过去分词，但更强调「结果落到自己头上」。get left behind 意为「被落下、被淘汰」。do not 是否定，含义是「不让一大批人掉队」"
+        }
+      ],
+      "bracket": "(\"Reskilling\") is (something [that sounds like (a buzzword) but is actually (a requirement)]) [if we plan to have (a future) [where (a lot of would-be workers) do not get left behind]].",
+      "cn": "「再培训」这东西听起来像是个流行话术，但如果我们希望将来有一大批本可以工作的人不至于被甩下，它就是一项硬性需求。",
+      "points": [
+        "that 从句里塞了两个谓语（sounds / is），共用同一个主语 that。看到 but 就要意识到这是「先让步、后立论」：作者真正要肯定的是 requirement，buzzword 只是他要先承认的成见。第 1 段的段落作用就压在这一点上",
+        "if 从句挂在 requirement 后面而不是主句 is 后面：if 说明「什么情况下它才算需求」。读的时候可以把整个 if 块先划掉，主干 Reskilling is something that... 立刻清楚。这种从句不紧跟在被修饰词后面的情况，是长难句最容易断错层次的地方",
+        "where 修饰 a future。判断依据是 where 前面的名词是「未来的情形」而不是具体地点——同理还有 a situation / a point / a case where",
+        "get left behind 是 get + 过去分词的被动式，和 be left behind 意思相近但更口语。leave behind 本义「落下（东西）」，这里引申成「把人甩在后面」。这个表达是全篇的情感落点，也是态度题、主旨题的关键词"
+      ],
+      "words": [
+        "reskilling",
+        "buzzword",
+        "requirement",
+        "would-be"
+      ],
+      "source": "2021 英语二 Text 1"
+    },
+    {
+      "id": "y21s03",
+      "type": "of + who 引导的从句作后置定语（主谓分割）+ one 作代词",
+      "en": "The question of who should pay for reskilling is a thorny one.",
+      "main": "The question of who should pay for reskilling is a thorny one.",
+      "clauses": [
+        {
+          "part": "主语 + 后置定语",
+          "text": "The question of who should pay for reskilling",
+          "note": "真正的主语只是 The question，of 后面的 who 从句是它的后置定语。谁该付钱是「问题」的内容，不是句子的主语——the question / the issue / the problem of + wh- 从句是考研里高频的抽象名词结构"
+        },
+        {
+          "part": "介词 of 的宾语从句",
+          "text": "who should pay for reskilling",
+          "note": "who 引导的从句作介词 of 的宾语。pay for sth 里的 for 是介词，所以从句里用的是 pay for，不是 pay sb"
+        },
+        {
+          "part": "系表结构",
+          "text": "is a thorny one",
+          "note": "主干只有这 4 个词，被前面的 of 从句隔了 7 个词才出现"
+        },
+        {
+          "part": "代词 one",
+          "text": "a thorny one",
+          "note": "one 在这里是代词，指代前面的 question（= a thorny question），不是数词「一个」。a + 形容词 + one 是避免重复名词的固定表达方式"
+        }
+      ],
+      "bracket": "(The question) (of [who should pay for reskilling]) is (a thorny one).",
+      "cn": "该由谁来为再培训掏钱，这个问题很棘手。",
+      "points": [
+        "全句主语是 The question，不是 who。主语和谓语 is 之间插了 of who should pay for reskilling 共 7 个词，是典型的「主谓分割」——找到 is 后要往回找主语，别把 who 从句当成主语",
+        "the question of + 从句 = 「…的问题」。同类还有 the issue of whether / the problem of how。翻译时中文习惯是把这个从句提到前面当话题（「该由谁掏钱，这个问题…」），不能顺着英文语序硬译",
+        "句末的 one 是代词，回指 question。看到 a + 形容词 + one 的组合，先判断 one 指代哪个名词，否则会读成「一个棘手的东西」",
+        "thorny（棘手的、带刺的）一词直接给第 2 段定了调：这一段是全文的**争议段**，后面举 AT&T 的正面例子、说政府介入 languid，都是在回答这个 the question。读第 2 段时把这句当作总纲，细节题定位会快很多"
+      ],
+      "words": [
+        "thorny"
+      ],
+      "source": "2021 英语二 Text 1"
+    },
+    {
+      "id": "y21s04",
+      "type": "介词短语前置 + 同位语从句",
+      "en": "With the global population predicted to hit close to 10 billion by 2050, and forecasts that agricultural production in some regions will need to nearly double to keep pace, food security is increasingly making headlines.",
+      "main": "food security is making headlines.",
+      "clauses": [
+        {
+          "part": "状语1",
+          "text": "With the global population predicted to hit close to 10 billion by 2050",
+          "note": "with + 名词 + 过去分词，独立主格结构，表示伴随情况"
+        },
+        {
+          "part": "状语2",
+          "text": "and forecasts that agricultural production ... will need to nearly double to keep pace",
+          "note": "与状语1并列；forecasts 后面跟 that 同位语从句说明预测内容"
+        },
+        {
+          "part": "主语",
+          "text": "food security",
+          "note": "全句真正的主语，被前面 30 多个词的状语挡在后面"
+        },
+        {
+          "part": "谓语",
+          "text": "is increasingly making headlines",
+          "note": "make headlines = 成为新闻热点"
+        }
+      ],
+      "bracket": "With (the global population predicted to hit close to 10 billion by 2050), and (forecasts [that agricultural production in some regions will need to nearly double to keep pace]), food security is increasingly making headlines.",
+      "cn": "预计到 2050 年全球人口将逼近 100 亿，而且有预测称一些地区的农业生产需要近乎翻倍才能跟上需求，粮食安全正日益成为新闻热点。",
+      "points": [
+        "典型「头重脚轻」：句首两个 with 状语长达 30 词，主语 food security 到句中才出现。策略是先跳过状语找主语",
+        "with + 名词 + 过去分词（predicted）是独立主格，不是介词短语作定语；and forecasts 与 population 并列，都挂在 with 后面",
+        "forecasts 后的 that 从句是同位语从句（说明预测的内容），不是定语从句——判断依据是 that 在从句里不作成分"
+      ],
+      "words": [
+        "predicted",
+        "agricultural",
+        "forecast",
+        "headline"
+      ],
+      "source": "2021 英语二 Text 2"
+    },
+    {
+      "id": "y21s05",
+      "type": "定语从句 + 冒号解释分句",
+      "en": "There is a good reason why the UK is dominated by animal husbandry: most of its terrain doesn't have the right soil or climate to grow crops on a commercial basis.",
+      "main": "There is a good reason ... : most of its terrain doesn't have the right soil or climate.",
+      "clauses": [
+        {
+          "part": "主句",
+          "text": "There is a good reason",
+          "note": "there be 句型"
+        },
+        {
+          "part": "定语从句",
+          "text": "why the UK is dominated by animal husbandry",
+          "note": "why 引导定语从句修饰 reason；关系副词 why = for which"
+        },
+        {
+          "part": "解释分句",
+          "text": "most of its terrain doesn't have the right soil or climate to grow crops on a commercial basis",
+          "note": "冒号后面是对 reason 的具体解释，语法上是独立分句"
+        },
+        {
+          "part": "不定式",
+          "text": "to grow crops on a commercial basis",
+          "note": "修饰 soil or climate，表示「用来…的」"
+        }
+      ],
+      "bracket": "There is a good reason [why the UK is dominated by animal husbandry]: (most of its terrain) doesn't have (the right soil or climate) (to grow crops on a commercial basis).",
+      "cn": "英国以畜牧业为主是有充分理由的：它大部分地形的土壤和气候都不适合商业化种植农作物。",
+      "points": [
+        "why 在这里是关系副词引导定语从句，先行词是 reason。判断方法：去掉 why 后从句结构完整，说明它是状语性质的关系词",
+        "冒号后的分句是对前文的解释，不是并列句。阅读中看到冒号要意识到「后面才是重点」",
+        "on a commercial basis = 以商业化的方式，是英二常见的介词短语，常作方式状语"
+      ],
+      "words": [
+        "dominate",
+        "husbandry",
+        "terrain",
+        "commercial"
+      ],
+      "source": "2021 英语二 Text 2"
+    },
+    {
+      "id": "y21s06",
+      "type": "让步状语从句 + 插入的非限定性定语从句",
+      "en": "Even if we converted all the suitable land to fields of fruit and veg—which would involve taking out all the nature reserves and removing thousands of people from their homes—we would achieve only a 30 per cent boost in crop production.",
+      "main": "Even if we converted all the suitable land, we would achieve only a 30 per cent boost.",
+      "clauses": [
+        {
+          "part": "让步状语从句",
+          "text": "Even if we converted all the suitable land to fields of fruit and veg",
+          "note": "even if 引导；converted ... to ... = 把…改造成…"
+        },
+        {
+          "part": "插入定语从句",
+          "text": "which would involve taking out all the nature reserves and removing thousands of people from their homes",
+          "note": "非限定性定语从句，用破折号插入；which 指代前面整个「改造土地」这件事"
+        },
+        {
+          "part": "主句",
+          "text": "we would achieve only a 30 per cent boost in crop production",
+          "note": "虚拟语气 would，与 even if 从句呼应"
+        }
+      ],
+      "bracket": "[Even if we converted all the suitable land to fields of fruit and veg]—[which would involve taking out all the nature reserves and removing thousands of people from their homes]—we would achieve only a 30 per cent boost in crop production.",
+      "cn": "即使我们把所有适宜的土地都改成果蔬田——那将意味着取消所有自然保护区，并让数千人离开家园——农作物产量也只能提高 30%。",
+      "points": [
+        "两个破折号之间的 which 从句是插入成分，整块拿掉后句子立刻通顺：Even if we converted..., we would achieve only...",
+        "which 的先行词不是紧邻的 veg，而是前面整件事（改造全部土地）——非限定性定语从句中 which 常指代整个主句内容",
+        "involve 后接动名词：involve doing sth。这里 taking out 和 removing 并列作 involve 的宾语",
+        "even if 引导的让步状语从句用虚拟语气时，主句也用 would，注意时态呼应"
+      ],
+      "words": [
+        "convert",
+        "reserve",
+        "boost",
+        "production"
+      ],
+      "source": "2021 英语二 Text 2"
+    },
+    {
+      "id": "y21s07",
+      "type": "介词短语作状语 + 不定式作定语 + 定语从句",
+      "en": "To Microsoft's critics, the fates of Wunderlist and Sunrise are examples of a remorseless drive by Big Tech to chew up any innovative companies that lie in their path.",
+      "main": "the fates of Wunderlist and Sunrise are examples of a remorseless drive.",
+      "clauses": [
+        {
+          "part": "状语",
+          "text": "To Microsoft's critics",
+          "note": "To + 人 = 「在某人看来」，是全句的视角状语"
+        },
+        {
+          "part": "主语",
+          "text": "the fates of Wunderlist and Sunrise",
+          "note": "两个 App 的命运"
+        },
+        {
+          "part": "表语",
+          "text": "examples of a remorseless drive by Big Tech",
+          "note": "of 短语作后置定语修饰 examples；by Big Tech 说明 drive 的施动者"
+        },
+        {
+          "part": "不定式",
+          "text": "to chew up any innovative companies",
+          "note": "修饰 drive，说明这股势头「要做什么」"
+        },
+        {
+          "part": "定语从句",
+          "text": "that lie in their path",
+          "note": "修饰 companies；their 指 Big Tech 的"
+        }
+      ],
+      "bracket": "To Microsoft's critics, the fates of Wunderlist and Sunrise are examples of (a remorseless drive by Big Tech) (to chew up any innovative companies [that lie in their path]).",
+      "cn": "在微软的批评者看来，Wunderlist 和 Sunrise 的命运正是科技巨头无情吞噬任何挡路创新公司的例证。",
+      "points": [
+        "To + 名词/代词 放句首表示「在…看来」，是作者观点的信号词，态度题常考",
+        "a remorseless drive by Big Tech to chew up... 是「名词 + by + 施动者 + to do」的链式后置修饰，中文要倒过来译",
+        "that lie in their path 修饰 companies 而不是 Tech；判断依据是 lie 用复数形式，与 companies 一致",
+        "chew up 本义「嚼碎」，这里引申为「吞并、搞垮」"
+      ],
+      "words": [
+        "remorseless",
+        "innovative",
+        "chew",
+        "critic"
+      ],
+      "source": "2021 英语二 Text 3"
+    },
+    {
+      "id": "y21s08",
+      "type": "让步状语从句的省略 + 动名词复合结构 + 定语从句（that 后插时间状语）",
+      "en": "Although only a research project at this stage, the request has raised the prospect of regulators wading into early-stage tech markets that until now have been beyond their reach.",
+      "main": "the request has raised the prospect of regulators wading into early-stage tech markets ...",
+      "clauses": [
+        {
+          "part": "让步状语从句（省略形式）",
+          "text": "Although only a research project at this stage",
+          "note": "Although 后面省略了 it is，只剩下表语。完整形式是 Although it is only a research project at this stage——从句主语与主句主语一致、且谓语含 be 时可以这样省。读的时候看到「Although + 名词短语 + 逗号」不要去从句里找谓语，直接翻成「虽然（它）只是…」，让步语气交给后面的主句去兑现"
+        },
+        {
+          "part": "主句",
+          "text": "the request has raised the prospect of regulators wading into early-stage tech markets",
+          "note": "raise the prospect of sth = 让「…」有了可能、让人看到…的前景。of 后面不是普通名词，而是 regulators wading into ... 这个动名词复合结构：regulators 是 wading 的逻辑主语。若按「监管者的前景」理解，整句就散了。request 指本段上一句 FTC 索要信息这件事"
+        },
+        {
+          "part": "定语从句",
+          "text": "that until now have been beyond their reach",
+          "note": "修饰 markets，不是修饰 prospect 或 request——判断依据是谓语用复数 have been，与 markets 一致。until now 是插在 that 和谓语之间的时间状语，先跳过它把 that have been 连起来读。beyond one's reach = 够不着、力所不及，their 回指 regulators：这些市场此前不在监管机构管辖范围内"
+        }
+      ],
+      "bracket": "Although (only a research project) (at this stage), (the request) has raised (the prospect) of (regulators wading into early-stage tech markets) [that until now have been beyond their reach].",
+      "cn": "虽然现阶段这只是一项研究，但这一要求已经让人看到了监管机构介入早期科技市场的可能——而这些市场此前一直不在它们的管辖范围之内。",
+      "points": [
+        "「Although + 名词/形容词短语」是让步状语从句的省略式，省掉的是主语和 be 动词。阅读时先在逗号处断句，把这块整体当让步状语，主干要从逗号之后的 the request 才开始找",
+        "prospect of sb doing sth 是动名词复合结构，sb 是 doing 的逻辑主语。同类还有 risk of / possibility of / chance of + 动名词，of 后面一律不能按「所属关系」去译",
+        "从句谓语的数就是定位题眼：have been 是复数，所以 that 只能修饰 markets。考研细节题常问「这项要求的重大意义」，答案落点正是 raised the prospect of regulators wading into ...",
+        "本句是全文的**转折点**：前两句还在陈述事实（FTC 索要信息），这一句把它升级为「监管要进入一个此前碰不到的领域」。第 6 段的让步（金额太小、也许没必要）和第 7 段的 However 结论，都是围绕这句抛出的「监管介入」展开的。until now 是时间对比信号：以前够不着，现在要够着了"
+      ],
+      "words": [
+        "research",
+        "prospect",
+        "regulator",
+        "wading",
+        "beyond",
+        "reach"
+      ],
+      "source": "2021 英语二 Text 3"
+    },
+    {
+      "id": "y21s09",
+      "type": "Given 引导的状语 + 动名词作主语 + 破折号插入语（独立主格）+ 系表结构",
+      "en": "Given their combined market value of more than $5. 5 trillion, rifling through such small deals—many of them much less prominent than Wunderlist and Sunrise—might seem beside the point.",
+      "main": "rifling through such small deals ... might seem beside the point",
+      "clauses": [
+        {
+          "part": "Given 引导的状语",
+          "text": "Given their combined market value of more than $5. 5 trillion",
+          "note": "Given + 名词短语 = 「考虑到…」，是提出前提的状语，绝不能译成「被给予」。their 指上一段的 the five most valuable US tech companies，combined 是「合计的」。原文这里写着 $5. 5 trillion（点号后有一个空格，是原文自带的），按 5.5 万亿读即可"
+        },
+        {
+          "part": "主语（动名词短语）",
+          "text": "rifling through such small deals",
+          "note": "动名词短语作主语，真正的谓语是后面被推得很远的 might seem。rifle through 是「翻查、逐个翻检」。such small deals 指这些小额收购案。找主干的办法：先把两个破折号之间的内容整块括掉，剩下的就是「动名词主语 + might seem + 表语」"
+        },
+        {
+          "part": "插入语（独立主格）",
+          "text": "many of them much less prominent than Wunderlist and Sunrise",
+          "note": "破折号之间是「代词 + 形容词短语」的独立主格，等于 many of them are much less prominent than ...，省略了 are。它没有自己的谓语，不是新分句，整块可以先跳过；them 回指 small deals。prominent 是「显眼的、有名的」，比较对象是第 1 段那两个 App"
+        },
+        {
+          "part": "谓语与表语",
+          "text": "might seem beside the point",
+          "note": "seem 后面接介词短语作表语，beside the point = 离题、无关紧要。might 加 seem 是双重弱化，语气是「看上去也许没什么意义」——作者在替反方说话，不是在表态"
+        }
+      ],
+      "bracket": "(Given their combined market value of more than $5. 5 trillion), (rifling through such small deals)—(many of them much less prominent than Wunderlist and Sunrise)—(might seem beside the point).",
+      "cn": "考虑到这五家公司的市值合计超过 5.5 万亿美元，去翻查这样一些小交易——其中许多远不如 Wunderlist 和 Sunrise 出名——似乎毫无意义。",
+      "points": [
+        "Given + 名词短语是「考虑到…」，同族还有 Given that + 从句。它引出的是让步段的前提，不是原因，不要译成「因为」而把语气读死",
+        "主语是动名词短语 rifling through such small deals，谓语 might seem 被破折号插入语隔开十几词。这类句子找主干靠「先括掉破折号」——标点就是作者给的语法提示",
+        "破折号之间的 many of them much less prominent than ... 是独立主格（省略 are），不是分句。判断方法：看它有没有自己的谓语，没有就整块跳过，做题时它通常只承担次要的细节信息",
+        "beside the point = 无关紧要、不是重点；might seem 是让步语气。**本段整体是让步段**，作者在这里替「金额这么小，查也没用」这一方立论，第 7 段才用 However 把结论翻过来：金额小不等于影响小。若把本句当成作者立场，主旨题和态度题都会选错"
+      ],
+      "words": [
+        "combined",
+        "rifling",
+        "prominent",
+        "beside"
+      ],
+      "source": "2021 英语二 Text 3"
+    },
+    {
+      "id": "y21s10",
+      "type": "同位语 + 分词短语 + 并列分句",
+      "en": "We're fairly good at judging people based on first impressions, thin slices of experience ranging from a glimpse of a photo to five-minute interaction, and deliberation can be not only extraneous but intrusive.",
+      "main": "We're fairly good at judging people, and deliberation can be not only extraneous but intrusive.",
+      "clauses": [
+        {
+          "part": "分句1",
+          "text": "We're fairly good at judging people based on first impressions",
+          "note": "based on = 基于；分词短语作状语"
+        },
+        {
+          "part": "同位语",
+          "text": "thin slices of experience ranging from a glimpse of a photo to five-minute interaction",
+          "note": "thin slices 是 first impressions 的同位语；ranging from...to... 是现在分词短语作后置定语"
+        },
+        {
+          "part": "分句2",
+          "text": "and deliberation can be not only extraneous but intrusive",
+          "note": "与分句1并列；not only ... but (also) ... 递进"
+        }
+      ],
+      "bracket": "We're fairly good at judging people (based on first impressions), ((thin slices of experience) (ranging from a glimpse of a photo to five-minute interaction)), and (deliberation) can be not only extraneous but intrusive.",
+      "cn": "我们很擅长凭第一印象——从瞥一眼照片到五分钟互动这样的少量经验片段——来判断他人，而反复思考不仅多余，甚至会造成干扰。",
+      "points": [
+        "这句的难点是找并列边界：and 连接的是两个完整分句（We're... 和 deliberation can be...），第一个逗号后的 thin slices 只是同位语，不是新分句",
+        "ranging from A to B 是现在分词短语，逻辑主语是 thin slices；range from...to... 表示「范围从…到…」",
+        "not only extraneous but intrusive 是递进，语义方向是负面的——作者在说「理性分析反而帮倒忙」，态度题的关键"
+      ],
+      "words": [
+        "extraneous",
+        "intrusive",
+        "deliberation",
+        "glimpse",
+        "interaction"
+      ],
+      "source": "2021 英语二 Text 4"
+    },
+    {
+      "id": "y21s11",
+      "type": "比较级副词插在动词与介词之间 + 时间状语从句（含被动语态）+ 介词短语内部的并列省略",
+      "en": "College students' ratings of strawberry jams and college courses aligned better with experts' opinions when the students weren't asked to analyze their rationale.",
+      "main": "College students' ratings ... aligned better with experts' opinions when the students weren't asked to analyze their rationale.",
+      "clauses": [
+        {
+          "part": "主语",
+          "text": "College students' ratings of strawberry jams and college courses",
+          "note": "中心词是 ratings（评分），不是 college courses。of 后面挂两个并列的宾语，第二个 college courses 前省略了 of——of strawberry jams and (of) college courses，属于「介词短语内部的并列省略」，一眼扫过去很容易误以为 courses 是另一个主语"
+        },
+        {
+          "part": "谓语 + 比较状语",
+          "text": "aligned better with experts' opinions",
+          "note": "句子的主干动词其实是 align with（与……一致），中间夹了比较级副词 better，于是变成 aligned better with。副词的比较级修饰动词时插在动词和它的介词之间，这类「动词 + 比较级 + 介词」是英二细节题最爱的同义替换点：aligned better with = 与……吻合度更高"
+        },
+        {
+          "part": "时间状语从句",
+          "text": "when the students weren't asked to analyze their rationale",
+          "note": "when 在这里不是「当……的时候」，而是「在……的情况下」，是实验条件的说明。aren't asked to do 是被动：「没被要求做某事」，等于主动的 if they weren't asked。译文重心落在「不分析理由时反而更准」，这正是全文论点（深思帮倒忙）的又一次实验证据"
+        },
+        {
+          "part": "从句中的不定式",
+          "text": "to analyze their rationale",
+          "note": "作 ask 的宾语补足语，与前面的被动语态合起来是 ask sb to do 的被动式。rationale 是「（自己的）理由、道理」，不是理由的复数形式——它是单数名词，考研里常被当作 reason 的替换词出现在同义改写选项里"
+        }
+      ],
+      "bracket": "(College students' ratings of strawberry jams and college courses) aligned better with (experts' opinions) [when the students weren't asked (to analyze their rationale)].",
+      "cn": "大学生给草莓果酱和大学课程打分时，如果没有被要求说明自己的理由，他们的评分反而更贴近专家的意见。",
+      "points": [
+        "主语是 ratings，谓语是 aligned with，中间那个 better 是比较级副词，不是 be better 那种系表结构。误把 better 当谓语，后面的 with experts' opinions 就没了着落",
+        "of strawberry jams and college courses 里第二个 of 被省略，courses 仍是 of 的宾语，整个短语一起修饰 ratings。如果读成「学生们和大学课程」，主谓搭配立刻出错",
+        "when 引导的时间从句在这里带条件意味（在「不被要求分析理由」的条件下）。第 4 段举了果酱、课程、买车三个例子，用的都是「不去分析反而更好」这个句式——抓住这组平行，主旨题就是「直觉优于刻意分析」，细节题要看清每个例子的具体条件",
+        "aren't asked to analyze 是被动语态，中文不能直译成「没被要求去分析」就收尾，最好补出施动者：没有人要求他们说理由"
+      ],
+      "words": [
+        "rationale",
+        "align",
+        "jam"
+      ],
+      "source": "2021 英语二 Text 4"
+    },
+    {
+      "id": "y21s12",
+      "type": "被动语态 + only 限定 + 现在分词短语作后置定语 + 两个并列定语从句（各带括号举例）",
+      "en": "In one study, participants completed a battery of eight tasks, including four that tapped reflective thinking (discerning rules, comprehending vocabulary) and four that tapped intuition and creativity (generating new products or figures of speech).",
+      "main": "participants completed a battery of eight tasks ... including four ... and four ...",
+      "clauses": [
+        {
+          "part": "地点/范围状语",
+          "text": "In one study",
+          "note": "放在句首交代研究来源，等于「有一项研究是这么做的」。它是论据的出处标记，跳读不影响主干，但细节题问「实验怎么设计的」时要靠它定位"
+        },
+        {
+          "part": "主句",
+          "text": "participants completed a battery of eight tasks",
+          "note": "主干只有六个词。a battery of = 一整套、一连串，在这里是「一组（八项）任务」；battery 不译成「电池」，这是考研里典型的熟词僻义"
+        },
+        {
+          "part": "分词短语作后置定语",
+          "text": "including four that tapped reflective thinking ... and four that tapped intuition and creativity",
+          "note": "including 引出的现在分词短语挂在 eight tasks 后面，把八项任务拆成「四项 / 四项」两组。注意这里不是主句的第二个谓语——including 没有自己的主语，completed 才是全句唯一的谓语动词"
+        },
+        {
+          "part": "定语从句 1 + 括号举例",
+          "text": "four that tapped reflective thinking (discerning rules, comprehending vocabulary)",
+          "note": "that tapped reflective thinking 修饰 four，即「四项考察反思性思维的任务」。括号里的 discerning rules, comprehending vocabulary 是动名词短语，用具体例子解释什么叫 reflective thinking；括号是插入成分，整块拿掉语法照样完整"
+        },
+        {
+          "part": "定语从句 2 + 括号举例",
+          "text": "and four that tapped intuition and creativity (generating new products or figures of speech)",
+          "note": "与前面那个 four 并列，第二个 that 从句和第一个结构完全相同，形成对照：reflective thinking 对 intuition and creativity。这组对照就是全段乃至全文的骨架——第 5 段末句说直觉在前四项上帮倒忙、在后四项上有帮助，靠的就是这个分组。tap 在这里是「开发、利用（某种能力）」，不是「轻敲」"
+        }
+      ],
+      "bracket": "(In one study), (participants) completed (a battery of eight tasks), (including) (four [that tapped reflective thinking] ((discerning rules, comprehending vocabulary))) and (four [that tapped intuition and creativity] ((generating new products or figures of speech))).",
+      "cn": "在一项研究中，参与者要完成一整套共八项任务，其中四项考察反思性思维（比如判断规则、理解词汇），另外四项考察直觉和创造力（比如构想新产品或创造新的修辞说法）。",
+      "points": [
+        "全句只有一个谓语 completed。including 是分词，后面那一长串 four that... and four that... 全都挂在 eight tasks 上作补充说明。把 including 当谓语，句子就会读成「完成了八项任务，还包括四项任务」，逻辑重复",
+        "a battery of 是「一组、一套」，battery 在这里与电池无关；tap 在这里是「发掘、考察（某种能力）」，两个都是熟词僻义，正是英二词义题的材料",
+        "两个括号各是一组动名词短语，属于对抽象名词的举例说明。读的时候可以先整体跳过，回头再看——它们不影响主干，但细节题的选项常拿括号里的例子来做「张冠李戴」的干扰",
+        "两组任务（reflective thinking 对 intuition and creativity）不是随便并列，而是为后文的结果做铺垫：同一批人在两类任务上表现相反，才证明直觉不是万能、只在特定情境管用——这正对应第 5 段首句的限定"
+      ],
+      "words": [
+        "participant",
+        "battery",
+        "tap",
+        "reflective",
+        "creativity"
+      ],
+      "source": "2021 英语二 Text 4"
+    },
+    {
+      "id": "y21s13",
+      "type": "祈使句表条件 + and 引出结果 + how 宾语从句",
+      "en": "Travel on a London bus and you'll see how this works with drivers.",
+      "main": "you'll see how this works with drivers",
+      "clauses": [
+        {
+          "part": "祈使句（=条件）",
+          "text": "Travel on a London bus",
+          "note": "这里的祈使句不是命令，而是条件：「只要你坐一趟公交」。等价于 If you travel on a London bus"
+        },
+        {
+          "part": "结果分句",
+          "text": "and you'll see how this works with drivers",
+          "note": "and 连接条件与结果。「祈使句 + and + 陈述句」是英语里非常常见的条件表达"
+        },
+        {
+          "part": "宾语从句",
+          "text": "how this works with drivers",
+          "note": "how 引导宾语从句作 see 的宾语；work 在这里是「起作用、运转」，不是「工作」"
+        }
+      ],
+      "bracket": "(Travel on a London bus) and (you'll see [how this works with drivers]).",
+      "cn": "去坐一趟伦敦的公交车，你就会明白这套逻辑在司机身上是怎么起作用的。",
+      "points": [
+        "祈使句 + and + 陈述句 = 条件句，等价于 If you travel..., you'll see...。反过来「祈使句 + or」表示「否则」",
+        "work 在 this works 里是「起作用、运转」，看到 work 要先判词义而不是词性",
+        "this 指代上一段说的「单维目标会扭曲其他维度」，读的时候要往上找指代对象"
+      ],
+      "words": [
+        "driver"
+      ],
+      "source": "2021 英语二 完形填空"
+    },
+    {
+      "id": "y21s14",
+      "type": "虚拟条件句 + 定语从句",
+      "en": "If the criterion changed to safety, you would get more drivers who obeyed traffic laws.",
+      "main": "you would get more drivers who obeyed traffic laws",
+      "clauses": [
+        {
+          "part": "条件状语从句",
+          "text": "If the criterion changed to safety",
+          "note": "与现在事实相反的虚拟：从句用过去式 changed，主句用 would + 动词原形"
+        },
+        {
+          "part": "主句",
+          "text": "you would get more drivers",
+          "note": "would get 是虚拟语气的主句形式，不是「将会」的将来时"
+        },
+        {
+          "part": "定语从句",
+          "text": "who obeyed traffic laws",
+          "note": "修饰 drivers。obeyed 也是过去式，但它是虚拟语气的一部分，不表示「过去发生过」"
+        }
+      ],
+      "bracket": "[If the criterion changed to safety], you would get more (drivers [who obeyed traffic laws]).",
+      "cn": "如果把考核标准换成安全，你就会有更多遵守交通规则的司机。",
+      "points": [
+        "If + 过去式, would + do 是与现在事实相反的虚拟语气。直接按过去时读会读成「已经改了标准」，意思完全错",
+        "criterion 的复数是 criteria，考研里出现频率很高，不要当成两个不同的词",
+        "本段用两个平行的 If 假设句（先时间、后安全）推进论证。找到这组平行结构，整段的骨架就出来了"
+      ],
+      "words": [
+        "criterion",
+        "obey",
+        "traffic"
+      ],
+      "source": "2021 英语二 完形填空"
+    },
+    {
+      "id": "y21s15",
+      "type": "分词状语 + 目的状语从句 + not as...but as 对比",
+      "en": "You'll want to state it overtly, contextualizing your statements so that you're seen not as a disagreeable subordinate but as a colleague who's trying to advance a common objective.",
+      "main": "You'll want to state it overtly.",
+      "clauses": [
+        {
+          "part": "主句",
+          "text": "You'll want to state it overtly",
+          "note": "主干，只有 6 个词"
+        },
+        {
+          "part": "分词状语",
+          "text": "contextualizing your statements",
+          "note": "现在分词作伴随状语，逻辑主语是 you"
+        },
+        {
+          "part": "目的状语从句",
+          "text": "so that you're seen not as a disagreeable subordinate but as a colleague",
+          "note": "so that 引导目的；内部含 not as A but as B 的对比"
+        },
+        {
+          "part": "定语从句",
+          "text": "who's trying to advance a common objective",
+          "note": "修饰 colleague"
+        }
+      ],
+      "bracket": "You'll want to state it overtly, (contextualizing your statements) [so that you're seen (not as a disagreeable subordinate) but (as a colleague [who's trying to advance a common objective])].",
+      "cn": "你需要把话说明白，并给自己的说法提供背景，这样你就不会被视为一个不好相处的下属，而是一个在努力推进共同目标的同事。",
+      "points": [
+        "主干极短（You'll want to state it overtly），后面挂了三层修饰。阅读时先把主干抓住，再一层层加回来",
+        "not as A but as B 是「不是作为 A，而是作为 B」的对比。注意译文顺序要和中文习惯一致",
+        "被动语态 you're seen as... 在这里比主动更自然，因为重点在「别人怎么看你」",
+        "分词状语 contextualizing 的逻辑主语必须和主句主语一致（都是 you），这是分词作状语的基本要求"
+      ],
+      "words": [
+        "overtly",
+        "contextualize",
+        "subordinate",
+        "objective"
+      ],
+      "source": "2021 英语二 Part B"
+    },
+    {
+      "id": "y21s16",
+      "type": "主句（be likely to 比较结构）+ if 条件状语从句 + 介词短语作补足成分",
+      "en": "You're more likely to be heard if you can connect your disagreement to a higher purpose.",
+      "main": "You're more likely to be heard ... if you can connect your disagreement to a higher purpose.",
+      "clauses": [
+        {
+          "part": "主句（被动语态 + 比较结构）",
+          "text": "You're more likely to be heard",
+          "note": "形式上是 You are likely（你很可能会…），但比较级 more likely 一出现就说明后面必有比的对象，答案在 if 从句里。to be heard 是被动不定式：被听见的是「你」，动作的执行者没出现，作者故意不提「谁来听」——因为重点是你够不够格被听见，而不是谁在听"
+        },
+        {
+          "part": "条件状语从句",
+          "text": "if you can connect your disagreement to a higher purpose",
+          "note": "if 从句是这句的信息核心，也是本段的办法所在。connect A to B 里的 to 是介词，后面接名词或动名词，不能接动词原形；can 在这里不是「能够」的能力，而是「只要你能做到」的条件，语气很轻"
+        },
+        {
+          "part": "介词短语（作 connect 的补足成分）",
+          "text": "to a higher purpose",
+          "note": "higher purpose 意为「更高的目的」，指超出你个人得失的共同目标。它不是形容词比较级在比某个具体对象，而是固定说法：把话题从「我想要什么」抬到「我们要什么」。读到这里要立刻反应出段 4 的主旨词 common objective"
+        }
+      ],
+      "bracket": "(You're (more likely) (to be heard)) [if you can (connect your disagreement) (to a higher purpose)].",
+      "cn": "如果你能把你的不同意见跟一个更高的目标挂上钩，你就更有可能被听进去。",
+      "points": [
+        "more likely 是比较级，比较的对象不写出来而是藏在 if 从句里：比的是「挂上更高目标」和「不挂上」两种情况。翻译时要补出这层对比，否则中文会读不出比较的意思",
+        "to be heard 是不定式的被动式。be likely to do 换成被动就是 be likely to be done，考研里常见 You're likely to be asked...，看到 to be + 过去分词要能认出是被动不定式而不是完成时",
+        "connect ... to ... 的 to 是介词。同类高频搭配还有 attribute A to B、link A to B、expose sb to sth，写成 to do 就错",
+        "本句是第 4 段（对应小标题 F）的主题句，也是**选 F 的第一顺位依据**：higher purpose 对应 a shared goal，connect ... to ... 对应 identify。做题时不必读完本段，抓住这句就能定答案",
+        "被动语态 you're heard 把「你」放在主语位置，暗含作者的态度：向上提异议的目标不是「说赢」，而是「被听见」。态度题若把它读成「作者鼓励你压过上级」就反了"
+      ],
+      "words": [
+        "likely",
+        "disagreement",
+        "purpose"
+      ],
+      "source": "2021 英语二 Part B"
+    },
+    {
+      "id": "y21s17",
+      "type": "独立成分（assuming 引导的分词短语，内含宾语从句）+ 主句 + 介词 + 动名词",
+      "en": "And, assuming he says yes, it will make you feel more confident about voicing your disagreement.",
+      "main": "assuming he says yes ... it will make you feel more confident about voicing your disagreement.",
+      "clauses": [
+        {
+          "part": "分词短语作条件状语（含宾语从句）",
+          "text": "assuming he says yes",
+          "note": "assuming 在这里已经连词化，等于 if（假如），不是「正在假设」。它自带一个省略 that 的宾语从句 he says yes。这类-ing 引导的条件成分在考研里反复出现，同类还有 considering（考虑到）、supposing（假如）、provided (that)（只要）——看到它们不要再去找主句谓语，主句在后面"
+        },
+        {
+          "part": "主句：主语 + 谓语",
+          "text": "it will make you feel more confident",
+          "note": "it 回指上一句的 This gives the person a choice（你把选择权交给对方这件事）。make you feel 是 make + 宾语 + 动词原形，feel 前不带 to——这是 make 与 cause 的关键差别，cause sb to do 必须带 to。confident 是宾语补足语，说的是「你」，不是「他」"
+        },
+        {
+          "part": "介词短语（about + 动名词）",
+          "text": "about voicing your disagreement",
+          "note": "about 是介词，后面只能接名词或动名词，所以 voice 变成 voicing。voice 在这里是动词，意为「表达、说出（意见）」，不是名词「嗓音」——这是本句最容易读错的一个词"
+        }
+      ],
+      "bracket": "(And), (assuming [he says yes]), it will (make you) (feel) (more confident) (about voicing your disagreement).",
+      "cn": "而且，假如他说了「行」，这也会让你更有底气把自己的不同意见说出来。",
+      "points": [
+        "assuming 相当于 if，引导的是条件而不是伴随动作。区分办法：看它和主句主语的关系——「你」并不是「假设」这个动作的发出者，所以它不是伴随状语，而是作者加的一个前提",
+        "make you feel 中 feel 前省略 to，而 cause sb to do 必须带 to、get sb to do 也带 to。这一组动词的差别是完形和改错的高频考点",
+        "about 后面用动名词 voicing：介词后的动词一律变 -ing。voice 作动词是「表达（意见）」，与名词「嗓音」同形而不同义，考研爱考这种「熟词僻义」",
+        "more confident 的主语是 you，不是 he：句子里同时出现 he 和 you，读的时候必须盯住 make you feel 这个结构，否则会译成「他更自信」",
+        "本句是第 5 段（对应小标题 G）的**收益句**，与段首那段示范台词里的 Would that be OK? 构成一条完整逻辑：先问许可（ask permission）→ 对方点头 → 你更有底气开口（voice your disagreement）。选 G 时，本句的 voicing your disagreement 是把「许可」和「提异议」扣在一起的那一环"
+      ],
+      "words": [
+        "assuming",
+        "confident",
+        "voicing",
+        "disagreement"
+      ],
+      "source": "2021 英语二 Part B"
+    },
+    {
+      "id": "y21s18",
+      "type": "让步状语从句 + 宾语从句套定语从句 + 动名词短语作主语",
+      "en": "While that may well be true, researchers have also recently found that interacting with strangers actually brings a boost in mood and feelings of belonging that we didn't expect.",
+      "main": "researchers have also recently found that interacting with strangers actually brings a boost in mood and feelings of belonging.",
+      "clauses": [
+        {
+          "part": "让步状语从句",
+          "text": "While that may well be true",
+          "note": "while 在句首、主句又带 also 的转向意味，取让步义「虽然」，不是「当…的时候」。may well 是「很可能」，不是「可以很好地」"
+        },
+        {
+          "part": "主句",
+          "text": "researchers have also recently found",
+          "note": "主干极短。also 表明这是对上一句常理的补充性反驳，而不是另起话题"
+        },
+        {
+          "part": "宾语从句",
+          "text": "that interacting with strangers actually brings a boost in mood and feelings of belonging",
+          "note": "that 引导宾语从句；从句主语是动名词短语 interacting with strangers，是单数概念，所以谓语用 brings"
+        },
+        {
+          "part": "定语从句",
+          "text": "that we didn't expect",
+          "note": "修饰的是 a boost，不是紧挨着的 belonging。判断依据是语义：没料到的是「有提升」，不是「有归属感」"
+        }
+      ],
+      "bracket": "[While that may well be true], researchers have also recently found [that (interacting with strangers) actually brings (a boost in mood and feelings of belonging) [that we didn't expect]].",
+      "cn": "这话很可能没错，但研究人员最近还发现，和陌生人打交道其实能让人心情变好、更有归属感，这是我们原先没有料到的。",
+      "points": [
+        "while 两义（当…时／虽然）是英译汉的常见陷阱。这里从句讲的是上一句的常理、主句用 also 提出相反证据，只能取「虽然」。译成「当这可能是真的时」整句就塌了",
+        "interacting with strangers 是动名词短语作从句主语，不是现在分词作状语。译成汉语要还原成动词「和陌生人打交道」，不能译成「与陌生人的互动」再硬塞进「带来」的主语位置——那样句子会头重脚轻",
+        "a boost in mood and feelings of belonging 里连词 and 卡在 mood 和 feelings 之间，in 只管到 mood：是「情绪的提振 ＋ 归属感」，不是「情绪 ＋ 归属感的提振」。这一处最容易译串",
+        "that we didn't expect 修饰 a boost。汉语习惯把这种补充说明后置成一个小分句「这是我们没料到的」，比塞进定语「我们没料到的提升」更像人话"
+      ],
+      "words": [
+        "boost",
+        "belonging",
+        "interact",
+        "strangers"
+      ],
+      "source": "2021 英语二 翻译"
+    },
+    {
+      "id": "y21s19",
+      "type": "宾语从句 + 形式主语 it + 时间状语从句作真主语 + 同位语从句",
+      "en": "The researchers also argued that when we shy away from casual interactions with strangers, it is often due to a misplaced anxiety that they might not want to talk to us.",
+      "main": "The researchers also argued that ... it is often due to a misplaced anxiety ...",
+      "clauses": [
+        {
+          "part": "主句",
+          "text": "The researchers also argued",
+          "note": "argue 在这里是「论证、主张」，不是「争论、吵架」。后面的 that 引导宾语从句，一直管到句末，「现象」和「原因」都装在这一个从句里"
+        },
+        {
+          "part": "时间状语从句",
+          "text": "when we shy away from casual interactions with strangers",
+          "note": "shy away from = 回避、躲开，是固定搭配，from 后接名词或动名词。casual interactions 指「随意的交谈」，不是「随便的关系」"
+        },
+        {
+          "part": "宾语从句中的主句",
+          "text": "it is often due to a misplaced anxiety",
+          "note": "it 是形式主语，真正的主语是前面的 when 从句。due to 是形容词性短语，前面必须有 be 动词。misplaced 是「放错位置的」，引申为「错位的、不该有的」"
+        },
+        {
+          "part": "同位语从句",
+          "text": "that they might not want to talk to us",
+          "note": "说明 anxiety 的具体内容。they 指 strangers。这里 that 不作成分，所以是同位语从句而不是定语从句"
+        }
+      ],
+      "bracket": "The researchers also argued [that [when we shy away from casual interactions with strangers], it is often due to (a misplaced anxiety) [that they might not want to talk to us]].",
+      "cn": "研究者还指出，我们之所以回避与陌生人的随意交谈，往往是因为一种多余的担心：怕对方并不想跟我们说话。",
+      "points": [
+        "when 从句在这个宾语从句里是真正的主语，it 只是形式主语。翻译时不能保留 it，要按汉语的因果顺序改成「我们之所以回避…，往往是因为…」，这是本句最核心的语序调整采分点",
+        "due to 是形容词性的，前面必须有 be：it is due to ...。写成 dues to 或让 due to 直接接句子都是错的；译成汉语时要变成动词「是因为」",
+        "misplaced anxiety 不能直译成「被放错的焦虑」。misplaced 在这里是「不该有的、错位的」，汉语里「多余的担心」或「不必要的顾虑」才是人话；直接说「错位的焦虑」读者要停一下才懂",
+        "that they might not want to talk to us 是同位语从句，说明担心的是什么，译文用冒号引出「怕对方并不想跟我们说话」最自然",
+        "紧接着的两句是翻译题的剩余部分：Much of the time, however, this belief is false.（this belief 回指本句的 misplaced anxiety，however 插在句中，转折的是「这种想法」而不是整段）与 As it turns out, many people are actually perfectly willing to talk—and may even be flattered to receive your attention.（破折号后的 may even be ... 是递进，与 are willing to talk 并列共用主语，译文必须补出「甚至」，否则两件事成了平列，语气掉一档）",
+        "be flattered 是被动语态，但汉语习惯说「受宠若惊」而不是「被奉承」。被动转主动、或转成汉语固有的四字表达，是英译汉里被动句的通用处理办法"
+      ],
+      "words": [
+        "casual",
+        "misplaced",
+        "anxiety",
+        "strangers"
+      ],
+      "source": "2021 英语二 翻译"
+    }
+  ]
+}

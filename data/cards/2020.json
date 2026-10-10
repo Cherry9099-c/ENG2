@@ -1,0 +1,588 @@
+{
+  "meta": {
+    "note": "卡片内容来自 2020 考研英语二真题。例句为真题原句，source 标注具体出处。",
+    "paper": "2020 英语二"
+  },
+  "cards": [
+    {
+      "id": "y20t1-01",
+      "term": "asocial",
+      "type": "word",
+      "phon": "eɪˈsəʊʃl",
+      "pos": "adj.",
+      "cn": "不合群的，不喜社交的；反社会的",
+      "sense": "（机器鼠）不参与社交的",
+      "note": "a-（否定）+ social。文中把机器鼠分成 one social and one asocial 作对照实验，是解题的关键设定",
+      "context": {
+        "source": "2020 英语二 Text 1",
+        "sentence": "They housed eight adult rats with two types of robotic rat—one social and one asocial—for four days.",
+        "translation": "他们让八只成年鼠与两种机器鼠——一种爱社交、一种不爱社交——共同生活了四天。"
+      },
+      "tags": ["反义词", "实验类"]
+    },
+    {
+      "id": "y20t1-02",
+      "term": "attuned",
+      "type": "word",
+      "phon": "əˈtjuːnd",
+      "pos": "adj.",
+      "cn": "适应的，习惯的；敏感的，能察觉的",
+      "sense": "对…高度敏感的",
+      "note": "固定搭配 be attuned to（对…敏感/熟悉）。这里是说动物必须敏锐捕捉同伴的社交信号",
+      "context": {
+        "source": "2020 英语二 Text 1",
+        "sentence": "Rats and other animals need to be highly attuned to social signals from others so they can identify friends to cooperate with and enemies to avoid.",
+        "translation": "老鼠和其他动物必须对他人的社交信号高度敏感，才能识别出可以合作的朋友和需要躲避的敌人。"
+      },
+      "tags": ["搭配题", "动物行为"]
+    },
+    {
+      "id": "y20t1-03",
+      "term": "resemble",
+      "type": "word",
+      "phon": "rɪˈzembl",
+      "pos": "v.",
+      "cn": "像，与…相似",
+      "sense": "外形上像…",
+      "note": "resemble 是及物动词，**不能加 with 或 to**（不能说 resemble with）。名词 resemblance",
+      "context": {
+        "source": "2020 英语二 Text 1",
+        "sentence": "The robot rats were quite minimalist, resembling a chunkier version of a computer mouse with wheels to move around and colourful markings.",
+        "translation": "这些机器鼠相当极简，像是一个更厚实的电脑鼠标，带轮子可以移动，还有彩色的标记。",
+        "match": ["resemble", "resembles", "resembled", "resembling"]
+      },
+      "tags": ["易错搭配"]
+    },
+    {
+      "id": "y20t1-04",
+      "term": "minimalist",
+      "type": "word",
+      "phon": "ˈmɪnɪməlɪst",
+      "pos": "adj./n.",
+      "cn": "极简主义的，简约的；极简主义者",
+      "sense": "设计极简的",
+      "note": "minimum → minimal → minimalist。作者用 quite minimalist 暗示机器鼠结构简单，为下文「简单机器也能影响社交」埋伏笔",
+      "context": {
+        "source": "2020 英语二 Text 1",
+        "sentence": "The robot rats were quite minimalist, resembling a chunkier version of a computer mouse with wheels to move around and colourful markings.",
+        "translation": "这些机器鼠相当极简，像是一个更厚实的电脑鼠标，带轮子可以移动，还有彩色的标记。"
+      },
+      "tags": ["科技类"]
+    },
+    {
+      "id": "y20t2-01",
+      "term": "governance",
+      "type": "word",
+      "phon": "ˈɡʌvənəns",
+      "pos": "n.",
+      "cn": "治理，管理；统治方式",
+      "sense": "公司治理",
+      "note": "corporate governance 是固定搭配（公司治理）。动词 govern，名词 government。经济类文章高频",
+      "context": {
+        "source": "2020 英语二 Text 2",
+        "sentence": "By most measures, corporate governance has become a lot tighter and more rigorous since the 1970s.",
+        "translation": "从大多数衡量标准看，自 20 世纪 70 年代以来，公司治理已经严密和严格了许多。"
+      },
+      "tags": ["经济类", "固定搭配"]
+    },
+    {
+      "id": "y20t2-02",
+      "term": "rigorous",
+      "type": "word",
+      "phon": "ˈrɪɡərəs",
+      "pos": "adj.",
+      "cn": "严格的，严密的；缜密的",
+      "sense": "（治理）更严格的",
+      "note": "同义替换：strict / stringent / strict。常搭配 rigorous standards / analysis / testing",
+      "context": {
+        "source": "2020 英语二 Text 2",
+        "sentence": "By most measures, corporate governance has become a lot tighter and more rigorous since the 1970s.",
+        "translation": "从大多数衡量标准看，自 20 世纪 70 年代以来，公司治理已经严密和严格了许多。"
+      },
+      "tags": ["高频", "同义替换"]
+    },
+    {
+      "id": "y20t2-03",
+      "term": "corporation",
+      "type": "word",
+      "phon": "ˌkɔːpəˈreɪʃn",
+      "pos": "n.",
+      "cn": "大公司，企业；法人团体",
+      "sense": "（上市的）大公司",
+      "note": "注意与 cooperate / cooperation（合作）拼写相近但意思无关。形容词 corporate（公司的）",
+      "context": {
+        "source": "2020 英语二 Text 2",
+        "sentence": "It is true that CEO pay has gone up—top ones may make 300 times the pay of typical workers on average, and since the mid-1970s, CEO pay for large publicly traded American corporations has, by varying estimates, gone up by about 500%.",
+        "translation": "高管薪酬确实上涨了——顶尖 CEO 的收入平均可达普通员工的 300 倍；而且自 20 世纪 70 年代中期以来，按不同的估算，美国大型上市公司的 CEO 薪酬涨了约 500%。"
+      },
+      "tags": ["经济类", "易混词"]
+    },
+    {
+      "id": "y20t3-01",
+      "term": "hail",
+      "type": "word",
+      "phon": "heɪl",
+      "pos": "v./n.",
+      "cn": "称赞，把…誉为；招呼；冰雹",
+      "sense": "被称赞为…",
+      "note": "be hailed as = 被誉为。熟词僻义：多数人只记得「冰雹」，这里考的是「称赞」。同义：acclaim / praise",
+      "context": {
+        "source": "2020 英语二 Text 3",
+        "sentence": "Madrid was hailed as a public health beacon last November when it rolled out ambitious restrictions on the most polluting cars.",
+        "translation": "去年 11 月，马德里对污染最严重的汽车推出了雄心勃勃的限制措施，被誉为公共卫生的标杆。"
+      },
+      "tags": ["熟词僻义", "态度词"]
+    },
+    {
+      "id": "y20t3-02",
+      "term": "beacon",
+      "type": "word",
+      "phon": "ˈbiːkən",
+      "pos": "n.",
+      "cn": "灯塔；指路明灯，标杆",
+      "sense": "（公共卫生的）标杆、典范",
+      "note": "本义「灯塔」，引申为「榜样、标杆」。a beacon of hope / public health beacon",
+      "context": {
+        "source": "2020 英语二 Text 3",
+        "sentence": "Madrid was hailed as a public health beacon last November when it rolled out ambitious restrictions on the most polluting cars.",
+        "translation": "去年 11 月，马德里对污染最严重的汽车推出了雄心勃勃的限制措施，被誉为公共卫生的标杆。"
+      },
+      "tags": ["比喻义"]
+    },
+    {
+      "id": "y20t3-03",
+      "term": "enforcement",
+      "type": "word",
+      "phon": "ɪnˈfɔːsmənt",
+      "pos": "n.",
+      "cn": "执行，实施；执法",
+      "sense": "（对清洁空气区规定的）执行",
+      "note": "动词 enforce（执行、强制）。law enforcement 是「执法」。本文的核心矛盾就是「政策被暂停执行」",
+      "context": {
+        "source": "2020 英语二 Text 3",
+        "sentence": "Seven months and one election day later, a new conservative city council suspended enforcement of the clean air zone, a first step toward its possible demise.",
+        "translation": "七个月、一次选举日之后，新的保守派市政委员会暂停了清洁空气区的执行，这是其可能废止的第一步。"
+      },
+      "tags": ["政治类"]
+    },
+    {
+      "id": "y20t3-04",
+      "term": "suspend",
+      "type": "word",
+      "phon": "səˈspend",
+      "pos": "v.",
+      "cn": "暂停，中止；悬挂；使暂时停职",
+      "sense": "暂停（规定的执行）",
+      "note": "一词两义：本文是「暂停」；物理语境是「悬挂」。名词 suspension，形容词 suspended",
+      "context": {
+        "source": "2020 英语二 Text 3",
+        "sentence": "Seven months and one election day later, a new conservative city council suspended enforcement of the clean air zone, a first step toward its possible demise.",
+        "translation": "七个月、一次选举日之后，新的保守派市政委员会暂停了清洁空气区的执行，这是其可能废止的第一步。"
+      },
+      "tags": ["高频", "一词多义"]
+    },
+    {
+      "id": "y20t3-05",
+      "term": "demise",
+      "type": "word",
+      "phon": "dɪˈmaɪz",
+      "pos": "n./v.",
+      "cn": "终止，消亡，倒闭；死亡",
+      "sense": "（政策）废止",
+      "note": "考研难词。指制度、机构、事物的「终结」，比 end 更书面。常搭配 the demise of",
+      "context": {
+        "source": "2020 英语二 Text 3",
+        "sentence": "Seven months and one election day later, a new conservative city council suspended enforcement of the clean air zone, a first step toward its possible demise.",
+        "translation": "七个月、一次选举日之后，新的保守派市政委员会暂停了清洁空气区的执行，这是其可能废止的第一步。"
+      },
+      "tags": ["难词"]
+    },
+    {
+      "id": "y20t3-06",
+      "term": "overrule",
+      "type": "word",
+      "phon": "ˌəʊvəˈruːl",
+      "pos": "v.",
+      "cn": "否决，驳回，推翻（决定）",
+      "sense": "（法官）推翻（市政府决定）",
+      "note": "over-（压过）+ rule。法律语境专用词：法官推翻下级决定。别和 override（优先于、覆盖）混",
+      "context": {
+        "source": "2020 英语二 Text 3",
+        "sentence": "A judge has now overruled the city's decision to stop levying fines, ordering them reinstated.",
+        "translation": "一名法官现已推翻了该市停止征收罚款的决定，下令恢复征收。"
+      },
+      "tags": ["法律类"]
+    },
+    {
+      "id": "y20t3-07",
+      "term": "levy",
+      "type": "word",
+      "phon": "ˈlevi",
+      "pos": "v./n.",
+      "cn": "征收（税费、罚款）；征收额",
+      "sense": "征收（罚款）",
+      "note": "levy a tax / a fine on sb。同句里 reinstated（恢复）也值得记",
+      "context": {
+        "source": "2020 英语二 Text 3",
+        "sentence": "A judge has now overruled the city's decision to stop levying fines, ordering them reinstated.",
+        "translation": "一名法官现已推翻了该市停止征收罚款的决定，下令恢复征收。"
+      },
+      "tags": ["法律类", "经济类"]
+    },
+    {
+      "id": "y20t3-08",
+      "term": "vulnerable",
+      "type": "word",
+      "phon": "ˈvʌlnərəbl",
+      "pos": "adj.",
+      "cn": "脆弱的，易受伤害的；易受攻击的",
+      "sense": "（政策）容易被推翻的",
+      "note": "固定搭配 be vulnerable to。本文的逻辑链：措施有争议 → 因此脆弱 → 容易被推翻。这是因果推理题的关键",
+      "context": {
+        "source": "2020 英语二 Text 3",
+        "sentence": "Among other weaknesses, the measures cities must employ when left to tackle dirty air on their own are politically controversial, and therefore vulnerable.",
+        "translation": "除了其他弱点之外，让城市独自应对空气污染时所必须采取的措施在政治上是有争议的，因此也是脆弱的。"
+      },
+      "tags": ["高频", "因果逻辑"]
+    },
+    {
+      "id": "y20t3-09",
+      "term": "patchwork",
+      "type": "word",
+      "phon": "ˈpætʃwɜːk",
+      "pos": "n./adj.",
+      "cn": "拼凑之物，拼凑而成的东西；拼缝的",
+      "sense": "各自为政、零散拼凑的做法",
+      "note": "patch（补丁）+ work。作者用 patchwork, city-by-city approach 批评欧洲治污「各城市零散拼凑」，是态度题的关键词",
+      "context": {
+        "source": "2020 英语二 Text 3",
+        "sentence": "Madrid's back and forth on clean air is a pointed reminder of the limits to the patchwork, city-by-city approach that characterises efforts on air pollution across Europe, Britain very much included.",
+        "translation": "马德里在清洁空气问题上的反复，尖锐地提醒人们：欧洲（英国尤其包括在内）治污那种各城市零散拼凑的做法是有局限的。"
+      },
+      "tags": ["态度词", "难词"]
+    },
+    {
+      "id": "y20t3-10",
+      "term": "inevitably",
+      "type": "word",
+      "phon": "ɪnˈevɪtəbli",
+      "pos": "adv.",
+      "cn": "不可避免地，必然地",
+      "sense": "必然（把成本转嫁）",
+      "note": "形容词 inevitable。作者用 inevitably 表达「这种做法的后果是注定的」，暗含批评",
+      "context": {
+        "source": "2020 英语二 Text 3",
+        "sentence": "That's because they inevitably put the costs of cleaning the air on to individual drivers—who must pay fees or buy better vehicles—rather than on to the car manufacturers whose cheating is the real cause of our toxic pollution.",
+        "translation": "这是因为它们不可避免地把清洁空气的成本转嫁给了个人车主——他们必须缴费或购买更好的车——而不是转嫁给汽车制造商，而后者的作弊才是我们有毒污染的真正原因。"
+      },
+      "tags": ["态度词"]
+    },
+    {
+      "id": "y20t3-11",
+      "term": "manufacturer",
+      "type": "word",
+      "phon": "ˌmænjuˈfæktʃərə(r)",
+      "pos": "n.",
+      "cn": "制造商，生产商",
+      "sense": "汽车制造商",
+      "note": "动词 manufacture（制造）。文中 car manufacturers 与 individual drivers 形成对比，是作者批判的核心：成本转嫁给了弱者",
+      "context": {
+        "source": "2020 英语二 Text 3",
+        "sentence": "That's because they inevitably put the costs of cleaning the air on to individual drivers—who must pay fees or buy better vehicles—rather than on to the car manufacturers whose cheating is the real cause of our toxic pollution.",
+        "translation": "这是因为它们不可避免地把清洁空气的成本转嫁给了个人车主——他们必须缴费或购买更好的车——而不是转嫁给汽车制造商，而后者的作弊才是我们有毒污染的真正原因。"
+      },
+      "tags": ["经济类"]
+    },
+    {
+      "id": "y20t3-12",
+      "term": "compliance",
+      "type": "word",
+      "phon": "kəmˈplaɪəns",
+      "pos": "n.",
+      "cn": "服从，遵守；合规",
+      "sense": "（车辆）符合（环保）规定",
+      "note": "动词 comply（comply with）。bring sth into compliance = 使…合规。反义 non-compliance",
+      "context": {
+        "source": "2020 英语二 Text 3",
+        "sentence": "Restrictions that keep highly polluting cars out of certain areas—city centres, \"school streets\", even individual roads—are a response to the absence of a larger effort to properly enforce existing regulations and require auto companies to bring their vehicles into compliance.",
+        "translation": "把高污染汽车挡在某些区域之外的限制措施——市中心、「学校街」，甚至个别道路——是对以下情况的回应：缺乏更大范围的努力来恰当执行现行法规，并要求汽车公司使其车辆达标。"
+      },
+      "tags": ["法律类", "固定搭配"]
+    },
+    {
+      "id": "y20t3-13",
+      "term": "minimise",
+      "type": "word",
+      "phon": "ˈmɪnɪmaɪz",
+      "pos": "v.",
+      "cn": "使最小化，把…降到最低（英式拼写，美式 minimize）",
+      "sense": "把污染降到最低",
+      "note": "-ise（英式）/ -ize（美式）。写作高频：minimise the risk / cost / impact。反义 maximise",
+      "context": {
+        "source": "2020 英语二 Text 3",
+        "sentence": "Wales has introduced special low speed limits to minimise pollution.",
+        "translation": "威尔士引入了特别的低速限制以把污染降到最低。"
+      },
+      "tags": ["写作替换", "拼写"]
+    },
+    {
+      "id": "y20t3-14",
+      "term": "safeguard",
+      "type": "word",
+      "phon": "ˈseɪfɡɑːd",
+      "pos": "v./n.",
+      "cn": "保护，捍卫；保障措施",
+      "sense": "保护（居民健康）",
+      "note": "safe + guard。同义：protect / preserve。写作中可替换 protect，更正式",
+      "context": {
+        "source": "2020 英语二 Text 3",
+        "sentence": "Local officials are using the levers that are available to them to safeguard residents' health in the face of a serious threat.",
+        "translation": "面对严重威胁，地方官员正在动用他们可用的手段来保护居民的健康。"
+      },
+      "tags": ["写作替换"]
+    },
+    {
+      "id": "y20t4-01",
+      "term": "entitled",
+      "type": "word",
+      "phon": "ɪnˈtaɪtld",
+      "pos": "adj.",
+      "cn": "自认为有权的，有资格享有…的",
+      "sense": "（被贴上）自视甚高、理所当然（标签）的",
+      "note": "两个义项要分清：be entitled to（有权享有）是中性的；形容一代人时 entitled 是贬义「觉得什么都该给自己」。本文是后者",
+      "context": {
+        "source": "2020 英语二 Text 4",
+        "sentence": "If \"entitled\" is the most common adjective, fairly or not, applied to millennials (those born between 1981 and 1995), the catchwords for Generation Z are practical and cautious.",
+        "translation": "如果说贴在千禧一代（1981 至 1995 年出生的人）身上最常见的形容词是「自视甚高」——不管这公平与否——那么 Z 世代的标签则是务实和谨慎。"
+      },
+      "tags": ["高频", "态度词", "一词多义"]
+    },
+    {
+      "id": "y20t4-02",
+      "term": "millennial",
+      "type": "word",
+      "phon": "mɪˈleniəl",
+      "pos": "n./adj.",
+      "cn": "千禧一代（1981—1995 年出生的人）；千年的",
+      "sense": "千禧一代",
+      "note": "millennium（千年）→ millennial。文章把 millennials 和 Generation Z 作对比，是主旨题的抓手",
+      "context": {
+        "source": "2020 英语二 Text 4",
+        "sentence": "If \"entitled\" is the most common adjective, fairly or not, applied to millennials (those born between 1981 and 1995), the catchwords for Generation Z are practical and cautious.",
+        "translation": "如果说贴在千禧一代（1981 至 1995 年出生的人）身上最常见的形容词是「自视甚高」——不管这公平与否——那么 Z 世代的标签则是务实和谨慎。"
+      },
+      "tags": ["社会类"]
+    },
+    {
+      "id": "y20t4-03",
+      "term": "stability",
+      "type": "word",
+      "phon": "stəˈbɪləti",
+      "pos": "n.",
+      "cn": "稳定，稳定性；稳固",
+      "sense": "（职业的）稳定性",
+      "note": "形容词 stable，动词 stabilise。job security or stability 是本文所述 Z 世代最看重的职业目标之一",
+      "context": {
+        "source": "2020 英语二 Text 4",
+        "sentence": "Job security or stability was the second most important career goal (work-life balance was number one), followed by a sense of being dedicated to a cause or to feel good about serving the greater good.",
+        "translation": "工作保障或稳定性是第二重要的职业目标（工作与生活的平衡排第一），其次是投身于某项事业、或因服务公益而感到满足。"
+      },
+      "tags": ["职场类"]
+    },
+    {
+      "id": "y20t4-04",
+      "term": "cautious",
+      "type": "word",
+      "phon": "ˈkɔːʃəs",
+      "pos": "adj.",
+      "cn": "谨慎的，小心的",
+      "sense": "（Z 世代的标签）谨慎",
+      "note": "名词 caution，副词 cautiously。本文用 entitled（千禧一代）对 practical and cautious（Z 世代）形成对比",
+      "context": {
+        "source": "2020 英语二 Text 4",
+        "sentence": "If \"entitled\" is the most common adjective, fairly or not, applied to millennials (those born between 1981 and 1995), the catchwords for Generation Z are practical and cautious.",
+        "translation": "如果说贴在千禧一代（1981 至 1995 年出生的人）身上最常见的形容词是「自视甚高」——不管这公平与否——那么 Z 世代的标签则是务实和谨慎的。"
+      },
+      "tags": ["态度词"]
+    },
+    {
+      "id": "y20cl-01",
+      "term": "inadvertently",
+      "type": "word",
+      "phon": "ˌɪnədˈvɜːtntli",
+      "pos": "adv.",
+      "cn": "无意中，不经意地；疏忽地",
+      "sense": "在不知不觉中（示范了坏榜样）",
+      "note": "in-（否定）+ advertent（注意的）。同义：unintentionally / accidentally。完形填空的高频逻辑词",
+      "context": {
+        "source": "2020 英语二 完形填空",
+        "sentence": "If you consistently lose your with your kids, then you are inadvertently modeling a lack of emotional control for your kids.",
+        "translation": "如果你总是对孩子发脾气，那你就在不知不觉中给孩子示范了情绪失控。",
+        "match": ["inadvertently"]
+      },
+      "tags": ["完形高频"]
+    },
+    {
+      "id": "y20cl-02",
+      "term": "composed",
+      "type": "word",
+      "phon": "kəmˈpəʊzd",
+      "pos": "adj.",
+      "cn": "镇静的，沉着的，泰然自若的",
+      "sense": "（保持）镇定自若的",
+      "note": "熟词僻义：compose 常作「组成、创作」，但 be composed 是「镇静」。同义：calm / collected",
+      "context": {
+        "source": "2020 英语二 完形填空",
+        "sentence": "Sometimes parents get exhausted and frustrated and are unable to maintain a and composed style with their kids.",
+        "translation": "有时父母会精疲力竭、灰心沮丧，无法对孩子保持镇定自若的态度。",
+        "match": ["composed"]
+      },
+      "tags": ["熟词僻义"]
+    },
+    {
+      "id": "y20cl-03",
+      "term": "exhausted",
+      "type": "word",
+      "phon": "ɪɡˈzɔːstɪd",
+      "pos": "adj.",
+      "cn": "精疲力竭的；耗尽的",
+      "sense": "累到极点",
+      "note": "动词 exhaust（耗尽）。注意不要和 exhaustive（详尽的、彻底的）混淆——这是考研常设的干扰项",
+      "context": {
+        "source": "2020 英语二 完形填空",
+        "sentence": "Sometimes parents get exhausted and frustrated and are unable to maintain a and composed style with their kids.",
+        "translation": "有时父母会精疲力竭、灰心沮丧，无法对孩子保持镇定自若的态度。",
+        "match": ["exhausted"]
+      },
+      "tags": ["易混词"]
+    },
+    {
+      "id": "y20pb-01",
+      "term": "upfront",
+      "type": "word",
+      "phon": "ˌʌpˈfrʌnt",
+      "pos": "adj./adv.",
+      "cn": "坦率的，直截了当的；预付的；在前面",
+      "sense": "（对自己）坦诚的",
+      "note": "be upfront about sth = 对…坦诚。文中研究结论：坦诚的人被评为更高，隐藏的人失去信任——是主旨句",
+      "context": {
+        "source": "2020 英语二 Part B",
+        "sentence": "A Harvard Business School study found that observers consistently rated those who were upfront about themselves more highly, while those who hid lost trustworthiness.",
+        "translation": "哈佛商学院的一项研究发现，观察者对坦然面对自己的人评价始终更高，而隐藏自己的人则失去了可信度。"
+      },
+      "tags": ["态度词"]
+    },
+    {
+      "id": "y20pb-02",
+      "term": "consistently",
+      "type": "word",
+      "phon": "kənˈsɪstəntli",
+      "pos": "adv.",
+      "cn": "一贯地，始终如一地；一致地",
+      "sense": "（评价）始终（更高）",
+      "note": "形容词 consistent（一致的、始终如一的），反义 inconsistent。数据类文章里表示「稳定地呈现某结果」",
+      "context": {
+        "source": "2020 英语二 Part B",
+        "sentence": "A Harvard Business School study found that observers consistently rated those who were upfront about themselves more highly, while those who hid lost trustworthiness.",
+        "translation": "哈佛商学院的一项研究发现，观察者对坦然面对自己的人评价始终更高，而隐藏自己的人则失去了可信度。"
+      },
+      "tags": ["数据类"]
+    },
+    {
+      "id": "y20pb-03",
+      "term": "horizon",
+      "type": "word",
+      "phon": "həˈraɪzn",
+      "pos": "n.",
+      "cn": "眼界，见识；地平线",
+      "sense": "（扩大）视野、交际圈",
+      "note": "expand your horizons = 开阔眼界，考研写作万能短语。本文指「认识更多同事」",
+      "context": {
+        "source": "2020 英语二 Part B",
+        "sentence": "But in addition to those trusted coworkers, you should expand your horizons and find out about all the people around you.",
+        "translation": "但除了那些信得过的同事之外，你还应该开阔视野，去了解身边所有的人。"
+      },
+      "tags": ["写作替换", "比喻义"]
+    },
+    {
+      "id": "y20ph-01",
+      "term": "roll out",
+      "type": "phrase",
+      "phon": "rəʊl aʊt",
+      "pos": "phr.",
+      "cn": "推出，实施，正式启用",
+      "sense": "推出（新政策）",
+      "note": "原义「把…铺开」。同义：launch / introduce / implement。政策类文章高频",
+      "context": {
+        "source": "2020 英语二 Text 3",
+        "sentence": "Madrid was hailed as a public health beacon last November when it rolled out ambitious restrictions on the most polluting cars.",
+        "translation": "去年 11 月，马德里对污染最严重的汽车推出了雄心勃勃的限制措施，被誉为公共卫生的标杆。"
+      },
+      "tags": ["高频短语", "政治类"]
+    },
+    {
+      "id": "y20ph-02",
+      "term": "back and forth",
+      "type": "phrase",
+      "phon": "bæk ənd fɔːθ",
+      "pos": "phr.",
+      "cn": "来回反复，反反复复；来回地",
+      "sense": "（政策上的）反复摇摆",
+      "note": "本义是「来回走动」，引申为「立场反复」。作者用它批评马德里政策不连贯",
+      "context": {
+        "source": "2020 英语二 Text 3",
+        "sentence": "Madrid's back and forth on clean air is a pointed reminder of the limits to the patchwork, city-by-city approach that characterises efforts on air pollution across Europe, Britain very much included.",
+        "translation": "马德里在清洁空气问题上的反复，尖锐地提醒人们：欧洲（英国尤其包括在内）治污那种各城市零散拼凑的做法是有局限的。"
+      },
+      "tags": ["高频短语"]
+    },
+    {
+      "id": "y20ph-03",
+      "term": "at best",
+      "type": "phrase",
+      "phon": "ət best",
+      "pos": "phr.",
+      "cn": "充其量，往好里说",
+      "sense": "往好里说也（不确定）",
+      "note": "表示「最好也就这样了」，暗含负面评价。反义 at worst。态度题的重要信号",
+      "context": {
+        "source": "2020 英语二 Text 3",
+        "sentence": "But with legal battles ahead, the zone's future looks uncertain at best.",
+        "translation": "但前路还有法律诉讼，该区域的未来往好里说也是不确定的。"
+      },
+      "tags": ["高频短语", "态度词"]
+    },
+    {
+      "id": "y20ph-04",
+      "term": "in addition to",
+      "type": "phrase",
+      "phon": "ɪn əˈdɪʃn tu",
+      "pos": "phr.",
+      "cn": "除…之外（还），加上",
+      "sense": "除了（信得过的同事）之外",
+      "note": "注意区别：in addition to 是介词（后接名词），表示「除…之外还有」；in addition 是副词，单独用",
+      "context": {
+        "source": "2020 英语二 Part B",
+        "sentence": "But in addition to those trusted coworkers, you should expand your horizons and find out about all the people around you.",
+        "translation": "但除了那些信得过的同事之外，你还应该开阔视野，去了解身边所有的人。"
+      },
+      "tags": ["高频短语", "易混搭配"]
+    },
+    {
+      "id": "y20ph-05",
+      "term": "far from it",
+      "type": "phrase",
+      "phon": "fɑː frəm ɪt",
+      "pos": "phr.",
+      "cn": "远非如此，完全不是这样",
+      "sense": "（措施）绝不是没用",
+      "note": "用来强烈否定上一句。作者先让步「不是没用」，紧接着 far from it 加强，然后说明为什么有用——典型的英二论证结构",
+      "context": {
+        "source": "2020 英语二 Text 3",
+        "sentence": "It's not that measures such as London's Ulez are useless. Far from it.",
+        "translation": "这并不是说伦敦超低排放区之类的措施没有用。远非如此。"
+      },
+      "tags": ["高频短语", "逻辑词"]
+    }
+  ]
+}

@@ -1,0 +1,906 @@
+{
+  "meta": {},
+  "sentences": [
+    {
+      "id": "y07s01",
+      "type": "时间状语从句 + 嵌套宾语从句与条件从句 + 比较结构",
+      "en": "Ericsson grew up in Sweden, and studied nuclear engineering until he realized he would have more opportunity to conduct his own research if he switched to psychology.",
+      "main": "Ericsson grew up in Sweden ... and studied nuclear engineering ... he would have more opportunity to conduct his own research.",
+      "clauses": [
+        {
+          "part": "主句（并列谓语）",
+          "text": "Ericsson grew up in Sweden ... and studied nuclear engineering",
+          "note": "一个主语带两个并列谓语 grew up 和 studied，第二个谓语前省略了主语 Ericsson。看到 and + 动词，先确认它是在并列谓语还是另起分句"
+        },
+        {
+          "part": "时间状语从句",
+          "text": "until he realized",
+          "note": "until 表示「直到……才」：他读核工程一直读到某个时点为止。这个从句后面还拖着两个更深的层次，读的时候先把它整块当作「时间点」，句子骨架就只剩 Ericsson grew up and studied nuclear engineering"
+        },
+        {
+          "part": "宾语从句",
+          "text": "he would have more opportunity to conduct his own research",
+          "note": "作 realized 的宾语。would 在这里不是将来时，而是虚拟语气里的「（如果那样做）就会有」，与后面 if 从句的过去式 switched 配套。opportunity 后接不定式 to conduct，是 opportunity 的固定搭配"
+        },
+        {
+          "part": "条件状语从句（嵌在最里层）",
+          "text": "if he switched to psychology",
+          "note": "整句最里面的一层。switched 用过去式是与现在事实相反的虚拟：他当时还没转，只是在权衡。三层从句套在一起（until → realized → if），这是本句读不通的主因"
+        }
+      ],
+      "bracket": "Ericsson grew up in (Sweden), and studied (nuclear engineering) [until he realized [he would have (more opportunity) to conduct (his own research) [if he switched to psychology]]].",
+      "cn": "埃里克森在瑞典长大，学的是核工程，后来他意识到，如果转攻心理学，他会有更多机会做自己的研究。",
+      "points": [
+        "三层从句嵌套：until 时间状语从句里套 realized 的宾语从句，宾语从句里再套 if 条件从句。拆句顺序是从外往里：先定主句 Ericsson grew up and studied nuclear engineering，再一层层挂上去",
+        "if he switched 用过去式是虚拟语气，说明他当时并未转专业，只是在设想。若读成一般过去时，会误解成「他转了专业之后才有机会」",
+        "指代与省略的双重陷阱：从句里的 he 和 his 都指 Ericsson，不要因为从句主语切换就误以为换了人；主句的第二个谓语 studied 前也省略了主语。省略和指代叠在一起，是这句容易读串的地方",
+        "这句是纯人物背景插叙，考主旨时可以整句跳过；但它和第 3 段的实验一起，在暗示「选择与练习」才是分水岭，细节题问到 Ericsson 的经历时会用到"
+      ],
+      "words": [
+        "nuclear",
+        "engineering",
+        "opportunity",
+        "switch"
+      ],
+      "source": "2007 英语一（旧） Text 1"
+    },
+    {
+      "id": "y07s02",
+      "type": "过去分词短语作定语 + 同位语从句套动名词 + 比较结构",
+      "en": "This success, coupled with later research showing that memory itself is not genetically determined, led Ericsson to conclude that the act of memorizing is more of a cognitive exercise than an intuitive one.",
+      "main": "This success ... led Ericsson to conclude that the act of memorizing is more of a cognitive exercise than an intuitive one.",
+      "clauses": [
+        {
+          "part": "主语",
+          "text": "This success",
+          "note": "指上一段那项记忆实验的结果。阅读时若不知道 This 指什么，就往上找最近的一次实验结果，不要往下猜"
+        },
+        {
+          "part": "过去分词短语（插入）",
+          "text": "coupled with later research showing that memory itself is not genetically determined",
+          "note": "用一对逗号插在主语和谓语之间，是**伴随状语**，等于 and it was coupled with...。主语和谓语被它隔开十几个词，读的时候要先跳过整块、把 led 找出来，句子骨架才出来"
+        },
+        {
+          "part": "分词里的宾语从句",
+          "text": "showing that memory itself is not genetically determined",
+          "note": "showing 的逻辑主语是 later research。genetically determined 是「由基因决定的」，副词 genetically 修饰 determined，不要译成「基因被决定」"
+        },
+        {
+          "part": "宾语从句",
+          "text": "that the act of memorizing is more of a cognitive exercise than an intuitive one",
+          "note": "作 conclude 的宾语。the act of memorizing 是「记忆这一行为」，of memorizing 是同位语性质的后置修饰，不是「记忆的行为」这种所有格"
+        },
+        {
+          "part": "比较结构",
+          "text": "more of a cognitive exercise than an intuitive one",
+          "note": "more of A than B = 与其说是 B，不如说是 A；one 代替 exercise。注意比较的两端是「认知训练」和「直觉天赋」，这是全文立论的关键对照"
+        }
+      ],
+      "bracket": "This success, (coupled with later research [showing [that memory itself is not genetically determined]]), led Ericsson to conclude [that the act of memorizing is (more of a cognitive exercise) than (an intuitive one)].",
+      "cn": "这项成功，再加上后来有研究表明记忆本身并非由基因决定，使埃里克森得出结论：记忆这一行为与其说是直觉天赋，不如说是一种认知训练。",
+      "points": [
+        "主语和谓语之间塞进一对逗号隔开的分词短语，是考研阅读里制造「找不到谓语」的常见手法。遇到「主语 + , + 分词」先跳到下一个能作谓语的动词（这里是 led）",
+        "more of A than B 是「与其说 B 不如说 A」，A 和 B 都是名词短语。这个结构比 more...than 更容易被误读成「更多」，2020 英语二 Text 2 也考过同类比较",
+        "genetically determined 是被动语态，「由基因决定」，把 genetically 当主语去理解就会读成「基因被决定」",
+        "本句是全文的论点句雏形：记忆不是天赋而是训练。抓住 cognitive / intuitive 这对反义词，第 4 段 made, not born 的结论就顺理成章"
+      ],
+      "words": [
+        "coupled",
+        "genetically",
+        "cognitive",
+        "intuitive"
+      ],
+      "source": "2007 英语一（旧） Text 1"
+    },
+    {
+      "id": "y07s03",
+      "type": "whatever 让步状语从句 + 介词后接宾语从句 + 被动语态",
+      "en": "In other words, whatever inborn differences two people may exhibit in their abilities to memorize, those differences are swamped by how well each person \"encodes\" the information.",
+      "main": "those differences are swamped by how well each person \"encodes\" the information.",
+      "clauses": [
+        {
+          "part": "让步状语从句",
+          "text": "whatever inborn differences two people may exhibit in their abilities to memorize",
+          "note": "whatever 在这里是**让步**，等于 no matter what，不是「无论哪一个」。它后面跟的是名词 differences，但语序是「whatever + 名词 + 主谓」，因为 whatever 本身在从句里作 exhibit 的宾语，等于说 two people may exhibit whatever inborn differences"
+        },
+        {
+          "part": "主句",
+          "text": "those differences are swamped by how well each person \"encodes\" the information",
+          "note": "主句主语 those differences 回指从句末尾的 differences，两句靠同一个词咬合，读到这里要意识到说的仍是同一件事、同一批差异。swamp 原义是「淹没」，这里是被动语态，意思是「被压得微不足道」"
+        },
+        {
+          "part": "宾语从句（作介词宾语）",
+          "text": "how well each person \"encodes\" the information",
+          "note": "作介词 by 的宾语，是整个句子里最容易看错的地方——by 后面不是名词短语，而是一个 how 引导的从句。how well 是「有多好、好坏程度」，别拆成 how + well"
+        }
+      ],
+      "bracket": "In other words, [whatever inborn differences two people may exhibit in (their abilities to memorize)], those differences are swamped by [how well each person \"encodes\" the information].",
+      "cn": "换句话说，无论两个人在记忆能力上表现出多大的先天差异，这些差异都会被每个人「编码」信息的好坏程度所淹没。",
+      "points": [
+        "whatever 引导让步状语从句时，语序是 whatever + 名词 + 主语 + 谓语，因为 whatever 本身在从句里充当 exhibit 的宾语。把它当成「无论什么差异」直接接主语就会读错",
+        "介词 by 后面接 how 引导的从句，是「by + 名词性从句」的少见搭配。看到 by 后面紧跟 how / what / whether，要意识到后面是一个从句而不是短语",
+        "inborn 是「先天的」，与第 3 段前半的 genetically determined、第 3 段末的 intuitive 同属「天赋派」词汇场；swamped 则属于「训练派」。这句是**先让步（承认先天差异）再压低（差异被淹没）**，作者的重心永远在后半句，主旨题问「作者认为先天差异有多大影响」时答案就在 swamped 上",
+        "abilities to memorize 里用的是不定式而不是 of doing，因为 ability 后习惯接 to do：the ability to do sth"
+      ],
+      "words": [
+        "inborn",
+        "swamp",
+        "exhibit",
+        "memorize"
+      ],
+      "source": "2007 英语一（旧） Text 1"
+    },
+    {
+      "id": "y07s04",
+      "type": "非限制性定语从句 + 括号插入语 + 破折号同位语",
+      "en": "People are invited to query Marilyn vos Savant, who at age 10 had tested at a mental level of someone about 23 years old; that gave her an IQ of 228 – the highest score ever recorded.",
+      "main": "People are invited to query Marilyn vos Savant ... that gave her an IQ of 228 ...",
+      "clauses": [
+        {
+          "part": "主句（被动语态）",
+          "text": "People are invited to query Marilyn vos Savant",
+          "note": "be invited to do sth 是「获邀做某事」，行为主体没出现。真正的主干只有这一截和分号后的 that gave her an IQ of 228；中间那一大块全是挂上去的修饰，读的时候先把它整块跳过"
+        },
+        {
+          "part": "非限制性定语从句",
+          "text": "who at age 10 had tested at a mental level of someone about 23 years old",
+          "note": "用逗号隔开，补充说明 vos Savant。易错点有两处：一是 had tested 是过去完成时，指「10 岁那年（更早）测出来的结果」，不是「测过 10 岁的智力」；二是 at a mental level of someone about 23 years old 里的 someone 是**另一个人**，即「大约 23 岁的人的智力水平」，把它读成「她 23 岁时的水平」整句就错了"
+        },
+        {
+          "part": "分号后的主句",
+          "text": "that gave her an IQ of 228",
+          "note": "that 回指前面「10 岁测出 23 岁的智力水平」这件事实，gave 的主语是那件事而不是 IQ。分号在这里等于句号，前后是两个并列的独立句，别指望前半句有谓语能一直管到这里"
+        },
+        {
+          "part": "破折号同位语",
+          "text": "the highest score ever recorded",
+          "note": "对 228 作补充说明，ever recorded 是「有记录以来的」。破折号后面的部分只是加码，考细节时才会用到；抓住 228 这个数字就够定调"
+        }
+      ],
+      "bracket": "(People) are invited to query (Marilyn vos Savant), [who at age 10 had tested at (a mental level) of (someone about 23 years old)]; [that gave her (an IQ of 228)] – (the highest score ever recorded).",
+      "cn": "人们受邀向玛丽莲·沃斯·萨万特提问。她 10 岁时测出的智力水平相当于一个 23 岁左右的人，这使她的智商达到 228——有记录以来的最高分。",
+      "points": [
+        "找主干时先跳过 who 引导的整块定语从句：主句其实是 People are invited to query Marilyn vos Savant 加上分号后的 that gave her an IQ of 228，两截靠分号并列",
+        "at a mental level of someone about 23 years old 里的 someone 是泛指的「某个人」，整块意思是「相当于 23 岁左右者的智力水平」。误读成「她 23 岁时的水平」是这句最常见的错，也是细节题爱设的坑",
+        "had tested 用过去完成时，表示在 10 岁这个时点上测出的、更早完成的动作；时态在这里是「测出的水平」而不是「她在测试」",
+        "本句是全篇的引子，IQ 228 这个数字与第 3 段 Superhigh scores like vos Savant's are no longer possible 前后呼应——记住这个数字，第 3 段再出现时就知道作者在拿它当靶子"
+      ],
+      "words": [
+        "query",
+        "mental",
+        "record"
+      ],
+      "source": "2007 英语一（旧） Text 2"
+    },
+    {
+      "id": "y07s05",
+      "type": "形式主语 + when 主语从句 + 括号插入定语从句 + 引语式列举",
+      "en": "So it is a bit confusing when vos Savant fields such queries from the average Joe (whose IQ is 100) as, What's the difference between love and fondness? Or what is the nature of luck and coincidence?",
+      "main": "it is a bit confusing when vos Savant fields such queries ...",
+      "clauses": [
+        {
+          "part": "形式主语 it",
+          "text": "it is a bit confusing",
+          "note": "it 是形式主语，真正的主语是后面 when 引导的整块。a bit 是「有点」，作者用这个克制的说法表达质疑——不是直接说荒谬，但立场已经在了"
+        },
+        {
+          "part": "主语从句（when 引导）",
+          "text": "when vos Savant fields such queries from the average Joe (whose IQ is 100) as, What's the difference between love and fondness? Or what is the nature of luck and coincidence?",
+          "note": "这是全句的主体，一直延伸到句末。field 在这里是动词「应对、接住（提问）」，不是「田野」；the average Joe 是「普通人、张三李四」，括号里的 whose IQ is 100 顺带解释了「普通」的标准就是 100"
+        },
+        {
+          "part": "括号插入的定语从句",
+          "text": "whose IQ is 100",
+          "note": "挂在 the average Joe 后面，用括号插在句子中间，是典型的**插入语打断**：主语 vos Savant 和谓语 fields 还没读完，视线就被岔开。读的时候把它当括号里的旁注，整块跳过不影响理解"
+        },
+        {
+          "part": "such ... as 引出的列举",
+          "text": "as, What's the difference between love and fondness? Or what is the nature of luck and coincidence?",
+          "note": "such queries ... as 是「诸如……这样的提问」，as 后面直接接了两个问句作例子。这两个问句是**引语**，属于从句内部的并列成分，不是作者在发问，所以整句仍然只是一个句子"
+        }
+      ],
+      "bracket": "So (it) is (a bit confusing) [when vos Savant fields (such queries) from (the average Joe) ([whose IQ is 100]) as, (What's the difference between love and fondness)? Or (what is the nature of luck and coincidence)?]",
+      "cn": "所以，当沃斯·萨万特要应付普通人（智商 100）抛来的这类问题时，就有点让人摸不着头脑了——比如「爱与喜欢有什么区别？」或者「运气和巧合的本质是什么？」",
+      "points": [
+        "it is + 形容词 + when 从句：这里的 it 只是形式主语，真正的主语是整个 when 从句，所以中文要译成「当……时，就有点让人困惑」，而不能译成「它是令人困惑的」",
+        "逗号后的 What's...? Or what is...? 是 such queries as 引出的例子，属于引语；它们不是独立句子，别因为看到问号加句末句号就以为 en 里塞了三句",
+        "field 作动词是「处理、应对（问题或提问）」，与名词「领域」区分；the average Joe 是固定说法，指智商 100 的普通人",
+        "这句就是全文的**问题句**：高智商的人被要求回答连诗人和哲学家都答不上来的问题。抓住 confusing 这个态度词，主旨题里「作者对智商测试的态度」从这里已经开始定调"
+      ],
+      "words": [
+        "field",
+        "average",
+        "fondness",
+        "coincidence"
+      ],
+      "source": "2007 英语一（旧） Text 2"
+    },
+    {
+      "id": "y07s06",
+      "type": "形式主语 + how 主语从句 + 并列不定式 + 介词宾语套 that 定语从句",
+      "en": "It's not obvious how the capacity to visualize objects and to figure out numerical patterns suits one to answer questions that have eluded some of the best poets and philosophers.",
+      "main": "It's not obvious how the capacity ... suits one to answer questions ...",
+      "clauses": [
+        {
+          "part": "形式主语 it",
+          "text": "It's not obvious",
+          "note": "it 又是形式主语，真正的主语是 how 从句。not obvious 是委婉的否定：作者不是在说「不清楚」，而是在暗示「根本说不通」，态度题里这类低调陈述要按否定理解"
+        },
+        {
+          "part": "主语从句（how 引导）",
+          "text": "how the capacity to visualize objects and to figure out numerical patterns suits one to answer questions that have eluded some of the best poets and philosophers",
+          "note": "how 从句直到句末才结束，比第 1 段那句更长，是整句「看不出主干」的根源。从句自己的主干很短：the capacity suits one to answer questions，其余全是修饰"
+        },
+        {
+          "part": "从句主语及其并列定语",
+          "text": "the capacity to visualize objects and to figure out numerical patterns",
+          "note": "the capacity 是 how 从句的主语，后面跟两个并列的不定式作定语：to visualize objects 和 to figure out numerical patterns。两个 to 并列，容易看成两个不同的主语或谓语，其实都在说明 capacity 是什么能力"
+        },
+        {
+          "part": "从句谓语部分",
+          "text": "suits one to answer questions",
+          "note": "suit sb to do sth 是「使某人适合做某事」，one 在这里是泛指「一个人」。这个短语是理解全句的关键：作者问的是「这种能力凭什么让人有资格回答那些问题」"
+        },
+        {
+          "part": "嵌套的定语从句",
+          "text": "that have eluded some of the best poets and philosophers",
+          "note": "修饰 questions，是整句最里层的一层。elude 是「（让人）想不出、难倒」——主语是 questions，宾语是诗人哲学家，不是「诗人哲学家躲开了问题」。用现在完成时 have eluded，说明这个问题到现在还没被解决"
+        }
+      ],
+      "bracket": "(It)'s (not obvious) [how (the capacity) (to visualize objects) and (to figure out numerical patterns) suits one to answer (questions) [that have eluded (some of the best poets and philosophers)]].",
+      "cn": "能想象出物体的样子、能找出数字规律，这种能力凭什么就适合去回答那些连最优秀的诗人和哲学家都没能解答的问题呢？这一点并不清楚。",
+      "points": [
+        "It's not obvious how... 是形式主语句式，真正的主语是 how 从句；中文习惯把从句提到前面说，译成「……这一点并不清楚」最自然",
+        "how 从句内部的主干只有 the capacity suits one to answer questions，中间的两个 to do 是 capacity 的并列定语、后面的 that 从句是 questions 的定语。先剥掉这两层修饰，句子就通了",
+        "suit sb to do sth 是「使某人适于做某事」，to 是不定式符号；要把它和 be suited to doing（to 是介词）区分开",
+        "elude 的主语是被回答的问题、宾语是被难住的人：questions have eluded the best poets 意思是「连最好的诗人也没能答上来」。语序一反过来读成「诗人躲开了问题」就完全跑偏",
+        "本句把第 1 段的「错位」上升为「质疑」：智商测试考的能力与被问的问题根本不对口。它是全文批判智商测试的第一根钉子，主旨题与态度题都会用到"
+      ],
+      "words": [
+        "visualize",
+        "capacity",
+        "elude",
+        "philosopher"
+      ],
+      "source": "2007 英语一（旧） Text 2"
+    },
+    {
+      "id": "y07s07",
+      "type": "介词短语前置 + 定语从句夹在主语谓语之间 + 被动语态 + 不定式作目的状语",
+      "en": "During the past generation, the American middle-class family that once could count on hard work and fair play to keep itself financially secure has been transformed by economic risk and new realities.",
+      "main": "During the past generation, the American middle-class family ... has been transformed by economic risk and new realities.",
+      "clauses": [
+        {
+          "part": "时间状语",
+          "text": "During the past generation",
+          "note": "During 加时间段表示「在……期间」。这里用过去一代人做时间框架，是为了和第 2 段 In just one generation、第 3 段 During the same period 串成一条时间线，全文的对比都是「过去 vs 现在」"
+        },
+        {
+          "part": "主语",
+          "text": "the American middle-class family",
+          "note": "family 用单数、前面加 the，是**类指**，指「美国家庭」这一类，不是某一个家庭。译成「美国家庭」而不是「这个美国家庭」。下文所有 they、their 都回指它"
+        },
+        {
+          "part": "定语从句（插在主语和谓语之间）",
+          "text": "that once could count on hard work and fair play to keep itself financially secure",
+          "note": "整个从句夹在主语和谓语 has been transformed 中间，是把主干切断的主因。读到主语后紧跟 that，先把这十几词整块括起来跳过，直奔 has been transformed，句子骨架立刻出来。count on 是「指望、依赖」，后面 to keep itself financially secure 是目的状语；once 是「曾经」，暗示这种指望现在已经不成立——这个词就是本段「落差」的抓手"
+        },
+        {
+          "part": "谓语（被动语态）",
+          "text": "has been transformed by economic risk and new realities",
+          "note": "现在完成时被动。by 引出的是**施动者**：改造这个家庭的是 economic risk and new realities 这两样东西。注意 by 后面的 and 连接的是两个名词短语（economic risk / new realities），不是并列谓语，别把它读成「被经济风险改造，并且创造了新现实」"
+        }
+      ],
+      "bracket": "(During the past generation), (the American middle-class family) [that once could count on (hard work and fair play) to keep itself (financially secure)] has been transformed by (economic risk and new realities).",
+      "cn": "在过去的一代人时间里，那个曾经能够指望靠努力工作和公平竞争来维持自身财务安全的美国中产家庭，已经被经济风险和新的现实改造了。",
+      "points": [
+        "「主语 + 定语从句 + 谓语」是考研阅读制造「找不到谓语」的头号手法。本句主语 the American middle-class family 之后隔了 16 个词才出现真正的谓语 has been transformed，中间的 that 从句只是修饰语。养成习惯：看到主语后紧跟 that / who / which，先把从句整块括掉",
+        "has been transformed 是现在完成时被动，表示「已经被改变，并且这个状态延续到现在」。它在段首就把全文主题定成 change，后面三段全是「怎么变的」，主旨题若问「文章主要讲什么」，答案必须含变化或风险，不能只是「美国中产家庭很穷」",
+        "count on 后接名词或动名词，也可接 sb to do sth（指望某人做某事）。同类还有 rely on / depend on，介词都是 on，不是 to",
+        "financially secure 是「财务上有保障」，副词 financially 修饰形容词 secure。考研常把 financially 和 economic 放在同一段里混用：economic 指「经济（体）的」，financial 指「财务（个人/家庭）的」，本句两个词同时出现，正好用来区分"
+      ],
+      "words": [
+        "generation",
+        "count on",
+        "fair play",
+        "financially",
+        "transform"
+      ],
+      "source": "2007 英语一（旧） Text 3"
+    },
+    {
+      "id": "y07s08",
+      "type": "定语从句 + 破折号同位语（内含定语从句与条件从句）+ 被动语态的否定式",
+      "en": "As a result, they have lost the parachute they once had in times of financial setback – a back-up earner (usually Mom) who could go into the workforce if the primary earner got laid off or fell sick.",
+      "main": "they have lost the parachute ... – a back-up earner (usually Mom) ...",
+      "clauses": [
+        {
+          "part": "结果状语 + 主句",
+          "text": "As a result, they have lost the parachute",
+          "note": "As a result 是**结果信号词**，前面那句 Today's families have budgeted to the limits... 是原因，本句是结果。they 回指上一句的 Today's families。the parachute 是比喻用法：「降落伞」＝最后一道保命手段，下文用破折号给出本体"
+        },
+        {
+          "part": "定语从句（省略了关系代词）",
+          "text": "they once had in times of financial setback",
+          "note": "修饰 the parachute。关系代词 that / which 被省略了，因为它在从句里作 had 的宾语。in times of 是「在……的时候」，setback 是「挫折、退步」，financial setback 就是「财务上受挫」。once 又一次出现，和上一段的用法一样表示「从前有、现在没有」"
+        },
+        {
+          "part": "同位语（破折号引出）",
+          "text": "a back-up earner (usually Mom) who could go into the workforce if the primary earner got laid off or fell sick",
+          "note": "破折号后面整块是 the parachute 的同位语，也就是回答「降落伞到底是什么」。这是本句最长的成分，先抓住中心词 a back-up earner（备用挣钱的人），其余都是它的修饰"
+        },
+        {
+          "part": "定语从句（修饰 a back-up earner）",
+          "text": "who could go into the workforce",
+          "note": "**本句最大的陷阱**：who 紧挨着 (usually Mom)，但它修饰的是前面的中心词 a back-up earner，不是 Mom。括号里的 usually Mom 是插注，插注**不打断修饰关系**。考研常拿「括号/插入语后的 who 修饰谁」设题，判断依据是逻辑：母亲是备用挣钱者的典型，而不是反过来"
+        },
+        {
+          "part": "条件状语从句（嵌在最深处）",
+          "text": "if the primary earner got laid off or fell sick",
+          "note": "修饰定语从句里的 could go，说明「什么时候才会用上这个备用挣钱者」。got laid off 是被动语态的过去式（get + 过去分词表被动），lay off 是「解雇」，分开写成两个词时意思不变；fell sick 是「病倒」，fall 的过去式。or 连接两个并列谓语，共用主语 the primary earner"
+        }
+      ],
+      "bracket": "(As a result), they have lost (the parachute) [they once had in (times of financial setback)] – (a back-up earner) ((usually Mom)) [who could go into the workforce [if the primary earner got laid off or fell sick]].",
+      "cn": "结果，他们失去了从前在财务受挫时拥有的那把降落伞——一个备用挣钱的人（通常是母亲），万一主要挣钱者被裁员或者病倒，这个人就能进入劳动力市场。",
+      "points": [
+        "破折号后的同位语是本句的理解关键：全句真正在说的是「他们丢掉了备用劳动力」这件事，the parachute 只是比喻。看到「名词 + 破折号 + 名词短语」，先判断后者是对前者的解释（同位语），不要读成两件并列的事",
+        "who 的归属：从句紧跟在插入成分 (usually Mom) 之后，但它修饰的是更前面的 a back-up earner。插入语不改变修饰关系，这是「括号后关系代词指谁」这类细节题的标准考法",
+        "if 从句里的 got laid off 是 get + 过去分词构成的被动，等于 was laid off；fell sick 里的 fall 是系动词性质的用法（fall ill / fall sick = 生病）。两个短语都是并列谓语，共用 the primary earner 作主语",
+        "这一句是全文的风险机制说明，也是第 4 段 risk 被 shift onto families 的前置铺垫：备用劳动力消失 = 风险再也无法在家庭内部消化。第 1 段那个 a disappearing spouse / a bad diagnosis 的清单，到这里有了机制上的解释"
+      ],
+      "words": [
+        "setback",
+        "parachute",
+        "workforce",
+        "earner",
+        "primary"
+      ],
+      "source": "2007 英语一（旧） Text 3"
+    },
+    {
+      "id": "y07s09",
+      "type": "并列主语 + 定语从句里套同位语从句 + as 原因状语从句含破折号插入语",
+      "en": "Steelworkers, airline employees, and now those in the auto industry are joining millions of families who must worry about interest rates, stock market fluctuation, and the harsh reality that they may outlive their retirement money.",
+      "main": "Steelworkers, airline employees, and now those in the auto industry are joining millions of families who must worry about interest rates, stock market fluctuation, and the harsh reality that they may outlive their retirement money.",
+      "clauses": [
+        {
+          "part": "主语（三项并列）",
+          "text": "Steelworkers, airline employees, and now those in the auto industry",
+          "note": "三项并列，第三项里的 those 是代词，指「那些（汽车业的）人」，now 强调这是**新加入**的一群——范围在扩大，这就是本段要传达的「风险正在蔓延」。看到 A, B, and now C 这种排列，重点在 C"
+        },
+        {
+          "part": "谓语和宾语",
+          "text": "are joining millions of families",
+          "note": "join 在这里是「加入（某一群体）」，不是「连接」。用现在进行时 are joining 表示这个过程正在发生、还在扩大，和 now 呼应"
+        },
+        {
+          "part": "定语从句（修饰 families）",
+          "text": "who must worry about interest rates, stock market fluctuation, and the harsh reality that they may outlive their retirement money",
+          "note": "must 是「不得不」，说明这不是选择而是处境。worry about 后面**三项并列**：interest rates、stock market fluctuation、以及 the harsh reality that...。第三项不是词组，而是一个带同位语从句的名词短语，读到 and the harsh reality 就要预感到后面还有一整个句子"
+        },
+        {
+          "part": "同位语从句（解释 the harsh reality）",
+          "text": "that they may outlive their retirement money",
+          "note": "that 引导同位语从句，说明「严酷的现实」具体是什么。这里的 that 只起连接作用、不作成分，所以从句 they may outlive their retirement money 结构完整。outlive 是「活得比……更久」——out- 表示「超过」，同族的还有 outnumber / outlast / outweigh"
+        }
+      ],
+      "bracket": "(Steelworkers), (airline employees), and (now those in the auto industry) are joining (millions of families) [who must worry about (interest rates), (stock market fluctuation), and (the harsh reality) [that they may outlive their retirement money]].",
+      "cn": "钢铁工人、航空业员工，如今连汽车业的人也在加入那数百万家庭的行列，这些家庭不得不担心利率、股市波动，以及一个严酷的现实：他们可能活得比自己的退休金更久。",
+      "points": [
+        "「名词 + that 从句」有两种完全不同的身份：定语从句（that 在从句里作主语或宾语）和同位语从句（that 只连接、从句成分完整）。本句 the harsh reality that they may outlive... 里从句主谓宾齐全，所以是**同位语**，意思是「现实＝他们可能活得比退休金久」。判断方法就一句话：看 that 后面缺不缺成分",
+        "本句有两个 that-free 的干扰点：interest rates, stock market fluctuation, and the harsh reality that... 三项并列中，前两项是名词，第三项却是「名词 + 从句」。平行结构到这里换了层级，是「and 后面接什么」最容易读错的地方——先把三项并列的框架立起来，再把第三项内部展开",
+        "outlive 是 out- + live，表示「比……活得长」，是本句的信息焦点，也是细节题常考的点：这些家庭担心的是「钱不够用一辈子」。retirement money 是「退休金、养老储蓄」，不等同于 pension",
+        "本段三路并进（退休金 → 医疗 → 人口结构），这一句是第一条路。作者把风险主体从「已经退休的人」扩大到「现在还在工作的人」（钢铝、航空，如今汽车业），说明风险不分行业，这与第 4 段「风险被整体甩给家庭」的结论是同一件事的不同侧面"
+      ],
+      "words": [
+        "fluctuation",
+        "harsh",
+        "outlive",
+        "retirement",
+        "join"
+      ],
+      "source": "2007 英语一（旧） Text 3"
+    },
+    {
+      "id": "y07s10",
+      "type": "as 时间状语从句 + 介词短语插入 + 定语从句",
+      "en": "Just as bosses and boards have finally sorted out their worst accounting and compliance troubles, and improved their feeble corporation governance, a new problem threatens to earn them – especially in America – the sort of nasty headlines that inevitably lead to heads rolling in the executive suite: data insecurity.",
+      "main": "Just as bosses and boards have finally sorted out their worst accounting and compliance troubles ... a new problem threatens to earn them ... the sort of nasty headlines ... data insecurity.",
+      "clauses": [
+        {
+          "part": "时间状语从句（as 引导）",
+          "text": "Just as bosses and boards have finally sorted out their worst accounting and compliance troubles, and improved their feeble corporation governance",
+          "note": "just as 相当于 at the same moment when，表示「就在……之际」。这个从句本身还是并列结构：have sorted out 和 (have) improved 共用主语 bosses and boards，第二个谓语前省略了 have。看到一个主语带两个动词、中间隔着逗号和 and，要立刻确认它们是不是并列谓语，而不是另起了一个句子"
+        },
+        {
+          "part": "主句",
+          "text": "a new problem threatens to earn them",
+          "note": "整句真正的骨架只有这几个词。主语 a new problem 被前面一长串 as 从句压了三十多个词才出现，这是本句「一眼看不出主干」的主因。threaten to do 是「有……之虞 / 势将」，不是「威胁要去做」，主语是无生命的事物时一律取这个意思"
+        },
+        {
+          "part": "介词短语（插入）",
+          "text": "especially in America",
+          "note": "用一对破折号插在 earn them 和它的宾语之间，把动词和宾语硬生生隔开。破折号、逗号、括号这三种插入标记的共同点就是「整块跳过」，跳过后宾语才能接回动词"
+        },
+        {
+          "part": "定语从句",
+          "text": "that inevitably lead to heads rolling in the executive suite",
+          "note": "修饰 headlines。heads rolling 是「人头落地」的比喻，这里指高管丢官走人（roll 用的是 -ing，因为 lead to 后面接动名词复合结构 heads rolling）。定语从句被夹在由此形成的长宾语中间，读的时候先认出 that 的先行词是 headlines，不要误挂到 problem 上"
+        },
+        {
+          "part": "同位语",
+          "text": "data insecurity",
+          "note": "冒号后面的名词短语给 a new problem 命名，冒号在这里等于 namely。考研阅读里「冒号 = 抽象名词的具体化」是稳定的信号：冒号左边的词往往空泛，答案通常藏在冒号右边"
+        }
+      ],
+      "bracket": "[Just as bosses and boards have finally sorted out (their worst accounting and compliance troubles), and improved (their feeble corporation governance)], a new problem threatens to earn them (- especially in America -) (the sort of nasty headlines [that inevitably lead to heads rolling in the executive suite]): (data insecurity).",
+      "cn": "祸不单行。就在老板们和董事会终于理清了最棘手的会计与合规麻烦、改善了孱弱的公司治理之际，一个新问题又势将给他们——尤其是在美国——带来那种必然导致高管层丢掉乌纱帽的恶性头条：数据不安全。",
+      "points": [
+        "主语和谓语之间隔了三十多个词（前面的 as 从句加并列谓语），是长难句「找不到主干」的第一号成因。正确做法是先划掉 Just as 引导的整块，一眼就能看到 a new problem threatens to earn them 这个骨架",
+        "just as 引导时间状语从句，但主句并没有 so 与之呼应——不要把 Just as... so... 的搭配硬套上去，这里没有「正如」的比较义，只是「就在……的时候」",
+        "earn 在这里是「为某人招来、赢得（名声）」，earn them the sort of nasty headlines = 给他们招来那种头条。碰上熟词僻义先看宾语：宾语是 headlines 而不是钱，那就不是「赚」",
+        "首句 It never rains but it pours 是谚语铺垫，不承担论点。本段真正的信息句是末句 information protection is now high on the boss's agenda，now 一词才是全文展开的起点，主旨题要盯它而不是盯谚语"
+      ],
+      "words": [
+        "compliance",
+        "governance",
+        "inevitably",
+        "executive",
+        "insecurity"
+      ],
+      "source": "2007 英语一（旧） Text 4"
+    },
+    {
+      "id": "y07s11",
+      "type": "过去分词短语作后置定语 + as...as 比较结构 + 分词状语",
+      "en": "Several massive leakages of customer and employee data this year – from organizations as diverse as Time Warner, the American defense contractor Science Applications International Corp and even the University of California, Berkeley – have left managers hurriedly peering into their intricate IT systems and business processes in search of potential vulnerabilities.",
+      "main": "Several massive leakages of customer and employee data this year ... have left managers hurriedly peering into their intricate IT systems and business processes in search of potential vulnerabilities.",
+      "clauses": [
+        {
+          "part": "主语",
+          "text": "Several massive leakages of customer and employee data this year",
+          "note": "中心词是 leakages，of customer and employee data 说明泄露的是什么，this year 是后置的时间修饰。注意 leakages 和 data 后面都有 -s 或复数概念，别把 customer and employee 误当成句子的主语"
+        },
+        {
+          "part": "介词短语（插入，修饰主语）",
+          "text": "from organizations as diverse as Time Warner, the American defense contractor Science Applications International Corp and even the University of California, Berkeley",
+          "note": "用一对破折号插在主语和谓语之间，说明泄露是从哪些机构发生的。as diverse as 是同级比较，等于「五花八门到这些机构都有」；它后面跟的是一个三项并列的名词名单，第二个机构名前面还有同位语 the American defense contractor。读的时候整块当成「一批机构」跳过，不要试图在这里找谓语"
+        },
+        {
+          "part": "主句谓语",
+          "text": "have left managers hurriedly peering into their intricate IT systems and business processes",
+          "note": "leave sb doing sth（使某人处于做某事的状态）是这句的动词框架，主语和它之间被破折号隔开了十几个词，是本句最大的障碍。peering 的逻辑主语是 managers，不是 leakages"
+        },
+        {
+          "part": "目的状语",
+          "text": "in search of potential vulnerabilities",
+          "note": "in search of 等于 looking for，是固定搭配（没有冠词）。注意它不是谓语，补上 in search of 之后才说完「翻查系统去干什么」，这句话真正交代的结果是「管理者被动救火」而不是「问题已解决」"
+        }
+      ],
+      "bracket": "(Several massive leakages) (of customer and employee data) (this year) - (from organizations [as diverse as Time Warner, the American defense contractor Science Applications International Corp and even the University of California, Berkeley]) - have left managers (hurriedly) (peering into their intricate IT systems and business processes) (in search of potential vulnerabilities).",
+      "cn": "今年发生了多起客户和员工数据的大规模泄露，出事机构五花八门——时代华纳、美国国防承包商国际科学应用公司，甚至还有加州大学伯克利分校——这让管理者们慌忙翻查自家复杂的 IT 系统和业务流程，寻找潜在的漏洞。",
+      "points": [
+        "主语和谓语被一对破折号隔开，是考研阅读制造「找不到谓语」最常用的手法。规律：看到「名词 + 破折号」先在心里跳过整块插入语，直接去找后面的限定动词（这里是 have left）",
+        "leave sb doing sth 表示「使某人处于……状态」，doing 的逻辑主语是宾语 sb。如果译成「泄露留下了管理者」，主谓关系就完全错了",
+        "as diverse as 后面接的名单用了 A, B and even C 的三项并列，**even** 是作者的语气词：连大学都被攻破，说明没有哪个行业能免疫。细节题问「这些泄露有什么特点」时，答案就是这个 even 传递的普遍性",
+        "leakage 指信息泄露（构词是 leak + -age），与第 5 段的 the theft of information 属同一词汇场，两处一起记，第 5 段讲监管时就不会读串"
+      ],
+      "words": [
+        "massive",
+        "leakage",
+        "defense",
+        "contractor",
+        "intricate",
+        "vulnerabilities"
+      ],
+      "source": "2007 英语一（旧） Text 4"
+    },
+    {
+      "id": "y07s12",
+      "type": "表语从句 + 同位语 + 并列宾语从句 + 比较结构",
+      "en": "Surely it should be obvious to the dimmest executive that trust, that most valuable of economic assets, is easily destroyed and hugely expensive to restore – and that few things are more likely to destroy trust than a company letting sensitive personal data get into the wrong hands.",
+      "main": "Surely it should be obvious to the dimmest executive that trust ... is easily destroyed and hugely expensive to restore ... and that few things are more likely to destroy trust than a company letting sensitive personal data get into the wrong hands.",
+      "clauses": [
+        {
+          "part": "主句（it 作形式主语）",
+          "text": "Surely it should be obvious to the dimmest executive",
+          "note": "it 是形式主语，真正的主语是后面两个 that 从句。Surely 是反讽信号词——字面「肯定」，实际在说「居然还要讲这个，太不像话了」，作者对老板们的批评态度就藏在它和 dimmest 这两个词里"
+        },
+        {
+          "part": "表语形容词 + 并列表语",
+          "text": "is easily destroyed and hugely expensive to restore",
+          "note": "destroyed 和 expensive 并列作 is 的表语：一面是「极易被摧毁」，一面是「修复起来极其昂贵」。restore 后接形容词 expensive 时习惯用「形容词 + to do」结构（expensive to restore），to restore 的逻辑宾语就是主语 trust"
+        },
+        {
+          "part": "第一个 that 从句（真正主语）",
+          "text": "that trust, that most valuable of economic assets, is easily destroyed and hugely expensive to restore",
+          "note": "that 从句的主语是 trust，中间又被 that most valuable of economic assets 这个同位语插了一刀，trust 和 is 隔开。找主语时先把两个逗号之间整块划掉，trust is easily destroyed 立刻清楚。most valuable of economic assets 前用 that 而不是 the，是强调「最最宝贵的」"
+        },
+        {
+          "part": "同位语（插入）",
+          "text": "that most valuable of economic assets",
+          "note": "补充说明 trust 是什么。**这是全文第二次把信任抬到「资产」的高度**（第 3 段 Mendelson 说的是数据是 asset），两条线在这里合流：数据安全 → 信任 → 市场价值，是推理题常考的逻辑链"
+        },
+        {
+          "part": "第二个 that 从句（并列真正主语）",
+          "text": "and that few things are more likely to destroy trust than a company letting sensitive personal data get into the wrong hands",
+          "note": "与第一个 that 从句并列，也是 it 的真正主语，但意思更重——读的时候要把重心放在 and 后面。few things are more likely to do A than B 是「没什么比 B 更可能 A」的迂回比较，等于 B is the most likely thing to do A；letting... 是 company 的动名词复合结构（a company letting data get into...），不是两个并列名词，别把 letting 当谓语"
+        }
+      ],
+      "bracket": "(Surely) it should be obvious (to the dimmest executive) [that trust, (that most valuable of economic assets), is (easily destroyed) and (hugely expensive to restore)] - and [that few things are more likely to destroy trust than a company (letting sensitive personal data get into the wrong hands)].",
+      "cn": "这件事居然还会让任何一位老板感到意外，实在令人费解。哪怕是最愚钝的高管也该明白：信任这种最宝贵的经济资产，摧毁起来轻而易举，修复起来代价高昂；而最可能摧毁信任的，莫过于一家公司让敏感的个人数据落入不该拿到它的人手中。",
+      "points": [
+        "it 是形式主语、两个 that 从句是真正主语，这是英语「头轻脚重」的惯用安排。翻译时要把真正的主语提前（「……是显而易见的」），照英文语序直译会变成不像人话的中文",
+        "第一个 that 从句里主语 trust 和谓语 is 被同位语 that most valuable of economic assets 隔开。同位语的两个逗号就是「可以整块跳过」的标记，跳过后主干立刻现形",
+        "few things are more likely to do A than B 是迂回的最高级：形式是比较级，意思是「B 最可能 A」。这类「否定词 + 比较级 = 最高级」的结构考研反复考，读成「很少有几件事更可能」就会把重点读丢",
+        "并列的两个 that 从句分量并不相等：作者的重心在第二个——信任最怕数据外泄，因此数据安全直接关乎信任。本句是第 3 段「management issue, not a technical one」的伦理依据，也是态度题（作者对老板们迟钝表现的不满）最直接的落点"
+      ],
+      "words": [
+        "dimmest",
+        "executive",
+        "restore",
+        "sensitive"
+      ],
+      "source": "2007 英语一（旧） Text 4"
+    },
+    {
+      "id": "y07s13",
+      "type": "by + 时间点作时间状语 + 过去完成时 + 主系表结构（become + 名词表语）",
+      "en": "By 1830 the former Spanish and Portuguese colonies had become independent nations.",
+      "main": "the former Spanish and Portuguese colonies had become independent nations",
+      "clauses": [
+        {
+          "part": "时间状语（by + 过去时间点）",
+          "text": "By 1830",
+          "note": "by 表示「到……为止、不迟于」，说的是一个截止点，不是「在 1830 那一年」。正因为有截止点，谓语才必须用过去完成时 had become——动作在 1830 年之前就已经完成。完形填空里只要空格前有 By 1830 这类时间状语，谓语位置基本就锁定 had done，这是最划算的一个信号"
+        },
+        {
+          "part": "主语 + 前置定语",
+          "text": "the former Spanish and Portuguese colonies",
+          "note": "中心词是最末尾的 colonies，前面的 former 和并列形容词 Spanish and Portuguese 都是定语，不是「西班牙的葡萄牙殖民地」，而是「前西班牙殖民地和前葡萄牙殖民地」这一集合。主语中心词是复数，所以谓语用 had 而不是 has/has been；完形填空常在这一类长主语后面考主谓一致。former 是「以前的、前任的」，与第 3 段的 the new nations 构成旧—新对照，是细节题定位词"
+        },
+        {
+          "part": "谓语（过去完成时）+ 表语",
+          "text": "had become independent nations",
+          "note": "become 是系动词，后面接名词作表语，表示身份的转变（从殖民地变成独立国家）。它不能写成被动 be become；表示状态变化的一组系动词 get / grow / turn / go / become 是完形高频辨析点。had become 这个形式同时交代了两层信息：变化已完成 + 完成的时间在 1830 之前"
+        }
+      ],
+      "bracket": "(By 1830) (the former Spanish and Portuguese colonies) (had become) (independent nations).",
+      "cn": "到 1830 年，原先的西班牙殖民地和葡萄牙殖民地都已经成为独立国家。",
+      "points": [
+        "「by + 过去时间点」是过去完成时最强的触发词：by 划出截止线，had done 表示在截止线之前完成。完形填空里若空格在谓语位置、句中又出现了 By 1830，先想 had done；如果换成 in 1830，就该用一般过去时 became。by 与 in 的这一字之差是时态 + 介词混合考点的常客",
+        "长主语后面的主谓一致：the former Spanish and Portuguese colonies 的中心词是末尾的复数 colonies，所以谓语用 had；主语里夹着 former / Spanish / Portuguese 三个修饰词，选项常用单数谓语来干扰。读句子时先砍掉定语、找到中心词，再定单复数，这一步在完形里比时态还容易失分",
+        "former 意为「以前的、前任的」（the former ... the latter ... 是「前者……后者……」），此处与第 3 段 the new nations 呼应，点出「殖民地 → 独立国家」的身份转换。看到 former 要意识到作者是在做历史分期，而不是评价好坏",
+        "become / get / grow / turn / go 都是系动词，后面接形容词或名词；become 不能用于被动。这类「系动词 + 表语」的搭配是完形填空的固定考点，也和句中 had become 的完成时形式叠在一起考"
+      ],
+      "words": [
+        "former",
+        "colonies",
+        "independent",
+        "become"
+      ],
+      "source": "2007 英语一（旧） 完形填空"
+    },
+    {
+      "id": "y07s14",
+      "type": "by + 时间点作时间状语 + 过去完成时的被动语态 + everywhere except 排除状语",
+      "en": "By 1854 slavery had been abolished everywhere except Spain's colonies.",
+      "main": "slavery had been abolished everywhere except Spain's colonies",
+      "clauses": [
+        {
+          "part": "时间状语（by + 过去时间点）",
+          "text": "By 1854",
+          "note": "与第 1 段的 By 1830 构成全篇的时间轴：1830 年政治独立，1854 年才废奴。By 只是划出截止线，句子并未说明废除是哪一年发生的，只说明到 1854 年这件事已经完成，所以用完成时而不是一般过去时"
+        },
+        {
+          "part": "主语",
+          "text": "slavery",
+          "note": "奴隶制是抽象不可数名词，没有复数形式，谓语用单数 had；同类的 freedom / equality / liberty 在完形里也常被拿来考可数性。主语是「被废除的对象」而不是施动者，这一点决定了后面必须用被动"
+        },
+        {
+          "part": "谓语（过去完成时的被动语态）",
+          "text": "had been abolished",
+          "note": "had been + 过去分词 = 过去完成时的被动语态，两层信息叠在一起：完成（By 1854）＋被动（slavery 是被废的对象）。为什么要用被动：施动者（玻利瓦尔等解放者）上一句已经出现过，本句的重心是 slavery 的结局，不必再点出。写成 had abolished 就成了「奴隶制废除了别的东西」，主语和语态全错——这是完形和改错里最常见的失分点。abolish 的常见搭配是 abolish slavery / a law / a system"
+        },
+        {
+          "part": "地点状语中的排除结构",
+          "text": "everywhere except Spain's colonies",
+          "note": "everywhere 是副词，说的是「全部地方」，except 是介词，引出唯一的例外。except 后面只能接名词或代词（except Spain's colonies）；要接句子必须换成 except that 从句。整块在句中是地点状语，翻译时中文习惯把「除……之外」提到前面：除了西班牙的殖民地，各地都已废除。注意 colonies 用复数，说明西班牙当时仍握着多块殖民地，这个「例外」正是第 3 段「理想被现实打折」的第一个证据"
+        }
+      ],
+      "bracket": "(By 1854) (slavery) (had been abolished) (everywhere) (except Spain's colonies).",
+      "cn": "到 1854 年，除了西班牙的殖民地之外，奴隶制已经在各地被废除。",
+      "points": [
+        "过去完成时 + 被动语态同时出现时要做两步判断，缺一不可：先看语态——主语 slavery 是动作的承受者，所以用过去分词（had been abolished），不能用 had abolished；再看时态——By 1854 划出截止线，所以用完成时。只凭「事情发生在过去」就选一般过去时，是这道题最典型的错法",
+        "everywhere except ... 是「全部肯定 + 唯一例外」的排除结构。except 是介词，后面接名词短语；besides 是「除……之外还有」（加法），except for 常用于对前述内容的局部修正。完形填空里 except / besides / except for / but 的辨析几乎每隔几年就考一次，判断依据是「排除」还是「追加」",
+        "「by + 过去时间点」后面跟完成时是本篇反复出现的考点：第 1 段 By 1830 ... had become，本句 By 1854 ... had been abolished。两句连起来读，时间轴就是「1830 独立 → 1854 废奴」，主旨题若问理想的兑现情况，这条时间线是最直接的证据",
+        "slavery 不可数、colonies 复数，一句里两种名词的数形成对照：谓语动词只跟主语 slavery 一致（had），不要被离它最近的 colonies 带偏。这也是完形里「主谓一致 + 就近干扰」的典型设空方式"
+      ],
+      "words": [
+        "slavery",
+        "abolish",
+        "everywhere",
+        "except",
+        "colonies"
+      ],
+      "source": "2007 英语一（旧） 完形填空"
+    },
+    {
+      "id": "y07s15",
+      "type": "并列谓语 + how to 不定式短语作宾语 + 过去分词短语作宾语补足语 + 具解释作用的 such as 同位语",
+      "en": "Assign responsibilities around the house and make sure homework deadlines are met.",
+      "main": "Assign responsibilities around the house and make sure",
+      "clauses": [
+        {
+          "part": "祈使句谓语一 + 宾语",
+          "text": "Assign responsibilities around the house",
+          "note": "祈使句没有主语，但动作的发出者在本段上一句里交代得很清楚——parents，作者是直接对着父母下指令。assign 是「分派、布置」，宾语是 responsibilities，不是 house；around the house 是地点状语，意思是「家里的（活儿）」，别读成「在房子周围」。句子以祈使句开头，正是小标题题的信号：**祈使句＝建议＝待选标题的动作**，第 43 段的 B 项就是从这句的 Assign 上来的"
+        },
+        {
+          "part": "祈使句谓语二（并列谓语）",
+          "text": "and make sure",
+          "note": "与 Assign 并列的第二个祈使谓语，前面省略了同一个隐含主语 you。`make sure` 后面接的是从句，不是名词——这决定了后半句的性质，也是本句最容易读断的地方：看到 make sure 就要往后找 that 或一个完整的主谓结构"
+        },
+        {
+          "part": "省略 that 的宾语从句",
+          "text": "homework deadlines are met",
+          "note": "作 make sure 的宾语，that 被省略。主语是 homework deadlines（作业的最后期限），不是 homework；`are met` 是被动语态，meet a deadline 是「按期完成」，变成被动就是「截止时间被人守住」。这里没有明说守的人是谁，但结合上文的父母视角，隐含的就是父母要盯住——中文译成「盯住」比「被满足」自然得多"
+        }
+      ],
+      "bracket": "(Assign responsibilities) (around the house) and (make sure) [homework deadlines are met].",
+      "cn": "在家里给孩子分派一些该担的责任，并且盯住作业的截止时间别拖。",
+      "points": [
+        "两个并列的祈使谓语 Assign 和 make sure 共用一个隐含主语 you。祈使句并列时第二个动词前不再出现主语，读的时候要意识到「还是同一个人在做事」，否则会觉得句子缺主语、读不通",
+        "make sure 后面接的是**省略 that 的宾语从句**（homework deadlines are met），不是名词短语。同类还有 make sure of sth，但用 of 时后面只能跟名词，两者的分界是：有完整主谓就用从句",
+        "homework deadlines are met 是被动语态，meet 在这里是「如期完成、满足（期限）」，meet a deadline / meet requirements 都是这个意思。不要按字面读成「作业截止时间被遇见」",
+        "本句是第 43 段（43 题）里的具体措施之一，与上一句 `parents should be responsible for teaching them how to work` 构成「主张—落实」的关系。对应标题 Build Your Kids' Work Skills：assign responsibilities、meet deadlines 练的正是 work skills，而不是标题 G 里的 sense of responsibility——本段末尾把重心明确推到了 organizational skills 上"
+      ],
+      "words": [
+        "assign",
+        "deadline",
+        "homework"
+      ],
+      "source": "2007 英语一（旧） Part B"
+    },
+    {
+      "id": "y07s16",
+      "type": "while 让步状语从句（内含省略 that 的宾语从句）+ 同位语插入语 + 并列谓语 + 介词 in + 动名词短语",
+      "en": "They should exhibit strong interest and respect for whatever currently interests their fledging adult (as naive or ill conceived as it may seem) while becoming a partner in exploring options for the future.",
+      "main": "They should exhibit strong interest and respect for whatever currently interests their fledging adult ... while becoming a partner in exploring options for the future.",
+      "clauses": [
+        {
+          "part": "主句 + 名词性从句作介词宾语",
+          "text": "They should exhibit strong interest and respect for whatever currently interests their fledging adult",
+          "note": "主语 They 指父母，不是孩子——本段开头 `They have to be careful not to come across as disappointed in their child` 里的 They 也是父母。`interest and respect` 共用一个介词 for，for 的宾语不是名词而是 whatever 引导的名词性从句（＝任何当下让他们刚成年的孩子感兴趣的东西），所以 for 后面看到 whatever / what / how 时，要意识到那是从句。`fledging adult` 是作者的生造说法（fledging 借自 fledgling，指刚会飞的小鸟），意思是「刚成年、还没站稳的孩子」，与首段 the start-up adult 是同一路人"
+        },
+        {
+          "part": "让步状语从句（插入语形式）",
+          "text": "as naive or ill conceived as it may seem",
+          "note": "用一对括号插在名词短语后面，是**让步**：哪怕在父母看来这孩子感兴趣的东西很天真、想得很不周到，也要照样表示兴趣和尊重。`as + 形容词 + as + 主语 + may seem` 是固定的让步句式，等于 no matter how naive or ill conceived it may seem；it 回指前面 whatever 从句说的那件事，不是指孩子本人。读到这里可以先整块跳过，句子骨架不受影响，但作者的态度全在这句里——它是「别显得失望」这条建议的具体落实"
+        },
+        {
+          "part": "while + 现在分词（伴随/并列状语）",
+          "text": "while becoming a partner in exploring options for the future",
+          "note": "while 后面接的是现在分词短语而不是完整从句，说明它的逻辑主语与主句主语一致，还是父母（they）。这里的 while 不是「当……的时候」，而是表**同时并存**的「与此同时、并且」，等于 and at the same time。`become a partner in (doing) sth` 是「在某件事上成为伙伴」，介词 in 后面必须用动名词 exploring；父母的身份从「安排者」变成「伙伴」，正是末段 more delicate 那层意思的落点"
+        }
+      ],
+      "bracket": "(They) should (exhibit) (strong interest and respect) for [whatever currently interests their fledging adult] ([as naive or ill conceived as it may seem]) [while becoming (a partner) in (exploring options for the future)].",
+      "cn": "他们对刚成年的孩子眼下感兴趣的东西，都应该表现出强烈的兴趣和尊重——哪怕在父母看来那想法很天真、考虑得很不周到；同时还要成为孩子的伙伴，一起探讨未来的各种选择。",
+      "points": [
+        "全句只有一个主句谓语 exhibit，后面两个带括号和 while 的部分都是附加成分。读长句时先把 `They should exhibit strong interest and respect` 抓出来，剩下的再一层层挂上去，就不会被中间的括号插话带跑",
+        "`for whatever currently interests their fledging adult` 里，for 的宾语是一个 whatever 引导的名词性从句，whatever 在从句内部作 interests 的主语。这与 whatever 引导让步状语从句（第 2 段那种）不同，判断依据是：能不能换成 anything that——能换就是名词性从句",
+        "括号里的 `as naive or ill conceived as it may seem` 是让步，不是比较。`as + adj. + as + 主语 + may seem` 要整体理解成「不管显得多么……」，it 指前面那件事；把它读成「和它看起来一样天真」意思就全反了",
+        "`while becoming ...` 用分词而非从句，说明主语仍是父母；while 在这里表并存而不是时间。`become a partner in doing sth` 的 in 是介词，后面只能跟动名词，是考研改错和完形爱考的一处",
+        "本句是末段的态度落点，与前面五条「安排式」建议形成对照：前面是 review / Discuss / Assign / Place limits 这类动作，这里却退到 exhibit interest and respect / becoming a partner。若考作者态度或主旨，答案的重心是 respect 与 supported，而不是父母该多加管教"
+      ],
+      "words": [
+        "exhibit",
+        "naive",
+        "option"
+      ],
+      "source": "2007 英语一（旧） Part B"
+    },
+    {
+      "id": "y07s17",
+      "type": "被动语态 + view A as B 被隔开 + rather than 对比 + 后置定语",
+      "en": "Traditionally, legal learning has been viewed in such institutions as the special preserve of lawyers, rather than a necessary part of the intellectual equipment of an educated person.",
+      "main": "legal learning has been viewed ... as the special preserve of lawyers, rather than a necessary part of the intellectual equipment of an educated person",
+      "clauses": [
+        {
+          "part": "状语",
+          "text": "Traditionally",
+          "note": "「传统上」，一句就交代了这是旧观念，为下一句 Happily... 的转折做铺垫"
+        },
+        {
+          "part": "主语",
+          "text": "legal learning",
+          "note": "不是「法律学习」这么简单：legal learning 指「法律知识的学习」，是抽象名词短语作主语，谓语用单数 has"
+        },
+        {
+          "part": "被动谓语（view A as B 被隔开）",
+          "text": "has been viewed in such institutions as the special preserve of lawyers",
+          "note": "view A as B 的被动式是 A is viewed as B。这里在 viewed 和 as 之间插进了 in such institutions，很容易误读成 such...as 的固定搭配。判断方法：such 后面跟的是名词 institutions，这里没有「such as」的列举关系"
+        },
+        {
+          "part": "rather than 对比项",
+          "text": "rather than a necessary part of the intellectual equipment of an educated person",
+          "note": "rather than 连接两个并列的名词短语，否定的是后者。译成汉语必须保留「而不是」的对比，漏掉就丢分"
+        },
+        {
+          "part": "后置定语",
+          "text": "of an educated person",
+          "note": "修饰 the intellectual equipment，不是修饰 part。断句时往回找最近的中心名词"
+        }
+      ],
+      "bracket": "(Traditionally), (legal learning) has been viewed in (such institutions) as (the special preserve of lawyers), rather than (a necessary part of the intellectual equipment of an educated person).",
+      "cn": "传统上，在这类院校里，法律学习一直被视为律师的专属领地，而不是一个受过教育的人所应具备的知识素养中的必要部分。",
+      "points": [
+        "view A as B 的被动式是 A is viewed as B。本句在 viewed 和 as 之间插进了 in such institutions，很容易误读成 such...as 固定搭配。判断方法：such 后面跟的是名词 institutions，不是举例关系",
+        "rather than 连接的是两个并列成分（the special preserve of lawyers 与 a necessary part...），否定后者。翻译时必须译出「而不是」的对比",
+        "the intellectual equipment of an educated person 直译成「受教育者的智识装备」很生硬。equipment 在这里是抽象用法「素养、储备」，译成「一个受过教育的人所应具备的知识素养」才是人话",
+        "被动语态 has been viewed 译成「一直被视为」比「被看」自然。英译汉里被动转主动、或转成「被视为／被认为是」这类汉语固有说法，是通用处理办法",
+        "这是第 46 题。采分点是被动语态的处理、in such institutions 的位置，以及 rather than 的对比"
+      ],
+      "words": [
+        "preserve",
+        "intellectual",
+        "equipment"
+      ],
+      "source": "2007 英语一（旧） 翻译"
+    },
+    {
+      "id": "y07s18",
+      "type": "代词回指 + link A to B + 定语从句省略关系代词",
+      "en": "On the other, it links these concepts to everyday realities in a manner which is parallel to the links journalists forge on a daily basis as they cover and comment on the news.",
+      "main": "it links these concepts to everyday realities in a manner which is parallel to the links journalists forge",
+      "clauses": [
+        {
+          "part": "状语（承接上文）",
+          "text": "On the other",
+          "note": "On the other (hand) 的省略形式，与上一句的 On the one hand 呼应。读到它就知道这是在说「另一方面」"
+        },
+        {
+          "part": "主句",
+          "text": "it links these concepts to everyday realities",
+          "note": "it 指上文的 law（法学）。link A to B = 把 A 与 B 联系起来。these concepts 回指上一句的 justice, democracy and freedom"
+        },
+        {
+          "part": "方式状语 + 定语从句（省略关系代词）",
+          "text": "in a manner which is parallel to the links journalists forge",
+          "note": "which 修饰 a manner。the links 后面省略了关系代词 that/which，因为它在从句里作 forge 的宾语。看到「名词 + 主谓」中间没有连词，就要反应过来是省略了关系代词的定语从句"
+        },
+        {
+          "part": "时间状语从句",
+          "text": "as they cover and comment on the news",
+          "note": "they 指 journalists。as 在这里是「当……时」。cover 是「报道」不是「覆盖」，comment on 是「评论」"
+        }
+      ],
+      "bracket": "(On the other), (it) links (these concepts) to (everyday realities) in (a manner [which is parallel to (the links [journalists forge on a daily basis] [as they cover and comment on the news])]).",
+      "cn": "另一方面，它把这些概念与日常现实联系起来，其联系方式与记者在日常报道和评论新闻时建立的联系是平行的。",
+      "points": [
+        "the links journalists forge 里，links 后面省略了关系代词 that/which（它在从句里作 forge 的宾语）。这是本句最大的断句难点：journalists forge 不是主句的主谓，而是修饰 links 的定语从句",
+        "cover 在新闻语境里是「报道」，不是「覆盖」。同类还有 cover a story / cover the election。comment on 的介词不能丢",
+        "in a manner which is parallel to... 直译是「以一种与……相平行的方式」，很别扭。改成「其联系方式与……平行」更自然",
+        "这是第 47 题。采分点是省略关系代词的定语从句，以及 the links journalists forge 这一层的识别"
+      ],
+      "words": [
+        "parallel",
+        "forge",
+        "comment"
+      ],
+      "source": "2007 英语一（旧） 翻译"
+    },
+    {
+      "id": "y07s19",
+      "type": "同位语从句 + 比较级 + 主谓被长从句隔开",
+      "en": "But the idea that the journalist must understand the law more profoundly than an ordinary citizen rests on an understanding of the established conventions and special responsibilities of the news media.",
+      "main": "the idea ... rests on an understanding of the established conventions and special responsibilities of the news media",
+      "clauses": [
+        {
+          "part": "主语 + 同位语从句",
+          "text": "the idea that the journalist must understand the law more profoundly than an ordinary citizen",
+          "note": "that 引导同位语从句解释 idea 的内容。判断要点：that 在从句里不作任何成分，从句本身是完整的「记者必须比普通公民更懂法律」，所以是同位语从句而不是定语从句"
+        },
+        {
+          "part": "谓语",
+          "text": "rests on an understanding",
+          "note": "rest on = 依赖于、建立在……之上。主语是 the idea（单数），所以用 rests。主语和谓语被一个 14 词的同位语从句隔开，这是本句最大的难点"
+        },
+        {
+          "part": "后置定语",
+          "text": "of the established conventions and special responsibilities of the news media",
+          "note": "两个 of 短语层层修饰：of the news media 既限定 special responsibilities，也整体限定 the established conventions。established 是「既定的、约定俗成的」"
+        }
+      ],
+      "bracket": "(the idea [that the journalist must understand the law more profoundly than an ordinary citizen]) rests on (an understanding of the established conventions and special responsibilities of the news media).",
+      "cn": "但是，「记者必须比普通公民更深刻地理解法律」这一看法，是建立在理解新闻媒体既定惯例和特殊责任的基础之上的。",
+      "points": [
+        "主语 the idea 和谓语 rests 之间隔了一个 14 词的同位语从句。断句策略：先把 that 从句整块括起来，直接接 rests on，否则会找不到谓语",
+        "同位语从句 vs 定语从句：that 在从句里不作成分（从句是完整的「记者必须更懂法律」）→ 同位语从句；若 that 在从句里作主语或宾语 → 定语从句",
+        "rest on/upon 是「依赖于、以……为依据」，考研高频。不要读成「靠在……上」",
+        "翻译时同位语从句要先译出来，再用「这一看法」回指，汉语才通顺。这是第 48 题的采分点"
+      ],
+      "words": [
+        "profoundly",
+        "convention",
+        "responsibilities"
+      ],
+      "source": "2007 英语一（旧） 翻译"
+    },
+    {
+      "id": "y07s20",
+      "type": "形式主语 it + how 宾语从句 + 从句内定语从句隔断主谓",
+      "en": "In fact, it is difficult to see how journalists who do not have a clear grasp of the basic features of the Canadian Constitution can do a competent job on political stories.",
+      "main": "it is difficult to see how journalists ... can do a competent job on political stories",
+      "clauses": [
+        {
+          "part": "形式主语",
+          "text": "it is difficult to see",
+          "note": "it 是形式主语，真正的主语是后面的 to see how...。翻译时 it 不要保留"
+        },
+        {
+          "part": "宾语从句（作 see 的宾语）",
+          "text": "how journalists who do not have a clear grasp of the basic features of the Canadian Constitution can do a competent job on political stories",
+          "note": "how 引导的从句作 see 的宾语。从句主语是 journalists，谓语是 can do，中间又插了一个定语从句"
+        },
+        {
+          "part": "定语从句",
+          "text": "who do not have a clear grasp of the basic features of the Canadian Constitution",
+          "note": "修饰 journalists。have a grasp of = 掌握、理解，grasp 这里是名词不是动词。用否定形式，意思是「没有清楚掌握」"
+        }
+      ],
+      "bracket": "(In fact), it is difficult to see [how (journalists [who do not have a clear grasp of the basic features of the Canadian Constitution]) can do (a competent job) on (political stories)].",
+      "cn": "事实上，很难想象那些没有清楚掌握加拿大宪法基本特征的记者，怎么能在政治报道上胜任工作。",
+      "points": [
+        "how 从句的主语 journalists 和谓语 can do 被一整个定语从句隔开。断句策略：先锁 journalists，跳过 who...Constitution 整块，直接接 can do",
+        "have a (clear) grasp of sth = 掌握、理解。grasp 在这里是名词，不要当动词解",
+        "it is difficult to see how... 有固定译法「很难想象／很难看出……」，比「去看是很难的」自然得多",
+        "competent 是「有能力的、称职的」，do a competent job 译成「胜任工作」比「做一份称职的工作」像人话",
+        "这是第 49 题。采分点是形式主语的处理和从句里被隔开的主谓"
+      ],
+      "words": [
+        "competent",
+        "constitution",
+        "grasp"
+      ],
+      "source": "2007 英语一（旧） 翻译"
+    },
+    {
+      "id": "y07s21",
+      "type": "让步状语从句 + 形式主语 it + 并列不定式（省略 to）",
+      "en": "While comment and reaction from lawyers may enhance stories, it is preferable for journalists to rely on their own notions of significance and make their own judgments.",
+      "main": "it is preferable for journalists to rely on their own notions of significance and make their own judgments",
+      "clauses": [
+        {
+          "part": "让步状语从句",
+          "text": "While comment and reaction from lawyers may enhance stories",
+          "note": "while 在句首、主句给出作者主张时取让步义「虽然」，不是「当……时」。enhance = 提升、增强。stories 在新闻语境里是「报道、稿件」，不是「故事」"
+        },
+        {
+          "part": "形式主语",
+          "text": "it is preferable for journalists",
+          "note": "it 是形式主语，真正的主语是后面的不定式。preferable 是「更可取的、更好的」，不是「更喜欢的」"
+        },
+        {
+          "part": "真主语（并列不定式）",
+          "text": "to rely on their own notions of significance and make their own judgments",
+          "note": "两个不定式并列，第二个省略了 to。rely on 与 make 并列，逻辑主语都是 journalists"
+        }
+      ],
+      "bracket": "[While (comment and reaction from lawyers) may enhance (stories)], (it) is preferable for (journalists) to (rely on their own notions of significance) and (make their own judgments).",
+      "cn": "律师的评论和反馈固然可以提升报道，但记者更好的做法是依靠自己对重要性的判断，作出自己的判断。",
+      "points": [
+        "while 在句首、主句表达作者主张时取让步义「虽然」。这是第 50 题的第一个采分点，译成「当……时」整句逻辑就错了",
+        "it is preferable for sb to do sth 里的 it 是形式主语，翻译时不要保留，直接说「某人更好的做法是……」",
+        "stories 在新闻语境里指「报道、稿件」；notions of significance 是「对重要性的判断」，不是「意义的概念」",
+        "第二个不定式 make 前面省略了 to，与 rely on 并列，共用逻辑主语 journalists。翻译时要补出主语「记者」，否则汉语会缺主语"
+      ],
+      "words": [
+        "preferable",
+        "notion",
+        "significance"
+      ],
+      "source": "2007 英语一（旧） 翻译"
+    }
+  ]
+}

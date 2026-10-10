@@ -1,0 +1,295 @@
+{
+  "meta": {},
+  "passages": [
+    {
+      "id": "y20p1",
+      "source": "2020 英语二 Text 1",
+      "topic": "老鼠能否识别社交机器人",
+      "type": "实验研究型（背景—设计—发现—解释—推广）",
+      "mainIdea": "老鼠对社交信号敏感到「不加区分」的程度：它们愿意为表现友善的机器人开笼门，说明社交线索的接收门槛很低；人类和老鼠一样，都会被最简陋的社交信号吸引。",
+      "structure": "提出研究背景与问题（1）→ 交代实验设计与装置（2）→ 两种机器人行为对比（3）→ 关键结果与数据（4）→ 专家解释并推广到人类（5）",
+      "paragraphs": [
+        {
+          "n": 1,
+          "role": "提出背景 + 问题",
+          "gist": "老鼠天生要对同类的社交信号高度敏感，才能分清敌友；研究者由此提问：这种能力会不会延伸到非生命体——老鼠能不能识别机器鼠发出的社交信号？",
+          "note": "第一句先给公认事实（动物必须对他人的社交信号敏感），第二句用 To find out if this extends to non-living beings 把话题从「动物」扭到「机器人」。英二实验类文章的开篇几乎都是这个套路：先讲常识，再问「那…呢」。答题时把第二句当作全文的总问题——后面每一段都是在回答它。"
+        },
+        {
+          "n": 2,
+          "role": "交代实验设计",
+          "gist": "把八只成年鼠和两只机器鼠（一只社交型、一只非社交型）同住四天；机器鼠极其简陋，只相当于装了轮子、带彩色标记的加大版鼠标。",
+          "note": "They housed... 是实验类文章的典型开头，读到时立刻意识到「研究对象＋时长」即将出现。注意破折号里的 one social and one asocial 是全文最重要的**变量对照**：后面所有结果都要靠这一组对比才能读懂。resembling a chunkier version of a computer mouse 这种具象比喻是为了强调「简陋」，与第 5 段的 surprising 直接呼应——作者是故意先让你觉得这东西不像老鼠。"
+        },
+        {
+          "n": 3,
+          "role": "对比两组行为",
+          "gist": "实验期间，社交型机器鼠跟着活鼠转、玩同样的玩具、还会开笼门放走被困的鼠；而非社交型机器鼠只会前后左右移动。",
+          "note": "本段靠 Meanwhile 把两组并列起来，是全文最清楚的**对照结构**（played with the same toys / opened cage doors 对 simply moved forwards and backwards）。阅读策略：只要抓住 Meanwhile 前的「社交型做了好事」和之后的「非社交型什么也没做」，第 4 段的数字就好理解了。细节题常在这里考「社交型机器鼠做了哪件事」，注意 opened cage doors to let trapped rats escape 这一条是后面「回报人情」逻辑的伏笔。"
+        },
+        {
+          "n": 4,
+          "role": "呈现关键结果",
+          "gist": "研究者把机器鼠关进笼子，让活鼠按杠杆放它们出来：18 次试验中，活鼠放走社交型机器鼠的概率平均高出 52%。奎恩认为这说明老鼠把社交型机器鼠当成了真正的社交存在，并推测原因：它表现出了共同探索、玩耍等行为，老鼠可能因此更记得自己放走过它，并指望将来自己被关时对方回报。",
+          "note": "本段是全文的**数据段和结论段**，也是细节题命中率最高的地方。Next 表示实验进入下一阶段，Across 18 trials each / 52 percent more likely 是必须能定位的数字。This suggests that... 和 The rats may have bonded... 分别用 suggests、may 标记出「推测」而非定论——态度题若把推测写成事实就是错的。末尾 she says 是引述归属，读到可以直接跳过。"
+        },
+        {
+          "n": 5,
+          "role": "专家解释 + 推广收束",
+          "gist": "奎恩引用既有研究说明老鼠本就有多种互惠互助行为；考虑到机器鼠设计如此简陋，老鼠仍愿意与它亲近让人意外。Wiles 坦言本以为必须给机器鼠装上会动的头尾、面部特征和气味，结果并不需要。结论：老鼠对社交线索极其敏感，哪怕线索来自最基础的机器人；儿童也一样把机器人当同类看待——人类和动物都被机器人吸引。",
+          "note": "本段前半仍是奎恩（says Quinn），中间用 says Janet Wiles...who helped with the research 换成第二位专家，读到 says + 人名时要立刻切换观点归属。The readiness of the rats to befriend the social robot was surprising given its minimal design 是全文的态度落点。最后 Similarly, children tend to... 用 Similarly 把动物实验推广到人类，末句引语 We humans seem to be fascinated by robots, and it turns out other animals are too 是全文主旨句——主旨题答案基本就在这一句，注意它说的是「人和动物都被吸引」，不是「动物比人聪明」。"
+        }
+      ]
+    },
+    {
+      "id": "y20p2",
+      "source": "2020 英语二 Text 2",
+      "topic": "CEO 高薪为何水涨船高",
+      "type": "现象—立论—反驳—补证型（先破后立）",
+      "mainIdea": "CEO 薪酬暴涨不是掠夺股东和员工的结果：一方面顶尖管理人才本就稀缺、而顶级公司的商业机会在快速膨胀，另一方面如今的 CEO 需要远比「会管公司」复杂得多的能力；治理越严格、薪酬反而越高，正说明高薪是在为越来越难做的岗位争抢顶尖人才。",
+      "structure": "摆现象 + 立反常识论点（1）→ 拆解 CEO 能力门槛的抬高（2）→ 反驳「高薪＝剥削」的流行看法（3）→ 用外部招聘和股市反应补证收束（4）",
+      "paragraphs": [
+        {
+          "n": 1,
+          "role": "摆现象 + 立论",
+          "gist": "先承认 CEO 薪酬确实涨得惊人——顶尖 CEO 能拿到普通员工的 300 倍，1970 年代中期以来大公司 CEO 薪酬按各种估计涨了约 500%，典型 CEO 年薪约 1890 万美元；但作者认为，理解这件事最好的模型是「顶尖人才有限」，而顶级公司面对的商业机会正在快速膨胀。承认这话不讨喜，但 CEO 相对许多其他工人确实提升了自己的本事。",
+          "note": "首句 It is true that... 是**让步信号**，作者先承认「涨得离谱」这一公认事实，再用 The best model for... 抛出自己的解释，最后用 It's not popular to say, but... 直接交代立场。态度题要盯 It's not popular to say 之后的半句——那才是作者本人的判断，别把开头的让步当成作者态度。另外本段是数据密集区（300 times / 500% / $18.9 million），细节题的数字都在这里，而 The efforts of America's highest-earning 1% have been one of the more dynamic elements... 里的 dynamic 是褒义评价词，说明作者对高收入群体并不敌视。"
+        },
+        {
+          "n": 2,
+          "role": "拆解能力门槛",
+          "gist": "如今的 CEO 不能只是「会经营公司」：要懂金融市场乃至公司该如何在其中交易，要有比前任更好的公关能力（一次小失误代价就很大），要管理供应链横跨多国的全球化企业，要带领几乎都变成科技公司的美国大企业，同时还得照旧做所有日常事务。",
+          "note": "本段是纯粹的**理由罗列段**，靠 They also need / Then there's the fact that / Plus / Beyond this 一层层往上加，读的时候只要在每句开头标记「又加了一条」即可，不必逐句精读。判态度题时注意：整段没有 However、Yet 一类的转折词，说明它是在给第 1 段的论点**补证据**，而不是另起炉灶。细节题常问「今天的 CEO 比过去多需要什么」，答案就在这一段的前五句里；as the costs of even a minor slipup can be significant 用 as 引出原因，是这一段里唯一的因果句，命题人偏爱这种句子。"
+        },
+        {
+          "n": 3,
+          "role": "反驳流行看法",
+          "gist": "「CEO 高薪主要就是坑人」这个流行看法解释不了历史：按大多数衡量标准，1970 年代以来公司治理变得严格得多；然而偏偏就是在这段治理更强的时期，CEO 薪酬居高不下并持续上涨。这说明为越来越难做的岗位招募顶尖人才符合公司整体利益。",
+          "note": "本段是全文的**论证枢纽**，也是最容易出推理题的地方。逻辑链要自己补出来：如果高薪真的是剥削，那么治理收紧之后薪酬就该被压下去——事实恰恰相反，所以「剥削说」站不住。The common idea that... 是「树靶子」句式，that 从句引出的是别人（不是作者）的观点，态度的归属必须分清。Yet it is principally during this period of stronger governance that... 是强调句，被强调的正是「治理更严」这个时间状语，作者用它制造反差；段落末句 That suggests... 用 suggests 保留了一丝余地，选项里若说成 proves（证明）就是过度推断。"
+        },
+        {
+          "n": 4,
+          "role": "补证 + 收束",
+          "gist": "再者，最高的 CEO 薪酬付给的是外部候选人，而不是舒适的内部人选，这又是一个迹象：高薪并非以公司其他人为代价的掠夺。而且当公司把 CEO 薪酬与股价等挂钩时，股市会作出积极反应——这说明这类做法为公司也为 CEO 本人创造了价值。",
+          "note": "Furthermore 承接第 3 段继续给论据，说明两段合起来是同一条论证线：第 3 段讲「治理更严反而更高」，本段讲「外部招聘」和「股市反应」两个旁证。标点即结构——两句都是「主句, + 名词短语 + that 从句」，another sign / a sign 是前面整句的同位语，不是新的分句，看到「逗号 + sign」要提醒自己后面那半句是在解释前面，不是在并列。全文结论落在 build up corporate value not just for the CEO（不只对 CEO 有好处），这正是对「剥削说」的最终否定，主旨题的答案方向就在这里。"
+        }
+      ]
+    },
+    {
+      "id": "y20p3",
+      "source": "2020 英语二 Text 3",
+      "topic": "城市治污的碎片化困境",
+      "type": "个案切入—批评模式—让步承认—归因收束型",
+      "mainIdea": "马德里的反复说明，逐个城市各自为战的做法是脆弱的：它把治污成本压在车主身上，触动的是选票，所以随时可能被政治反转；地方措施并非没用，但它替代不了国家政府去强制汽车制造商整改这一个根本动作。",
+      "structure": "引出马德里禁行区被叫停的个案（1）→ 指出逐个城市治污的模式有根本弱点并预警伦敦（2）→ 让步：地方措施确有实效（3）→ 归因：国家政府失职，地方只能小打小闹（4）",
+      "paragraphs": [
+        {
+          "n": 1,
+          "role": "个案切入",
+          "gist": "马德里去年 11 月推出严厉的限排措施，被誉为公共卫生标杆；七个月加一场选举之后，新上台的保守派市议会暂停执行清洁空气区，市长本人以反对该区为竞选纲领，而法官又裁定恢复罚款——禁行区的命运悬而未决。",
+          "note": "首段不表态，只把一件事的来龙去脉摆出来，是英二「先案例、后评论」类文章最常见的开头。读的时候要抓住政策被反复折腾的时间线：rolled out（去年 11 月）→ suspended（七个月后）→ overruled / reinstated（现在）→ looks uncertain（将来）。三个信号词最关键：despite 引出「尽管空气质量确实改善了」，说明反对者不是不知道它有用；now 说明司法这一环刚发生；段末 But 提示后面还有转折，作者的态度从第 2 段才开始。"
+        },
+        {
+          "n": 2,
+          "role": "批评模式 + 预警",
+          "gist": "马德里的反复恰好暴露了欧洲（包括英国）那种「各城市各自打补丁」的治污模式的局限：这类措施本身在政治上就有争议，因此很脆弱——因为它们把清洁空气的成本摊到个人车主头上，而不是真正的责任方汽车制造商身上。伦敦很可能重演同样的反转：新的超低排放区会成为明年市长选举的大议题，一旦扩围，受影响的车主数量大得多，反对必然激烈。",
+          "note": "本段是全文的立论段，作者从马德里一个案例跳到「欧洲通病」，这是典型的由个案归纳普遍问题的写法。论证链条是：措施要有争议（politically controversial）→ 所以脆弱（therefore vulnerable）→ 为什么有争议（That's because 成本被转嫁给了车主而不是制造商）。抓住这条因果链，本段主旨题就不会跑到「伦敦选举」这种细节上去。It's not hard to imagine 是「预警」而不是事实陈述，后面伦敦那段全是作者的推演，语气词（likely / sure to）都表明这是预测——细节题若把它写成「伦敦已经发生」就是错的。"
+        },
+        {
+          "n": 3,
+          "role": "让步",
+          "gist": "作者并不是说伦敦超低排放区这类措施没用——完全不是。地方官员是在用手中仅有的手段保护居民健康，面对的是实实在在的威胁；这些区域确实改善了空气质量，而科学告诉我们这意味着真实的健康收益。",
+          "note": "整段是让步段，功能是防止读者把作者误读成「反对一切地方治污措施」。读懂它的关键是 It's not that ... 和 Far from it：前一句先否定一个可能的误解，后一句用「远非如此」把否定再加重一次，随后 The zones do deliver ... 用 do 强调「确实有效」。态度题在这里最容易设陷阱——作者对地方措施的态度是「认可但认为不够」，不是「怀疑」也不是「力挺」。"
+        },
+        {
+          "n": 4,
+          "role": "归因 + 收束",
+          "gist": "但市长和议员能做的就这么多了，因为问题远大于任何一座城市；他们之所以出手，是因为英国和欧洲其他国家的中央政府没有出手。各种把高污染车辆挡在特定区域之外的限制，都是对「没有更大规模的行动」的补救——没人去真正执行现有法规、去要求车企让车辆合规。威尔士只能设低速限值来减少污染。我们什么办法都试了，唯独没去要求制造商把车弄干净。",
+          "note": "本段给出全文的归因和结论，也是态度题、推理题、主旨题的落点。论证结构是「地方做的是补丁（a response to the absence of a larger effort）」，真正的责任在国家政府和汽车制造商。末句 We're doing everything but insist that ... 是全篇最重的一句：but 后面跟的是动词原形，意思是「什么都做了，唯独没做那一件」。注意 insist 后面的 that 从句用 clean up 而不是 cleans up，是虚拟语气——这一点是本题型的高频考点，也说明作者在呼吁「应该去要求」而不是描述现状。"
+        }
+      ]
+    },
+    {
+      "id": "y20p4",
+      "source": "2020 英语二 Text 4",
+      "topic": "Z 世代求职图的是稳",
+      "type": "现象—对照—归因型",
+      "mainIdea": "Z 世代即将进入一个十年来最紧的劳动力市场，但他们与千禧一代不同：不图灵活、只求确定与稳定，因为 2008 年危机、学生贷款和零工经济的兴起让他们成了风险厌恶的一代。",
+      "structure": "提出问题（1）→ 特征对照与数据举证（2）→ 专家归因并收束（3）",
+      "paragraphs": [
+        {
+          "n": 1,
+          "role": "交代背景 + 提出问题",
+          "gist": "Z 世代今年春天毕业，今年雇主计划多招约 17% 的应届生，劳动力市场比过去几十年都紧；于是所有人都想知道，即将坐进那些空工位的人，与之前几代人有什么不同。",
+          "note": "首句用 Now that 把「毕业」当成已知前提，真正的主句是后半截的 the attention has been rising——时间从句一开场就占了半句，读的时候要先跳到逗号后找主句。破折号里对 Z 世代的定义（born after 1995, give or take a year）是插入成分，整块拿掉不影响结构，但 give or take 这个「上下差不了一年」的口语说法常被拿来设词义题干扰项。末句 Everybody wants to know how the people... will differ from those who came before them 是全文的总问题，也是主旨题的答题方向：后面两段都在回答「这一代到底哪里不一样」。注意文中 U. S. 写作带空格的 U. S.，回原文定位数字时按原样检索更方便。"
+        },
+        {
+          "n": 2,
+          "role": "对照 + 摆数据",
+          "gist": "千禧一代背的标签是 entitled（自认应得），Z 世代的标签是 practical and cautious；他们是清醒的经济实用主义者：明明赶上 50 年来最好的经济，却见过经济翻车的模样——2008 年危机时父母失业或失掉毕生积蓄。所以他们对冒险毫无兴趣，繁荣也没能缓解这种代际性的焦虑，尤其是有学生贷款的人。数据佐证：学生贷款余额达到创纪录的 1.5 万亿美元；88% 的应届生是「想着工作」选的专业；佐治亚大学学生最看重的雇主特质是「提供稳定就业」，职业目标里「工作保障或稳定」排第二，仅次于工作与生活的平衡。",
+          "note": "本段靠 If... the catchwords for Generation Z are... 这个对照开篇：entitled 给千禧一代，practical and cautious 给 Z 世代——这组标签就是全文的核心论点，态度题和细节题都盯着它。Despite graduating into the best economy 是让步，紧接着 They were impressionable kids during the crash of 2008 是原因，这里的逻辑反差（最好的经济 vs 最怕风险）正是作者的论证重心，千万不要读成「经济好所以他们乐观」。三处数据（$1. 5 trillion / 88 percent / 2019 survey）是细节题的高频定位点，注意 meanwhile、One survey、In a 2019 survey 这几个并列标记，它们说明它们是同一层级的佐证，不是递进。括号里的 (followed by professional development and training, and then inspiring purpose) 是排序补充，跳读不影响主旨。"
+        },
+        {
+          "n": 3,
+          "role": "专家归因 + 收束",
+          "gist": "这与上一代相比是巨大变化。YouthSight 副总监 Tanya Michelsen 指出：千禧一代想要生活里有更多灵活度，Z 世代要的则是更多的确定与稳定，因为零工经济兴起；他们看不清自己的财务前景，而且相当厌恶风险。",
+          "note": "That's a big change from the previous generation 是承上启下的短句，把第 2 段的特征正式定性为「代际转变」。本段全是引语，读法与前两段不同：只要抓 notes、looking for more certainty and stability、because of the rise of the gig economy、risk averse 这几个词就能拿下全段——它们合起来就是权威版本的全文主旨。引述框 \"...,\" notes Tanya Michelsen, Associate Director of YouthSight, a UK-based brand manager that conducts... 又长又绕（一块同位语套一个定语从句），但它只是出处交代，答题时整块跳过，不要在这里耗时间。"
+        }
+      ]
+    },
+    {
+      "id": "y20p5",
+      "source": "2020 英语二 完形填空",
+      "topic": "做有耐心的父母",
+      "type": "让步承认困难—指出后果—给出可行目标",
+      "mainIdea": "做「好父母」很难定义，但「有耐心的父母」这条路清楚而重要：长期失去耐心等于给孩子示范情绪失控，会伤害亲子关系和孩子的自尊；做不到时刻耐心，就退一步，尽力做到宽容与镇定，结果对大人和孩子都更好。",
+      "structure": "对比立论，推出「耐心」这一抓手（1）→ 承认耐心也难，把话题收窄到情绪失控（2）→ 失控瞬间的具体场景与长期代价（3）→ 追后果：失控是在给孩子做坏示范（4）→ 给出可行替代目标并收束（5）",
+      "paragraphs": [
+        {
+          "n": 1,
+          "role": "对比立论",
+          "gist": "每个父母都想当好父母，但「好父母」没法定义，因为同样的教养方式在不同孩子身上效果不同。",
+          "note": "开篇先承接常识（Being a good parent is... what every parent would like to be），再用 But 把重点转到 defining 上：「好」没有统一标准。判断依据是 particularly since 引出的理由——孩子对同一种教养方式的反应不一样，所以标准才立不住。段末 than, , a younger sibling 是 than 引出的比较对象，中间那个空要填的是插入语，「比如」类的词，作用是举出同一个家庭里的反例。这一段是全篇的「靶子」：既然好父母没法定义，作者就要换一个能定义的标准，第 2 段的 patient parent 就是换出来的抓手。"
+        },
+        {
+          "n": 2,
+          "role": "确立前提交接",
+          "gist": "换一个抓手：有耐心的父母这个概念清楚得多，各年龄段的孩子都受益；但想有耐心是一回事，做得到又是另一回事——父母会累、会烦，没法一直保持镇定，这一点作者表示理解。",
+          "note": "段首的空是让步/递进类连接词，作用是接住第 1 段：好父母难定义，那换个容易定义的。Children of every age benefit from patient parenting 是全文唯一无条件正面肯定的句子，benefit from 是完形高频搭配（第 5 段末尾 benefit 又出现一次，构成首尾呼应）。Still 之后是本段的真正转折点：every parent would like to be patient 和 this is no easy task 形成「意愿 vs 能力」的对立，后面 Sometimes 一句把这个对立落到实处（exhausted and frustrated / unable to maintain a and composed style）。末句 I understand this 是作者表态，态度题常在这里设题——作者是先共情、再讲道理，不是指责父母。"
+        },
+        {
+          "n": 3,
+          "role": "描述失控瞬间",
+          "gist": "再正常不过：孩子把你逼急了，你的耐心耗尽，冲孩子喊叫或说出伤人又没用的话，还想让时间倒流。但作者提醒——就是这么一个疲惫的瞬间，你可能说出让自己后悔很久的话，伤的不只是亲子关系，还有孩子的自尊。",
+          "note": "本段是全文的枢纽，结构是「共情 → 场景 → 转折提醒」。You're only human 先替父母开脱，把读者拉到自己这边。And then the happens 后面用 either...or... 具体展开失控的两种表现；does nobody any good 是对这种言行的评价，态度是否定的。We've all been there 是共情句，也是信号句——它出现之后马上有连接词引导的转折，作者要从「可以理解」翻到「但后果很重」。最后两句是本段的落点：keep in mind that... 后面 that 从句里的 you may for a long time 是「长期后悔」，not only... but also... 把伤害分成两层（relationship / self-esteem）。主旨题和态度题都盯在这两句；读懂「一时失控，长期代价」这个落差，本段的空基本都能顺着填。"
+        },
+        {
+          "n": 4,
+          "role": "指出行为后果",
+          "gist": "如果长期对孩子失去耐心，你就是在无意中给孩子示范什么叫缺乏情绪控制；而人们越来越意识到，给孩子示范宽容和耐心是一项让他们终身受益的技能——在压力之下调节情绪的能力，是人生最重要的技能之一。",
+          "note": "本段把第 3 段从「伤害孩子」推进到「你在教孩子什么」，是典型的追后果。If you consistently... 一句的中心词是 inadvertently modeling——不是故意，是身教，这个词直接决定作者的语气（提醒，不是谴责）。becoming increasingly aware of 是引出共识的固定说法。最后一句是本段必抓的结论句：the ability to emotionally regulate or maintain emotional control 后面跟 when by stress，这个 when 后面省略了主语和 be 动词，补全后是完整的让步/时间状语，是完形里典型的省略考点。of all life's skills 用最高级收尾，把这层后果抬到全篇最高点，也顺势解释了为什么「耐心」值得整篇讨论。"
+        },
+        {
+          "n": 5,
+          "role": "给出可行目标",
+          "gist": "当然，任何时候都保持耐心是极难的，所以更实际的目标是：尽力在孩子相关的情境里做到宽容、镇定。作者承诺，朝这个目标努力，你和孩子都会受益，并且能在压力过后身心状态都更好。",
+          "note": "Certainly 承认前文的前提（难），A more practical goal is to try... 给出替代方案，这是「让步 + 转向」的收束套路，也是态度题的关键：作者不是要求父母完美，而是主张把标准降到做得到。段中的空多半是副词或形容词，靠 tolerant and composed 这组并列词就能定调。to the best of your ability 是插入语，前后两个逗号夹住，读时可以先跳过，主干是 to be as tolerant and composed as you can。末句 I can promise you this: 用冒号引出承诺，benefit 第二次出现，与第 2 段的 benefit from 首尾扣合，physically and emotionally 又是并列收尾——作者在这里正面回应第 2 段的难题：耐心难，但退一步的宽容和镇定，父母做得到，孩子也拿得到好处。"
+        }
+      ]
+    },
+    {
+      "id": "y20p6",
+      "source": "2020 英语二 Part B",
+      "topic": "与全办公室同事相处的方法",
+      "type": "总—分型（小标题匹配：开篇立论 + 六条并列建议 + 选项）",
+      "mainIdea": "想让整个办公室的人都站到你这边，靠的不是讨好，而是六件具体的小事：坦诚待人、放慢节奏听人说话、扩大交往圈、真诚赞美、按对方的类型调整沟通方式。",
+      "structure": "开篇见标题并点出「同事不得不相处」（1）→ 坦诚（2）→ 倾听（3）→ 扩大圈子（4）→ 赞美（5）→ 因人而异（6）→ 供匹配的候选小标题（7）",
+      "paragraphs": [
+        {
+          "n": 1,
+          "role": "开篇见标题 + 点题",
+          "gist": "标题已经亮明「五招搞定全办公室」；正文先反问一句「可能喜欢上办公室里的每个人吗」，再说聚齐 15 个人都难、何况 50 人，但同事和朋友不同——你每天要和他们共事、彼此依赖，所以下面给出一些办法。",
+          "note": "本段同时是**全文的引言段**和**标题所在处**，是 Part B 最关键的信息源：`Five Ways to Win Over Everyone in the Office` 直接告诉你全文有几条建议、主题是什么，做题前必须先把它圈出来。第 2 句 Think about how tough it is... 是反问式铺垫，不要当成要回答的问题；真正的转折在 But unlike in friendships, you need coworkers——这句解释了「为什么同事关系不能像朋友那样躲开」，是全文得以成立的前提。末句 Here are some ways that... 是典型的总起信号，看到它就知道下面每段各是一条办法。选项段（第 7 段）里没有与本段对应的小标题，本段不出题。"
+        },
+        {
+          "n": 2,
+          "role": "建议一（对应 E）",
+          "gist": "藏着掖着谁都没好处：哈佛商学院研究发现，观察者给「主动坦白自己」的人评价更高，给「刻意隐瞒」的人信任度更低。结论不是要你把私生活变成一本摊开的书，而是当你有机会说出或藏起关于自己的信息时，选择诚实。",
+          "note": "本段是**纯建议段落，段首没有主题句**，只以一个指代上文的 But 开头——`But you won't be helping either one of you` 里的 either one 指「你」和「对方」，说明上一段末句给出的那条办法是「隐瞒自己」。因此本段的主题必须落在**段末的结论句**：`you should just be honest`，以及它前面的 `The lesson is not that ..., but rather, ...`。看到 `not that A but rather B` 就直接把答案定在 B 上，考场上不必细读中间的哈佛研究。对应小标题 `[ E ] Reveal, don't hide, information`：`Reveal` 扣 honest / offer up details about yourself，`don't hide` 扣 `hid`。选 E 而不是 G 的依据是：本段讲的是「关于自己的信息」，不是「换位思考」。"
+        },
+        {
+          "n": 3,
+          "role": "建议二（对应 F）",
+          "gist": "我们常急着告诉别人自己的感受——对项目的担忧、一闪而过的念头、一句称赞；这些都合理，但你也得花时间听完同事。事实上，急着把自己的想法说出来，会让同事觉得你不重视他们的意见。要尽力让同事参与真正的双向对话，而不是只优先讲自己的想法。",
+          "note": "本段是**转折式建议段**：`Those are all valid, but you need to take time to hear out your coworkers, too.` 里 but 之后才是主张，`too` 又提示这是对「我们常做的事」的补充而非否定。段末 `rather than prioritizing your own thoughts` 是全文最直接的小标题线索——`Do your best to engage coworkers in a genuine, back-and-forth conversation, rather than prioritizing your own thoughts` 一句话同时给出「慢下来」和「听」两层意思，正对 `[ F ] Slow down and listen`。注意 `rushing to get your own ideas out there`（抢着说）与 `take time`（慢下来）构成反义对照，而 `feel you don't value their opinions` 是「不倾听」的后果，这种「后果句」常被拿来出细节题。句首的 We often feel the need to... 是让步铺垫，不要误当成作者立场。"
+        },
+        {
+          "n": 4,
+          "role": "建议三（扩大圈子）",
+          "gist": "除了那几个可信赖的同事，你还应该拓宽视野、了解身边所有人：利用午餐和喝咖啡的休息时间去见那些平时不常见的同事，了解他们在工作之外的生活和兴趣。这费不了多少力气，却很有用，既扩大了内部人脉，也让工作日多了一点休息。",
+          "note": "本段是**扩充型建议段**，没有配对的正确小标题（选项段里给的三条都不切题），属于 Part B 里典型用来干扰的段落。段首 `But in addition to those trusted coworkers, you should expand your horizons and find out about all the people around you` 里 `in addition to` 表示在前一条建议之上再加一条，`expand your horizons` 是本段的关键词，等于「扩大交往面」；末尾 `This will help to grow your internal network` 是作者给出的收益，也是把本段和「人脉」而非「倾听/换位」绑定在一起的证据。做题时若某个选项强调 networking 或 beyond the job，才属于本段；E、F、G 三条都不含这一层，所以本段是空档段。"
+        },
+        {
+          "n": 5,
+          "role": "建议四（真诚赞美）",
+          "gist": "你不必是别人的上司，也能夸他在某个具体项目上干得特别出色。这会为你赢得好感。但别做过头，也别虚情假意。一项研究发现，人们对「从负面转向正面」的评价反应最好，可能是因为这暗示着自己已经赢取了对方的认可。",
+          "note": "本段是**建议＋限定**的结构：正面主张在第 1 句（`you don't have to be someone's boss to tell them they did an exceptional job`），限定在第 3 句 `But don't overdo it or be fake about it.`，`But` 之后往往是出题点，态度题若只答「要多赞美同事」而漏掉「不要过度、不要假」就是半对。`This will help engender good will in others` 是收益句，`engender` 是生词高发点（＝产生、引起）。末句的 `possibly because...` 是研究者的推测，用的是 possibly、suggested，读到这类词要意识到它不是定论。本段同样没有对应的小标题，属于第二个空档段。"
+        },
+        {
+          "n": 6,
+          "role": "建议五之前半（观察）",
+          "gist": "和任何同事打交道时都要记住：他在一段互动里在意什么。留意他平时是怎么跟别人说话的。有人喜欢开会时先闲聊几句再谈正事，有人则更直接，对一个人管用的玩笑对另一个人未必好使。",
+          "note": "原文在这里被空行截断，但**语义上仍是同一条建议的前半**——第 6、7 两段合起来才是配合 `[ G ]` 的那一条，不要因为分段就把它们当成两条不同的办法。本段的重点是 `Some people like small talk ... while others are more straightforward` 这组 while 对照，以及 `Jokes that work on one person won't necessarily land with another`：`won't necessarily` 是**有限度的一般化**，说的是「未必」，态度题若读成「一定不会」就错了；`land` 在这里是口语的「奏效、被接受」，不是「着陆」。本段只摆差异、还没给出办法，办法在下一段。"
+        },
+        {
+          "n": 7,
+          "role": "建议五之后半（对应 G）",
+          "gist": "所以，按对方的类型相应调整自己的风格。事先想清楚你在跟谁打交道、怎么做才能达到你想要的结果。",
+          "note": "本段极短，只有两句，却是**第 6—7 段的主旨落点，也是选 G 的唯一依据**：`So` 承接上一段所有差异举例，`adapt your style accordingly to type` 的 accordingly 意为「相应地」、type 指「类型（性格/行事风格）」，合起来就是「看人下菜碟」；`Consider the person that you're dealing with in advance` 再补一层「事先」替对方想。两句都在说「站到对方的角度」，正对 `[ G ] Put yourselves in others' shoes`。选 G 而不选 F、E 的理由也在这里：本段完全没有出现「听」或「透露信息」，关键词只有 adapt / accordingly / type / consider。注意 G 里的 `Put yourselves in others' shoes` 是固定短语，别按字面读成「把脚放进别人的鞋里」。"
+        },
+        {
+          "n": 8,
+          "role": "候选小标题（选项区）",
+          "gist": "供匹配的候选小标题：[ E ] Reveal, don't hide, information；[ F ] Slow down and listen；[ G ] Put yourselves in others' shoes。另有两条多余选项未印在这里（题干以 `There are two extra subheadings which you do not need to use.` 说明）。",
+          "note": "这一段是**选项区，不是文章正文**，做题时不要把它当成正文的收尾段去读。三条选项都是**祈使句式的动宾结构**（Reveal... / Slow down and listen / Put yourselves...），这正是小标题题的固定风格：标题＝动作。所以回到正文时应当逐段找**动词性的建议句**（honest、hear out、adapt your style），而不是找名词性的话题词。匹配关系提示：E 的两半 Reveal / don't hide 是反义并置，只能对上第 2 段的 honest 与 hid；F 是「慢下来＋听」的并列，只能对上第 3 段的 rushing 与 hear out；G 的 shoes 是比喻，只能对上第 6—7 段的 adapt your style to type。题干那句 `There are two extra subheadings which you do not need to use.` 意为候选标题多于正文段落：编号只到 E/F/G 说明前面还有 A—D，而正文实际只有 5 段需要配标题，因此第 4、5 段必然落到多余选项上——这也是 Part B 排除法的用法：先用最有把握的 E、F、G 锁死三段，剩下的段落直接归给多余选项。"
+        }
+      ]
+    },
+    {
+      "id": "y20p7",
+      "source": "2020 英语二 翻译",
+      "topic": "失败的意义由我们决定",
+      "type": "立论—对照—拓展型",
+      "mainIdea": "失败谁都躲不开，但怎么看待失败完全由我们自己决定：把失败当成世界末日还是当成难得的学习机会，取决于我们的选择；而失败真正的价值，是让我们看清原本无从了解的自己和真正的关系。",
+      "structure": "确立前提并给出总论点（1）→ 正反两种视角对照并提出行动主张（2）→ 换角度拓展：失败让人认识自己（3）",
+      "paragraphs": [
+        {
+          "n": 1,
+          "role": "立论 + 总起",
+          "gist": "人生几乎不可能绕开失败（这是无法选择的前提）；但好在失败的意义由我们自己决定——这句话是全文的总纲。",
+          "note": "英译汉第一段的骨架就靠两句之间的 But 撑起来：第 1 句用 It's almost impossible to go through life without... 先承认「失败躲不掉」，第 2 句用 But 把重心从「事实」扭到「态度」上。译文要把这个转折译实——「不过／好在」比「但是」更贴合 the wonderful thing 的语气。本段还有两个必考的采分点：impossible 与 without 构成的否定叠加（几乎不可能不），以及 it's up to us to decide 里 it 是形式主语、真主语是后面的不定式（由我们来决定），不能译成「它是取决于我们的」。"
+        },
+        {
+          "n": 2,
+          "role": "正反对照 + 提出主张",
+          "gist": "看待失败有两条路：看成世界末日，或看成难得的学习经历；每次失败都可以去找该学的教训，这些教训正是我们成长、不再重蹈覆辙的方式。失败只有在被允许时才会拦住我们。",
+          "note": "这段是典型的「并列对照 + 递进结论」：We can choose to see... ／ Or, we can look at... 先摆出两种视角，再用两个 Every time 句把论述推进到「失败其实是教材」，最后用 Failures stop us only if we let them 一句短句收口。要注意 Or 在这里不是「或者」，而是提出相反选项的「也可以」，译成「或者」会让人以为在列举同一类东西。末句的 only if 是必要条件的倒装式强调（只有我们允许，失败才拦得住我们），翻译时必须改写成汉语的条件句语序，不能译成「失败只在我们允许时停止我们」。"
+        },
+        {
+          "n": 3,
+          "role": "换角度拓展",
+          "gist": "失败还能教会我们关于自己的事情——那是我们本来永远不会知道的：它会让你看清自己有多坚强、谁是真正的朋友，甚至帮你找到意想不到的成功动力。",
+          "note": "本段的推进方式是「抽象论断 → For instance 具体展开」，也是全文从「态度」转向「收获」的落点。Failure can also teach us things about ourselves that we would never have learned otherwise 一句是英译汉最可能出采分点的地方：things 是抽象名词，要具体化为「（关于自己的）东西／事情」，that 从句里的 otherwise 意为「在别的情况下」，与 would never have learned 构成「非真实」的虚拟意味，译成「本无从了解」最自然。For instance 后两个句子都用 can help you discover 的平行结构，译文可以统一成「帮你发现／让你看清」，避免一句一个句式。"
+        }
+      ]
+    },
+    {
+      "id": "y20p8",
+      "source": "2020 英语二 写作",
+      "topic": "Part A 书信：介绍历史景点并给出游览建议；Part B 图表作文：解读图表并评论",
+      "type": "应用文（书信）＋ 图表作文（说明＋议论）",
+      "mainIdea": "Part A 以李明的身份给一群来华留学生写一封 email，交代历史景点的基本情况并给出游览建议（约 100 词，10 分）；Part B 就所给图表写一篇约 150 词的短文，先解读数据、再给出自己的评论（15 分）。两题都不许署真名，一律用 Li Ming。",
+      "structure": "Part A：称呼 → 自我介绍与写信目的 → 介绍景点（提纲要点1）→ 分点给出游览建议（提纲要点2）→ 客套收尾与落款；Part B：概述图表（提纲要点1）→ 分析原因与影响 → 给出评论与建议（提纲要点2）",
+      "paragraphs": [
+        {
+          "n": 1,
+          "role": "提纲要点 1",
+          "gist": "对应 Part A 提纲第 1 点 tell them about the site：向这群留学生介绍历史景点的基本情况——名称、位置、历史年代、地位与看点，让从没去过的人一眼知道「这是个什么地方、为什么值得去」。全信控制在 100 词左右，所以景点介绍只写 2-3 句，不要铺开写成说明文。",
+          "note": "【格式骨架，先贴出来】Dear friends, / Dear fellow students, 开头；结尾 Yours sincerely, / Best regards, 加落款 Li Ming。称呼要用复数，因为对方是 a group of international students，写 Dear Sir or Madam 会被判「没看清题目对象」。\n【自我介绍 + 目的句】\n· I am Li Ming, a student from ... University, and I am writing to tell you about ...\n· On behalf of our school, I am writing to extend a warm welcome to you and to introduce ... to you.\n· I am writing to share with you some information about the historical site we are going to visit.\n【介绍景点，按「位置—历史—地位—看点」四步走】\n· Located in the east of ..., ... is a historical site with a history of over ... years.\n· It dates back to / It can be traced back to the ... Dynasty.\n· It is listed as a UNESCO World Heritage Site / a key historical site under state protection.\n· The site is well known for its ancient architecture / well-preserved city walls / stone carvings.\n· What makes it worth a visit is that visitors can get a real feel for how people lived at that time.\n【Part A 常考表达】historical site 历史景点；places of interest 名胜；be located in 位于；date back to 追溯到；be listed as 被列为；be well preserved 保存完好；a must-see 必看之处；immerse yourself in 沉浸在。\n【易错提醒】① 景点介绍用一般现在时，讲历史事件才用过去时，时态混用是 Part A 最常见的扣分点；② 提纲说的 the site 是单数，全信指代要统一用 it，不要一会儿 it 一会儿 they。"
+        },
+        {
+          "n": 2,
+          "role": "提纲要点 2",
+          "gist": "对应 Part A 提纲第 2 点 give them some tips for the tour：给出具体、可执行的游览建议——带什么、怎么去、什么时候去、参观时的注意事项。这是本题的得分重心，要点必须「分点可见」：用 First of all / Besides / Last but not least 之类的信号词把两三条建议摆清楚，每条一句，不要揉成一大段。",
+          "note": "【提建议的三种句式，按正式程度递进】\n· It is advisable / recommended that you (should) do ...（that 从句用虚拟语气，should 可省略）\n· You had better take ... / You may find it helpful to ...\n· I would suggest that you ... / Why not ...?\n【把建议按场景分类，考场上直接套】\n· 出发前：Book your tickets online in advance, or you may have to queue for hours. / Remember to bring your passport or student card, since a discount is available for students.\n· 交通与时间：We will meet at the school gate at 8 a.m. and take the subway there. / Set off early to avoid the crowds.\n· 参观中：Please keep quiet and do not touch the exhibits. / Taking photos is not allowed inside the exhibition hall.\n· 穿着与其他：Wear comfortable shoes, as we will be walking a lot. / It is a good idea to bring some water and an umbrella.\n【万能衔接】First of all / To begin with → Besides / What is more → Last but not least。三条建议就用这三个词串起来，阅卷时「要点齐全」的分立刻拿到。\n【Part A 常考表达】in advance 提前；queue 排队；discount 折扣；exhibit 展品；be allowed to 被允许；avoid doing 避免做；it is advisable to do 明智的是；take ... into consideration 考虑到。\n【收尾与落款】\n· I hope these tips will be of some help. / If you have any questions, please feel free to contact me.\n· Looking forward to seeing you on the tour. / Wish you a pleasant journey.\n· Yours sincerely, / Best regards, / Li Ming（题目要求：Do not use your own name. Use “Li Ming” instead. 用了真名或写成 Li Hua 都算格式分丢失）\n【易错提醒】① 建议句别用 You must / You should 连发，语气过硬，英二应用文更看重 I would suggest / It would be better to 这类委婉说法；② 提纲两点务必都写到，只写 tips 不介绍景点（或反过来）会按漏点扣分，所以在第二段开头用一句话回扣：As for the tour itself, here are some tips for you."
+        },
+        {
+          "n": 3,
+          "role": "提纲要点 3",
+          "gist": "对应 Part B 提纲，两点要一起消化：1) interpret the chart——描述图表类型、时间跨度、对象，并用数据点出最高最低和升降变化；2) give your comments——解释数据背后的原因、说明它的意义，最后给出评价或建议。篇幅约 150 词，标准配置是三段：描述段、分析段、评论段，其中「解读」和「评论」都要有，只抄数据不评论是本题最大的失分方式。",
+          "note": "【第一段：解读图表，四件套写全】\n· As is vividly shown in the chart, ... / The chart above clearly illustrates the changes in ... from ... to ...\n· 描述变化：The number of ... increased steadily / rose sharply / declined slightly from ... to ...\n· 描述占比：... accounts for / makes up nearly ... percent of the total；... ranks first, followed by ...\n· 点极值：The figure for ... is the highest, while that of ... remains the lowest.\n【图表作文高频词】witness a rise / a fall 见证了上升/下降；see an increase of 增长了；account for 占（比例）；the proportion of ... 的比例；respectively 分别；by contrast 相比之下；remain stable 保持稳定；peak at 达到峰值。\n【第二段：分析原因，两层就够】\n· There are several reasons accounting for this trend.\n· To begin with, ... plays an important role in ... / contributes to ...\n· What is more, with the rapid development of ..., people are increasingly likely to ...\n· 让步转折（显水平）：Admittedly, ... , but this does not mean that ...\n【第三段：评论与建议，态度要明确】\n· From my point of view, this phenomenon is inspiring / worrying and deserves our attention.\n· It is high time that we took effective measures to ...（that 从句用过去式虚拟）\n· Only by doing so can we ...（Only + 状语置句首引起部分倒装）\n· As college students, we should ... rather than ...\n【易错提醒】① 解读图表必须「有数」，只写 the chart shows ... 的空话拿不到描述分，至少要落到一个百分比或一组升降；② 时态分层：描述图表数据用一般现在时（图表本身）或一般过去时（明确的时间段），谈原因和影响用一般现在时，谈建议用现在完成时或 should/must；③ 提纲两句是并列的，所以 comment 段绝不能被描述段挤掉——150 词里描述约占 60-70 词，分析 50 词，评论 40 词；④ 不要照抄 Directions 里的句子，阅卷时会被视为无效内容。"
+        }
+      ]
+    }
+  ]
+}

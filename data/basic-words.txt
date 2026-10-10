@@ -1,0 +1,345 @@
+# 基础词表（过滤用）
+#
+# 这里面的词，默认认为「考研学生肯定认识」，不会出现在生词候选里。
+# 一行一个词，# 开头是注释。
+# 目标范围：初中 + 高中 + 四级高频。收录标准是「看到就该会」，宁可漏收也不要误收——
+# 误收（把该考的词当基础词滤掉）会漏掉生词，漏收只是多几个候选需要你手动划掉。
+#
+# 想调整：直接在这里加词或删词即可。
+
+# ---------- 冠词 / 代词 / 限定词 ----------
+a an the this that these those
+i me my mine myself we us our ours ourselves
+you your yours yourself yourselves
+he him his she her hers it its itself
+they them their theirs themselves
+who whom whose which what whatever whichever
+some any no none all both each every either neither
+other others another such same own
+much many more most less least few fewer fewest little
+several enough plenty lot lots bit
+one two three four five six seven eight nine ten
+eleven twelve thirteen fourteen fifteen sixteen seventeen eighteen nineteen twenty
+thirty forty fifty sixty seventy eighty ninety hundred thousand million billion
+first second third fourth fifth sixth seventh eighth ninth tenth
+last next
+
+# ---------- 介词 / 连词 / 副词小品词 ----------
+about above across after against along among amongst around as at before behind
+below beneath beside besides between beyond by down during except for from
+in inside into near of off on onto out outside over past per since through
+throughout till to toward towards under until up upon via with within without
+and but or nor so than then yet because if unless whether while whilst whereas
+although though even as
+
+# ---------- be / 助动词 / 情态动词 ----------
+be am is are was were been being
+have has had having
+do does did doing done
+will would shall should can could may might must ought
+need dare used
+
+# ---------- 高频副词 ----------
+not very too just only also even still again once twice ever never
+always often sometimes usually seldom rarely hardly almost nearly quite rather
+fairly pretty really truly perhaps maybe probably possibly certainly surely indeed
+however therefore thus hence moreover furthermore besides otherwise instead anyway
+meanwhile nevertheless nonetheless accordingly consequently similarly likewise
+there here now today tomorrow yesterday soon later early late already yet
+well far away together apart else back forward
+up down
+
+# ---------- 基础动词 ----------
+make made making get got gets getting go goes went gone going
+come comes came coming take takes took taken taking give gives gave given giving
+see sees saw seen seeing know knows knew known knowing think thinks thought thinking
+say says said saying tell tells told telling ask asks asked asking
+want wants wanted wanting use uses used using find finds found finding
+look looks looked looking feel feels felt feeling seem seems seemed seeming
+leave leaves left leaving put puts putting mean means meant meaning
+keep keeps kept keeping let lets letting begin begins began begun beginning
+start starts started starting stop stops stopped stopping help helps helped helping
+show shows showed shown showing hear hears heard hearing play plays played playing
+run runs ran running move moves moved moving live lives lived living
+believe believes believed believing hold holds held holding bring brings brought bringing
+happen happens happened happening write writes wrote written writing
+provide provides provided providing sit sits sat sitting stand stands stood standing
+lose loses lost losing pay pays paid paying meet meets met meeting
+include includes included including continue continues continued continuing
+set sets setting learn learns learned learning change changes changed changing
+lead leads led leading understand understands understood understanding
+watch watches watched watching follow follows followed following
+create creates created creating speak speaks spoke spoken speaking
+read reads reading allow allows allowed allowing add adds added adding
+spend spends spent spending grow grows grew grown growing
+open opens opened opening walk walks walked walking win wins won winning
+offer offers offered offering remember remembers remembered remembering
+love loves loved loving consider considers considered considering
+appear appears appeared appearing buy buys bought buying wait waits waited waiting
+serve serves served serving die dies died dying send sends sent sending
+expect expects expected expecting build builds built building stay stays stayed staying
+fall falls fell fallen falling cut cuts cutting reach reaches reached reaching
+kill kills killed killing remain remains remained remaining
+suggest suggests suggested suggesting raise raises raised raising
+pass passes passed passing sell sells sold selling require requires required requiring
+report reports reported reporting decide decides decided deciding
+return returns returned returning explain explains explained explaining
+hope hopes hoped hoping develop develops developed developing
+carry carries carried carrying break breaks broke broken breaking
+receive receives received receiving agree agrees agreed agreeing
+support supports supported supporting produce produces produced producing
+eat eats ate eaten eating cover covers covered covering
+catch catches caught catching draw draws drew drawn drawing
+choose chooses chose chosen choosing cause causes caused causing
+point points pointed pointing listen listens listened listening
+realize realizes realized realizing describe describes described describing
+accept accepts accepted accepting judge judges judged judging
+talk talks talked talking call calls called calling
+try tries tried trying turn turns turned turning
+work works worked working answer answers answered answering
+ask asks asking add adds adding
+become becomes became becoming
+leave leaves leaving
+put puts putting
+sit sits sitting
+smile smiles smiled smiling
+laugh laughs laughed laughing
+cry cries cried crying
+sleep sleeps slept sleeping
+wake wakes woke woken waking
+drive drives drove driven driving
+ride rides rode ridden riding
+fly flies flew flown flying
+swim swims swam swum swimming
+sing sings sang sung singing
+dance dances danced dancing
+cook cooks cooked cooking
+clean cleans cleaned cleaning
+wash washes washed washing
+wear wears wore worn wearing
+spend spends spent spending
+save saves saved saving
+lend lends lent lending
+borrow borrows borrowed borrowing
+owe owes owed owing
+earn earns earned earning
+cost costs costing
+fill fills filled filling
+drop drops dropped dropping
+push pushes pushed pushing
+pull pulls pulled pulling
+throw throws threw thrown throwing
+carry carries carrying
+pick picks picked picking
+place places placed placing
+join joins joined joining
+share shares shared sharing
+count counts counted counting
+measure measures measured measuring
+compare compares compared comparing
+check checks checked checking
+test tests tested testing
+practice practices practiced practicing
+train trains trained training
+teach teaches taught teaching
+study studies studied studying
+learn learns learnt learning
+read reads reading
+write writes writing
+draw draws drawing
+paint paints painted painting
+build builds building
+repair repairs repaired repairing
+fix fixes fixed fixing
+manage manages managed managing
+control controls controlled controlling
+protect protects protected protecting
+prevent prevents prevented preventing
+avoid avoids avoided avoiding
+refuse refuses refused refusing
+allow allows allowing
+permit permits permitted permitting
+force forces forced forcing
+enable enables enabled enabling
+encourage encourages encouraged encouraging
+warn warns warned warning
+
+# ---------- 基础名词 ----------
+man men woman women person people child children boy boys girl girls
+baby family families father mother parent parents son daughter brother sister
+friend friends home house houses room rooms door window wall floor
+school schools student students teacher teachers class classes lesson lessons
+book books page pages word words name names number numbers
+day days week weeks month months year years hour hours minute minutes second seconds
+time times morning afternoon evening night nights
+hand hands head heads eye eyes ear ears mouth nose foot feet leg legs
+arm arms body bodies face faces heart mind
+food water bread milk meat rice tea coffee
+city cities town village country countries world
+road roads street streets car cars bus buses train trains plane planes ship ships
+money price prices cost job jobs work
+company companies business market markets
+government country law laws rule rules
+problem problems question questions answer answers reason reasons
+way ways part parts side sides end ends top bottom
+place places area areas point points case cases
+fact facts idea ideas thought thoughts
+story stories news information message messages
+language languages english chinese word words
+music art sport sports game games
+health life death
+group groups team teams member members
+power energy light sound
+line lines piece pieces pair pairs
+half halves size sizes shape shapes colour color colours colors
+animal animals bird birds fish tree trees flower flowers
+air fire earth sea river mountain sky sun moon star
+morning night spring summer autumn winter
+
+# ---------- 基础形容词 ----------
+good better best bad worse worst
+big bigger biggest small smaller smallest
+large larger largest little tiny huge
+long longer longest short shorter shortest
+high higher highest low lower lowest
+new newer newest old older oldest young younger youngest
+hot colder cold warm cool
+fast faster fastest slow slower slowest
+easy easier easiest hard harder hardest difficult
+happy sad angry afraid tired busy free
+right wrong true false sure certain
+same different similar
+important interesting beautiful nice fine great wonderful
+possible impossible necessary
+common general special particular
+real actual main major total whole
+full empty open closed
+early late quick slow
+strong weak heavy light
+rich poor cheap expensive
+clean dirty safe dangerous
+clear dark bright
+quiet loud
+near far
+deep wide narrow thick thin
+young old
+able ready
+available likely
+
+# ---------- 日常生活高频（容易被误当生词） ----------
+office staff week weekend month firm company boss manager
+job career salary wage meeting report project plan task
+team group member leader worker employee employer customer client
+product service market price cost sale buy sell order
+phone message email letter call news paper magazine
+travel trip holiday hotel restaurant meal lunch dinner
+hospital doctor nurse medicine health illness
+street road city town country place area room house home
+morning afternoon evening night hour minute
+computer internet website online screen file
+student teacher school class course lesson homework exam
+question answer problem solution reason result
+family friend neighbour neighbor child parent
+weather rain snow wind sun cloud
+football basketball game match sport music film movie song
+write read speak listen watch look see hear
+happy angry tired busy free ready late early
+start finish begin end open close
+buy sell pay spend save cost
+grow change move stay leave arrive return
+
+# ---------- 第三批：疑问词、常见形容词、真题里高频的基础词 ----------
+where when why how whoever whenever wherever
+strange simple recent rapid slow basic common normal natural
+rate rating score level degree amount total average
+skill skills ability talent effort attempt success failure
+driver drivers stranger strangers shortage shortages
+focus focused mention mentioned include including
+political economy economic social cultural natural physical
+national local global international public private personal
+available possible impossible likely unlikely certain
+valuable useful harmful helpful powerful successful
+
+# ---------- 第五批：真题里反复出现、但确实属于基础词 ----------
+reason result reduce depend rely apply trade market economy industry
+consume occupy associate attract compare decline invest propose
+argue suggest conduct extend engage appreciate estimate involve perceive
+approach consider define concern vary react adapt establish determine
+examine exhibit communicate recognize reflect obtain sustain conclude
+pursue address debate object assign occur standard memory factor
+aspect element component structure specific general regular normal
+primary secondary major minor basic simple complex modern ancient
+available capable similar familiar obvious accurate extreme serious
+current recent ancient modern straight direct indirect
+memory mind sense emotion feeling attitude behavior
+vote elect campaign policy regulate regulation legislation
+pollute pollution environment nature resource energy
+commerce finance account budget capital invest profit revenue
+workforce employ employer employee labour labor staff
+communicate communication information message signal
+technology technical machine device engine system network
+research study survey data statistics figure number amount
+increase decrease rise fall grow drop climb
+create produce generate develop design invent discover
+protect prevent avoid reduce limit control manage
+
+# ---------- 第六批 ----------
+remote hit due gap opt act fit odd aid key net age box tie
+land crop pace tend view army bulk core diet feed gain goal gold harm hurt
+link mood path rest soil tone wave zone fail born cage kind sign sort type
+auto calm debt fake fee lack loan risk step tail tour wish role deal list
+luck mass peak sick slip span term stuff
+
+# ---------- 第七批：从三张卷子的「假缺口」里捞出来的基础词 ----------
+# 这些词之前没被收进基础词表，结果在词表里被当成要背的生词显示出来。
+cent tech form hire self buzz cue cue jam oils like farm app kid fee hide one tip toy site aim card fair fit odds
+based dairy fruit space stage state basis chart delay equal extra fresh grave green issue lane ocean photo pilot plant seed stick style trick value video vivid worth clip deal role robot model human lever mayor stock thing tough youth adult ahead aware clock crash form free legal mouse scent shoe smell speed treat firm door fine board guard guess solve suite trust birth crown daily digit essay table
+demand invite switch tap thing admit belief bill cannot casual chance choice date decade double future gather grain ground handle hunger intake matter nation period safety senior series silent speech sugar tactic vision warmth slow sound argue light mainly nurse waiter moment rise wheel chain damage differ escape facial fellow growth hiring honest nobody option record single spread supply unable limit being acting react roll unlike middle anyone expert ideal mental repeat seek agenda bubble event fold human jump oxygen parcel proper review round search spouse field argue baby easy manner vary
+quarter comment massive region achieve advance align battery beg breath broad calorie caveat climate connect exactly expense expert factory hunch jump overall panic pledge quality relate replace request rifle selfish silence source ticket traffic voice willing detail figure signal cheap depend factor hit price rapid balance display robot tight typical absence anxious battle centre chance council decade deliver desire dig early enemy history imagine matter mayoral mistake plastic popular promise release rip rush science senior succeed trouble trust useless version deal extend great insider saving vary nation feature lawyer reality defense destroy fallout freedom leak respect slavery affair article banking brief broad capture careful content couple dim dollar elderly invite mystery option outlive picture rough solid stamina stripe surgery swamp tribute mother aspect debate degree father great land method object
+critical cyclist deadline decision negative timeline backward combine feature feedback gesture inform laughter position punish remove security semester supply actually airline consume occupy product strong decline design finish invest propose coworker patience addition comment everyone positive previous vehicle affect cheat entirely exist press proper refer remind somebody interest conduct define element forward marking opinion order plan salary religion colony everyday memorize payment complete delay envision fondness ground official parallel paycheck populate promise rally rally retire supply surprise switch telecom temper trouble improve involve program budget common direct policy propose pursue
+colleague confident something automatic careful complete elsewhere explore financial intuitive perfect seedling suspect undercut according increase behavior engineer inspect investor thousand emotion graduate practical adjective backward colourful inspire knowledge official readiness relation resident stressful verbal pollute estimate improve involve perceive adulthood education insurance numerical achiever aimless attendant century confuse deadline downside earphone educator effective eightfold hurried neurology newspaper overrated parachute professor sovereign spread startle stretch wander wholesale depend increase obtain shoulder sustain
+everywhere individual instruct instructor judgement permission professor reflection reflective regulator smartphone strawberry unemployed vegetable complain inspector associate attract component discuss generate personal statement generation colleague catchword councilor counselor definition employment especially everything experiment globalize incredible introduce studious surprising unexpected weakness physical situation underlying difference investment condition healthcare journalism performer retirement activity analytical assistance bookstore brainstorm difficulty disability laboratory negatively protection redundancy springtime struggle tournament determine campaign paragraph recognize reflect
+disagreement psychologist requirement transportation circumstance disagreeable generation disappear represent tentative participant competitor communicate subheading straightforward trustworthy professional relationship centrepiece cooperation friendship necessary pragmatist principally significant undoubtedly increasingly improvement government politically regulation responsibility standardize egalitarian independent responsible traditional vulnerability organizational understandably chronological gratification organization psychologist acceleration astrological biographical certificate demographic disappearing disappointed economically journalistic overburden overshadow philosopher policymaker shareholder shortcoming colonialism continental deductible fashionable frightening function genetically legislative preparation discussion communicate appreciate engineering
+
+# ---------- 第四批 ----------
+simply complain complaint conversation competitor competition
+frequent frequently recent recently certain certainly
+impress impression express expression discuss discussion
+inspect inspector contain container maintain maintenance
+develop development improve improvement manage management
+
+# ---------- 真题里频繁冒出来的日常词（第二批） ----------
+opinion target production powerful someone worker skill field research average
+flight argument multiple suitable driver rating researcher shortage unemployment
+disagree agreement feeling experience information situation process purpose
+boss initiative statement reaction response connection interview opportunity
+population forecast headline industry farming agriculture consumer market
+software app mobile calendar management talent investor partner venture
+memory detail ability test score clip study participant instruction
+paragraph heading subheading numbered choose answer question text
+percent percentage number figure average total amount
+pandemic medical doctor nurse hospital staff patient personnel
+cabin airline university college student program programme
+
+# ---------- 学习 / 考试场景高频基础词 ----------
+test exam score grade mark paper question
+study class course lesson homework
+teach teacher student school college university
+library book note notes
+read write speak listen
+remember forget understand learn
+practice exercise example
+
+# ---------- 逻辑连接（写作常用但属基础） ----------
+first second third finally
+also besides however therefore
+because since although though while
+example instance fact
+reason result cause effect
+problem solution method way
+increase decrease rise fall grow
+change develop improve
+
+# ---------- 星期 / 月份 ----------
+monday tuesday wednesday thursday friday saturday sunday
+january february march april may june july august september october november december

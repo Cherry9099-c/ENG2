@@ -1,0 +1,1077 @@
+{
+  "meta": {
+    "note": "长难句分析，句子取自 2020 考研英语二真题。括号化标记：[ ] 从句，( ) 短语或插入成分。",
+    "paper": "2020 英语二"
+  },
+  "sentences": [
+    {
+      "id": "y20s01",
+      "type": "目的状语从句 + 并列不定式（介词后置）",
+      "source": "2020 英语二 Text 1",
+      "en": "Rats and other animals need to be highly attuned to social signals from others so they can identify friends to cooperate with and enemies to avoid.",
+      "main": "Rats and other animals need to be attuned to social signals.",
+      "clauses": [
+        {
+          "part": "主句",
+          "text": "Rats and other animals need to be highly attuned to social signals from others",
+          "note": "be attuned to 是固定搭配，to 是介词不是不定式符号"
+        },
+        {
+          "part": "目的状语从句",
+          "text": "so they can identify friends to cooperate with and enemies to avoid",
+          "note": "so (that) 引导目的状语；从句里含两个并列的不定式"
+        },
+        {
+          "part": "不定式1",
+          "text": "to cooperate with",
+          "note": "修饰 friends。介词 with 留在了末尾，因为 friends 是它的宾语"
+        },
+        {
+          "part": "不定式2",
+          "text": "to avoid",
+          "note": "修饰 enemies，与不定式1并列"
+        }
+      ],
+      "bracket": "Rats and other animals need to be highly attuned to (social signals from others) [so they can identify (friends [to cooperate with]) and (enemies [to avoid])].",
+      "cn": "老鼠和其他动物必须对他人的社交信号高度敏感，才能识别出可以合作的朋友和需要躲避的敌人。",
+      "points": [
+        "be attuned to 里的 to 是介词，后面接名词；不要当成不定式。同类还有 be exposed to / be committed to / be opposed to",
+        "to cooperate with 和 to avoid 是并列的不定式，分别修饰 friends 和 enemies。第一个的介词 with 被留在末尾——「介词后置」现象",
+        "so they can... 是目的状语从句，不是结果状语。判断方法：从句里出现 can，表达的是「为了能够」，所以是目的"
+      ],
+      "words": [
+        "attuned",
+        "identify",
+        "cooperate"
+      ]
+    },
+    {
+      "id": "y20s02",
+      "type": "动名词复合结构 + 完成式动名词 + 句尾引用",
+      "source": "2020 英语二 Text 1",
+      "en": "This could lead to the rats better remembering having freed it earlier, and wanting the robot to return the favour when they get trapped, she says.",
+      "main": "This could lead to the rats remembering ... and wanting ..., she says.",
+      "clauses": [
+        {
+          "part": "主句",
+          "text": "This could lead to the rats better remembering ... and wanting ...",
+          "note": "lead to 后面接动名词；better 是副词修饰 remembering"
+        },
+        {
+          "part": "动名词1",
+          "text": "the rats better remembering having freed it earlier",
+          "note": "the rats 是 remembering 的逻辑主语（动名词复合结构，正规写法是 the rats'）"
+        },
+        {
+          "part": "完成式动名词",
+          "text": "having freed it earlier",
+          "note": "作 remembering 的宾语，表示「更早放走过它」这件事"
+        },
+        {
+          "part": "动名词2",
+          "text": "wanting the robot to return the favour",
+          "note": "与动名词1并列；want sb to do sth 结构"
+        },
+        {
+          "part": "时间状语从句",
+          "text": "when they get trapped",
+          "note": "修饰 wanting"
+        },
+        {
+          "part": "引用",
+          "text": "she says",
+          "note": "新闻报道的引用惯例：主语在前、动词在后，不倒装"
+        }
+      ],
+      "bracket": "This could lead to (the rats better remembering [having freed it earlier]), and (wanting the robot to return the favour [when they get trapped]), she says.",
+      "cn": "这可能让老鼠更好地记住自己此前放走过它，并在自己被困时希望机器人回报这份人情，她说。",
+      "points": [
+        "lead to 后必须接动名词，不能接不定式：lead to doing，不是 lead to do。同理还有 object to / look forward to",
+        "the rats better remembering 是动名词复合结构——the rats 是 remembering 的逻辑主语。规范书面语应写成 the rats'，口语和非正式文本常用宾格",
+        "having freed 是动名词的完成式，表示这个动作发生在 remembering 之前。看到 having done 就要意识到「更早发生」",
+        "she says 放在句尾是英文新闻的引用方式，不改变句子结构，阅读时可以先整块跳过"
+      ],
+      "words": [
+        "resemble",
+        "trap",
+        "favour"
+      ]
+    },
+    {
+      "id": "y20s03",
+      "type": "目的状语从句 + 被动语态 + 宾语从句（whether）+ 不定式作后置定语",
+      "en": "To find out if this extends to non-living beings, Laleh Quinn at the University of California, San Diego, and her colleagues tested whether rats can detect social signals from robotic rats.",
+      "main": "Laleh Quinn at the University of California, San Diego, and her colleagues tested whether rats can detect social signals from robotic rats.",
+      "clauses": [
+        {
+          "part": "目的状语（不定式）",
+          "text": "To find out if this extends to non-living beings",
+          "note": "to do 放句首表目的，等于 In order to find out。它自带一个 if 引导的宾语从句，所以整个状语很长——阅读时先把这一整块划掉，主句才露出来"
+        },
+        {
+          "part": "主语",
+          "text": "Laleh Quinn at the University of California, San Diego, and her colleagues",
+          "note": "真正的主语中心词是 colleagues，前面的 Laleh Quinn 和机构名都是修饰。机构名夹在主语中间，是最容易被误当成主句成分的部分"
+        },
+        {
+          "part": "谓语 + 宾语从句",
+          "text": "tested whether rats can detect social signals from robotic rats",
+          "note": "whether 引导宾语从句作 tested 的宾语。test 后面接 whether 而不是 if 更常见于书面语；从句里 can 表能力，不是推测"
+        },
+        {
+          "part": "后置定语",
+          "text": "from robotic rats",
+          "note": "修饰 social signals，说明信号来自机器鼠。这一点是全句的关键区别：老鼠要识别的不是机器鼠本身，而是机器鼠发出的社交信号"
+        }
+      ],
+      "bracket": "(To find out [if this extends to non-living beings]), (Laleh Quinn) at (the University of California, San Diego), and (her colleagues) tested [whether rats can detect (social signals) from (robotic rats)].",
+      "cn": "为了弄清这种能力是否也适用于非生命体，加州大学圣迭戈分校的拉莱·奎恩及其同事测试了老鼠能否识别机器鼠发出的社交信号。",
+      "points": [
+        "句首 To find out... 是不定式作目的状语，内部还套了一个 if 从句。遇到「句首长 to do + 逗号」的结构，先整块跳过，逗号后才是主语",
+        "主语里 Laleh Quinn 和机构名之间被逗号隔开，容易误判成两个并列主语。判断方法：找到谓语 tested，再往前找谁在 test——是 Quinn and her colleagues",
+        "whether rats can detect... 是宾语从句。whether 和 if 在这里都表「是否」，但介词后和句首只能用 whether",
+        "this 回指第一句的「高度敏感于他人社交信号」这件事。实验类文章里 this/that 回指上一句的整个结论，读的时候必须还原"
+      ],
+      "words": [
+        "colleague",
+        "detect"
+      ],
+      "source": "2020 英语二 Text 1"
+    },
+    {
+      "id": "y20s04",
+      "type": "被动语态 + 主句 + 过去分词式介词（given）引导的原因状语",
+      "en": "The readiness of the rats to befriend the social robot was surprising given its minimal design.",
+      "main": "The readiness of the rats to befriend the social robot was surprising ... given its minimal design.",
+      "clauses": [
+        {
+          "part": "主语",
+          "text": "The readiness of the rats to befriend the social robot",
+          "note": "中心词是 readiness，of 短语和 to do 都修饰它：老鼠「愿意与社交机器人交朋友」这件事。readiness 是形容词 ready 的名词形式，不是动词"
+        },
+        {
+          "part": "系表结构",
+          "text": "was surprising",
+          "note": "surprising 是现在分词式形容词，表示「令人惊讶的」；如果是 surprised 就变成「感到惊讶的」，主语只能是人"
+        },
+        {
+          "part": "分词短语（表原因/让步）",
+          "text": "given its minimal design",
+          "note": "given 这里是介词，意为「考虑到、鉴于」，后面直接接名词，和动词 give 的过去分词无关。it 指机器鼠"
+        }
+      ],
+      "bracket": "(The readiness of the rats to befriend the social robot) was (surprising) (given its minimal design).",
+      "cn": "考虑到机器鼠的设计如此简陋，老鼠仍愿意与它亲近，这让人感到意外。",
+      "points": [
+        "given 是英语里最常见的「伪分词介词」：given + 名词 = 考虑到…。同类还有 considering / regarding / concerning，遇到时不要去找主句，它们后面直接跟名词",
+        "主语是 The readiness... 这个抽象名词短语，不是 the rats。如果按「老鼠很惊讶」去读，整句就错了",
+        "readiness 由 ready 派生，考研里常考 -ness 名词化的识别；readiness to do 意为「愿意做…」",
+        "这句是全文的态度落点：surprising 是作者（研究者）的评价词。态度题问研究者对结果的感受，答案就是「意外」"
+      ],
+      "words": [
+        "readiness",
+        "befriend",
+        "surprising"
+      ],
+      "source": "2020 英语二 Text 1"
+    },
+    {
+      "id": "y20s05",
+      "type": "引语 + 宾语从句省略 that + 并列不定式 + 目的状语 + 定语从句",
+      "en": "\"We'd assumed we'd have to give it a moving head and tail, facial features, and put a scent on it to make it smell like a real rat, but that wasn't necessary,\" says Janet Wiles at the University of Queensland in Australia, who helped with the research.",
+      "main": "We'd assumed we'd have to give it a moving head and tail, facial features, and put a scent on it to make it smell like a real rat, but that wasn't necessary.",
+      "clauses": [
+        {
+          "part": "宾语从句（省略 that）",
+          "text": "We'd assumed we'd have to give it a moving head and tail, facial features, and put a scent on it",
+          "note": "assumed 后面省略了连词 that。从句内部有两个并列的动词：give 和 put，共用 have to"
+        },
+        {
+          "part": "并列不定式 1",
+          "text": "give it a moving head and tail, facial features",
+          "note": "give it a moving head... 是 give sb sth 双宾语结构；facial features 挂在 give 后面，是「给它装面部特征」，不要读成 head and tail 的同位语"
+        },
+        {
+          "part": "并列不定式 2",
+          "text": "put a scent on it",
+          "note": "与 give 并列，第二个不定式省略了 to（have to do A and do B）"
+        },
+        {
+          "part": "目的状语",
+          "text": "to make it smell like a real rat",
+          "note": "make + 宾语 + 动词原形，make it smell 是「使它闻起来」；这个不定式修饰的是前面的 put a scent，不是 assumed"
+        },
+        {
+          "part": "转折分句",
+          "text": "but that wasn't necessary",
+          "note": "that 回指前面「必须装头尾、面部特征、加气味」这一整套假设。but 一出现就说明研究者原先的预判被实验结果推翻了"
+        },
+        {
+          "part": "引用 + 定语从句",
+          "text": "says Janet Wiles at the University of Queensland in Australia, who helped with the research",
+          "note": "says + 人名，动词在主语前是新闻引述惯例；who 从句补充说明 Wiles 也是这项研究的参与者，属于可信度提示"
+        }
+      ],
+      "bracket": "\"We'd assumed [we'd have to (give it a moving head and tail, facial features), and (put a scent on it) (to make it smell like a real rat)], but (that wasn't necessary),\" says (Janet Wiles) at (the University of Queensland) in (Australia), [who helped with the research].",
+      "cn": "「我们本以为得给它装上一个会动的头和一条尾巴、还得有面部特征，再给它喷点气味让它闻起来像真老鼠，结果这些都没必要，」澳大利亚昆士兰大学的珍妮特·怀尔斯说，她参与了这项研究。",
+      "points": [
+        "We'd assumed 后面省略了 that。判断方法：assumed 是及物动词，紧跟其后的完整主谓结构就是它的宾语从句",
+        "have to give ... and put ...：两个不定式并列时第二个省略 to。同理还有 need to A and B 的写法，看到 and 要判断是并列不定式还是并列谓语",
+        "to make it smell like a real rat 修饰的是 put a scent，不是 assumed。目的状语放在句末时，要往回找它真正的服务对象",
+        "but that wasn't necessary 是这句的转折落点，也是第 5 段的论证核心：简陋设计反而够用。主旨题和推理题常在这里设题",
+        "\"...,\" says Janet Wiles 是引述句式，动词 says 前置、主语后置。阅读时可以先整块跳过引述框，只读引号里的内容"
+      ],
+      "words": [
+        "assume",
+        "scent",
+        "necessary"
+      ],
+      "source": "2020 英语二 Text 1"
+    },
+    {
+      "id": "y20s06",
+      "type": "代词 that 回指 + 定语从句",
+      "source": "2020 英语二 Text 2",
+      "en": "The best model for understanding the growth of CEO pay is that of limited CEO talent in a world where business opportunities for the top firms are growing rapidly.",
+      "main": "The best model ... is that of limited CEO talent.",
+      "clauses": [
+        {
+          "part": "主语",
+          "text": "The best model for understanding the growth of CEO pay",
+          "note": "for understanding 是后置定语修饰 model"
+        },
+        {
+          "part": "谓语+表语",
+          "text": "is that of limited CEO talent",
+          "note": "that 是代词，回指前面的 the model，避免重复"
+        },
+        {
+          "part": "定语从句",
+          "text": "where business opportunities for the top firms are growing rapidly",
+          "note": "修饰 a world；where = in which"
+        }
+      ],
+      "bracket": "(The best model for understanding the growth of CEO pay) is (that of limited CEO talent) in (a world [where business opportunities for the top firms are growing rapidly]).",
+      "cn": "理解 CEO 薪酬增长的最佳模型，是「顶尖人才有限」这一模型——在一个顶级公司的商业机会正快速增长的世界里。",
+      "points": [
+        "that of = the model of。用 that / those 代替前面出现过的名词是英文避免重复的常用手段，阅读时必须还原成原词才能读懂",
+        "表语 that of limited CEO talent 省略了重复的 model，完整是 the model of limited CEO talent",
+        "where 引导定语从句修饰 a world，where = in which，在从句中作地点状语"
+      ],
+      "words": [
+        "corporation",
+        "talent",
+        "opportunity"
+      ]
+    },
+    {
+      "id": "y20s07",
+      "type": "强调句型 it is ... that ...",
+      "source": "2020 英语二 Text 2",
+      "en": "Yet it is principally during this period of stronger governance that CEO pay has been high and rising.",
+      "main": "CEO pay has been high and rising during this period.",
+      "clauses": [
+        {
+          "part": "强调框架",
+          "text": "it is ... that ...",
+          "note": "强调句型，本身不充当句子成分"
+        },
+        {
+          "part": "被强调成分",
+          "text": "principally during this period of stronger governance",
+          "note": "被提到前面强调的是时间状语，principally = mainly"
+        },
+        {
+          "part": "剩余分句",
+          "text": "CEO pay has been high and rising",
+          "note": "去掉强调框架后剩下的完整句子"
+        }
+      ],
+      "bracket": "Yet it is (principally) (during this period of stronger governance) that (CEO pay) has been high and rising.",
+      "cn": "然而，CEO 薪酬居高不下并持续上涨，主要正是在这段治理更为严格的时期。",
+      "points": [
+        "it is ... that ... 是强调句型。判断方法：把 it is 和 that 一起删掉，剩下的部分依然是完整句子——这里剩下 CEO pay has been high and rising",
+        "被强调的是时间状语 principally during this period，不是主语。中文译文要加「正是」来体现强调",
+        "这句是作者反驳「高薪就是剥削」观点的核心论据：如果是剥削，那治理越严格薪酬应该越低，事实恰好相反",
+        "yet 表转折，是段落内观点转向的信号词，阅读时遇到要留意作者立场的反转"
+      ],
+      "words": [
+        "governance",
+        "rigorous"
+      ]
+    },
+    {
+      "id": "y20s08",
+      "type": "同级同位语 + 同位语从句 + 介词短语并列",
+      "source": "2020 英语二 Text 2",
+      "en": "Furthermore, the highest CEO salaries are paid to outside candidates, not to the cozy insider picks, another sign that high CEO pay is not some kind of depredation at the expense of the rest of the company.",
+      "main": "the highest CEO salaries are paid to outside candidates, not to the cozy insider picks.",
+      "clauses": [
+        {
+          "part": "主句",
+          "text": "the highest CEO salaries are paid to outside candidates, not to the cozy insider picks",
+          "note": "not to... 与 to outside candidates 并列对比，否定的是介词短语不是谓语"
+        },
+        {
+          "part": "同位语",
+          "text": "another sign",
+          "note": "是前面整个主句的同位语，不是新的分句"
+        },
+        {
+          "part": "同位语从句",
+          "text": "that high CEO pay is not some kind of depredation at the expense of the rest of the company",
+          "note": "说明 sign 的具体内容"
+        }
+      ],
+      "bracket": "Furthermore, (the highest CEO salaries) are paid to (outside candidates), not to (the cozy insider picks), (another sign) [that high CEO pay is not (some kind of depredation) at the expense of the rest of the company].",
+      "cn": "此外，最高的 CEO 薪酬是付给外部候选人的，而不是付给舒适的内部人选——这又是一个迹象，表明 CEO 高薪并不是以公司其他人为代价的某种掠夺。",
+      "points": [
+        "not to the cozy insider picks 承接前面的 are paid，完整是 are not paid to...。否定词 not 直接否定介词短语，这是英文里常见的省略式对比",
+        "another sign 是前面整个主句的同位语，用逗号隔开。看到「逗号 + 名词短语」要判断它是不是同位语，而不是新句子",
+        "that 引导的是同位语从句（说明 sign 的内容），不是定语从句。区分方法：that 在从句里不作任何成分，只起连接作用",
+        "at the expense of 是「以…为代价」，同一个短语在 2021 英语二完形填空里也考过，是英二高频短语"
+      ],
+      "words": [
+        "candidate",
+        "corporation"
+      ]
+    },
+    {
+      "id": "y20s09",
+      "type": "比较结构 more...than + 动名词 + 插入语（范围限定）+ 同位语从句省略 that",
+      "en": "Today's CEO, at least for major American firms, must have many more skills than simply being able to \"run the company.\"",
+      "main": "Today's CEO, at least for major American firms, must have many more skills than simply being able to \"run the company.\"",
+      "clauses": [
+        {
+          "part": "主语 + 插入语",
+          "text": "Today's CEO, at least for major American firms,",
+          "note": "两个逗号之间的 at least for major American firms 是**范围限定**，等于给后面的结论加了一句「至少对美国大公司而言」。去掉它句子照样完整，所以第一遍读时先整块跳过——这类插入语是命题人最爱设的干扰源：选项若把结论扩大到所有公司、所有国家，就是漏看了这半句"
+        },
+        {
+          "part": "谓语（比较结构）",
+          "text": "must have many more skills than simply being able to \"run the company\"",
+          "note": "more...than 在这里不是「比…多」的普通比较，而是**否定后者**：「远不只需要会经营公司」。than 后面接的是动名词 being，与前面比较的其实是「所需技能」这一同一范畴的东西，所以形式对称；must 表客观要求，不是推测"
+        },
+        {
+          "part": "动名词短语",
+          "text": "being able to \"run the company\"",
+          "note": "be able to 的动名词形式，作 than 的宾语。之所以用 being 而不用 be，是因为介词 than 后面必须接名词性成分——这一步是判断 than 到底是连词还是介词的关键"
+        },
+        {
+          "part": "引号内容",
+          "text": "\"run the company\"",
+          "note": "加引号说明这是**别人嘴里对 CEO 工作的简单化描述**（「管管公司而已」），作者借用它来对比。看到引号先判断：是引用原话，还是像这样表示「所谓的」，后者往往暗示作者并不认同"
+        }
+      ],
+      "bracket": "(Today's CEO), (at least for major American firms), must have (many more skills) than (simply being able to \"run the company\").",
+      "cn": "如今的 CEO——至少对美国大公司而言——所需的技能远不止「会经营公司」这么简单。",
+      "points": [
+        "more...than 有两种读法：一是「比…更多」，二是「与其说…不如说／不仅仅是」。这里 than 后面是 being able to run the company，与 skills 属不同范畴，取第二种，意思是「远不只如此」，不能译成「技能比管公司多」",
+        "than 后面接动名词 being，说明 than 在此当**介词**用。如果 than 后面跟的是完整的主谓结构，它就是连词。判断 than 的性质，直接看它后面接什么",
+        "两个逗号夹住的 at least for major American firms 可以整块删掉。做题时如果选项把「美国大公司」扩大成「所有公司」，就是在这半句上设的陷阱",
+        "本句是第 2 段的**总起句**，后面五句全部是在展开「many more skills」到底指哪些技能。抓住这句，第 2 段就不用逐句精读"
+      ],
+      "words": [
+        "major",
+        "skill"
+      ],
+      "source": "2020 英语二 Text 2"
+    },
+    {
+      "id": "y20s10",
+      "type": "不定式作主语 + 定语从句（that）",
+      "en": "To lead in that system requires knowledge that is fairly mind-boggling.",
+      "main": "To lead in that system requires knowledge ... that is fairly mind-boggling.",
+      "clauses": [
+        {
+          "part": "主语（不定式短语）",
+          "text": "To lead in that system",
+          "note": "不定式放句首作主语，这是全句最需要先认出来的一步——全句谓语 requires 出现得很晚，如果一路顺着读，很容易把 system 误当成主语。还原法：To lead in that system requires... = It requires... to lead in that system"
+        },
+        {
+          "part": "谓语 + 宾语",
+          "text": "requires knowledge",
+          "note": "requires 是三单形式，正好印证主语是前面的不定式短语（不定式作主语按单数处理）。knowledge 是不可数名词，前面没有冠词"
+        },
+        {
+          "part": "定语从句",
+          "text": "that is fairly mind-boggling",
+          "note": "that 在从句里作主语，所以不能省略。它修饰 knowledge，说明需要的是「相当烧脑」的知识。fairly 在这里是程度副词（相当、颇为），不是「公平地」——这是考研里反复出现的熟词僻义"
+        }
+      ],
+      "bracket": "[To lead in that system] requires (knowledge) [that is (fairly) mind-boggling].",
+      "cn": "要在那样一套体系里掌舵，需要的知识相当烧脑。",
+      "points": [
+        "不定式作主语时，谓语一律用单数：To lead... requires，不是 require。反过来，见到句首的 To do 不要急着找主语，先把它当成主语本身",
+        "这种结构几乎总能改写成 It + 谓语 + to do（It requires knowledge to lead in that system）。考场上如果读不懂，用这个改写法把语序理顺再读",
+        "fairly 修饰形容词时是「相当」，如 fairly good = 相当好；只有在修饰动词或表示「公平地」时才取本义。同类还有 rather / quite 的程度差别",
+        "that system 回指上一句的全球化供应链体系。本句是第 2 段六条理由中的一条，读到这句只要在心里记下「又一条：全球化」，不必深究"
+      ],
+      "words": [
+        "require",
+        "knowledge",
+        "fairly"
+      ],
+      "source": "2020 英语二 Text 2"
+    },
+    {
+      "id": "y20s11",
+      "type": "There be 句型 + 同位语从句（fact that）+ 比较结构 + with 复合结构（过去分词作宾补）",
+      "en": "Then there's the fact that large American companies are much more globalized than ever before, with supply chains spread across a larger number of countries.",
+      "main": "Then there's the fact ... that large American companies are much more globalized than ever before, with supply chains spread across a larger number of countries.",
+      "clauses": [
+        {
+          "part": "There be 句型框架",
+          "text": "Then there's the fact",
+          "note": "Then 是**列举副词**，不是「那时」的时间副词——本段靠 They also need / Then there's the fact / Plus / Beyond this 把理由一条条排出来，Then 只表示「接下来还有一条」。看到它不要去找时间线"
+        },
+        {
+          "part": "同位语从句",
+          "text": "that large American companies are much more globalized than ever before",
+          "note": "that 引导的是**同位语从句**，说明 the fact 的具体内容。识别标准：that 在从句里不作任何成分（这里主语是 companies、谓语是 are），只起连接作用；若是定语从句，that 必须在从句里充当主语或宾语"
+        },
+        {
+          "part": "比较结构",
+          "text": "much more globalized than ever before",
+          "note": "much 修饰比较级，是修饰比较级的固定搭配（不能用 very more）。than ever before = 比以往任何时候都，是考研高频套语"
+        },
+        {
+          "part": "with 复合结构（独立主格）",
+          "text": "with supply chains spread across a larger number of countries",
+          "note": "with + 宾语（supply chains）+ 宾补（spread）构成复合结构，作**补充说明**，解释全球化具体表现在哪。关键在 spread：它和 supply chains 是被动关系（供应链被铺开），所以用过去分词；如果写成 spreading 就变成供应链自己在蔓延，语感完全不同"
+        }
+      ],
+      "bracket": "Then there's (the fact) [that (large American companies) are (much more globalized) than (ever before)], (with supply chains) (spread across a larger number of countries).",
+      "cn": "此外还有一点：美国大公司比以往任何时候都更加全球化，供应链铺展在越来越多的国家。",
+      "points": [
+        "the fact that... 是同位语从句的标志性搭配。区分同位语从句与定语从句只看一点：that 在从句里做不做成分——不做成分就是同位语从句，本句正是如此",
+        "with + 宾语 + 过去分词：判断用 -ed 还是 -ing，看宾语和这个动作是**被动还是主动**关系。supply chains 是被 spread（铺开）的，所以用 spread。同类还有 with the work finished / with prices rising",
+        "much more globalized 里 much 修饰比较级，very 不能这样用。这是英二翻译和写作都会踩的点",
+        "Then 在这个列举链里只是「再者」，本段其余连接词是 also / Plus / Beyond this。把这些路标串起来，整段就是一份「CEO 需要什么」的清单，不需要逐句翻译"
+      ],
+      "words": [
+        "globalized",
+        "supply",
+        "spread"
+      ],
+      "source": "2020 英语二 Text 2"
+    },
+    {
+      "id": "y20s12",
+      "type": "表语从句 + 插入定语从句 + rather than 对比",
+      "source": "2020 英语二 Text 3",
+      "en": "That's because they inevitably put the costs of cleaning the air on to individual drivers—who must pay fees or buy better vehicles—rather than on to the car manufacturers whose cheating is the real cause of our toxic pollution.",
+      "main": "That's because they put the costs on to individual drivers rather than on to the car manufacturers.",
+      "clauses": [
+        {
+          "part": "表语从句",
+          "text": "because they inevitably put the costs of cleaning the air on to individual drivers rather than on to the car manufacturers",
+          "note": "That's because... 中 because 引导表语从句"
+        },
+        {
+          "part": "插入定语从句",
+          "text": "who must pay fees or buy better vehicles",
+          "note": "非限定性定语从句修饰 drivers，用破折号插入"
+        },
+        {
+          "part": "定语从句",
+          "text": "whose cheating is the real cause of our toxic pollution",
+          "note": "修饰 the car manufacturers；whose 表所属关系"
+        }
+      ],
+      "bracket": "That's [because they inevitably put (the costs of cleaning the air) on to (individual drivers)—[who must pay fees or buy better vehicles]—rather than on to (the car manufacturers) [whose cheating is the real cause of our toxic pollution]].",
+      "cn": "这是因为它们不可避免地把清洁空气的成本转嫁给了个人车主——他们必须缴费或购买更好的车——而不是转嫁给汽车制造商，而后者的作弊才是我们有毒污染的真正原因。",
+      "points": [
+        "That's because... 里 because 引导的是表语从句（That is because...），不是原因状语从句。同理 That's why... 里的 why 也是表语从句",
+        "put A on to B 结构：把成本转嫁给…。rather than 连接两个并列的介词短语 on to...，第二个承前省略了 put the costs",
+        "两个破折号之间的 who 从句是插入成分，整块拿掉后句子立刻通顺",
+        "这句是全文的批判核心：成本被转嫁给了弱者（车主），而不是真正的责任方（制造商）。主旨题和态度题都盯在这句"
+      ],
+      "words": [
+        "inevitably",
+        "manufacturer",
+        "toxic",
+        "vulnerable"
+      ]
+    },
+    {
+      "id": "y20s13",
+      "type": "省略关系词的定语从句 + 状语从句省略",
+      "source": "2020 英语二 Text 3",
+      "en": "Among other weaknesses, the measures cities must employ when left to tackle dirty air on their own are politically controversial, and therefore vulnerable.",
+      "main": "the measures are politically controversial, and therefore vulnerable.",
+      "clauses": [
+        {
+          "part": "状语",
+          "text": "Among other weaknesses",
+          "note": "among other + 名词 = 在众多…之中，是一个固定说法"
+        },
+        {
+          "part": "主语+定语从句",
+          "text": "the measures cities must employ ...",
+          "note": "measures 后省略了关系代词 that/which，因为它在从句里作 employ 的宾语"
+        },
+        {
+          "part": "省略式状语从句",
+          "text": "when left to tackle dirty air on their own",
+          "note": "when (they are) left to... 的省略；left 与 measures 是被动关系"
+        },
+        {
+          "part": "谓语",
+          "text": "are politically controversial, and therefore vulnerable",
+          "note": "and therefore vulnerable 承前省略了 are politically"
+        }
+      ],
+      "bracket": "Among other weaknesses, (the measures [cities must employ] [when (they are) left to tackle dirty air on their own]) are politically controversial, and therefore vulnerable.",
+      "cn": "除了其他弱点之外，城市在不得不独自应对空气污染时所必须采取的措施，在政治上有争议，因此也很脆弱。",
+      "points": [
+        "the measures cities must employ：measures 后面省略了关系代词 that/which。判断方法：cities must employ 本身是完整的主谓宾结构，说明前面省略了作宾语的关系词",
+        "when left to... 是 when they are left to... 的省略形式。状语从句主语与主句主语一致且含 be 动词时，可以同时省略主语和 be",
+        "主语长达 14 个词，谓语 are 出现得很晚。策略是先跳过定语从句和状语从句，找到 are 再回头补",
+        "and therefore vulnerable 承前省略了 are politically，完整是 and are therefore politically vulnerable。阅读时要能补回来"
+      ],
+      "words": [
+        "vulnerable",
+        "tackle",
+        "controversial"
+      ]
+    },
+    {
+      "id": "y20s14",
+      "type": "被动语态 + 分词短语作状语（结果）+ 宾语补足语",
+      "en": "A judge has now overruled the city's decision to stop levying fines, ordering them reinstated.",
+      "main": "A judge has now overruled the city's decision ..., ordering them reinstated.",
+      "clauses": [
+        {
+          "part": "主句（被动语态）",
+          "text": "A judge has now overruled the city's decision",
+          "note": "overrule 是「（法官）驳回、推翻」，动作由法官发出，被推翻的是市议会的决定。now 是段内时间线信号：前面刚说市议会暂停执法，now 一转，司法环节已经把暂停推翻"
+        },
+        {
+          "part": "同位语（不定式）",
+          "text": "to stop levying fines",
+          "note": "修饰 decision，说明这个决定的具体内容就是「停止开罚单」。levy 是「征收（罚款、税款）」，levy fines 是固定搭配。注意 stop doing 是「停止做」，不能读成 stop to do「停下来去做」"
+        },
+        {
+          "part": "分词状语",
+          "text": "ordering them reinstated",
+          "note": "现在分词短语，逻辑主语就是前面的 A judge：法官推翻决定的同时下令恢复。them 指 fines，不是 the city's decision——判断指代要看 reinstated 能不能跟它搭上"
+        },
+        {
+          "part": "宾语补足语",
+          "text": "reinstated",
+          "note": "过去分词作 them（fines）的补足语，表示「让罚款恢复生效」。这里是被动含义，不是谓语动词，不能读成「罚款恢复了」这个独立分句"
+        }
+      ],
+      "bracket": "(A judge) has now overruled (the city's decision) (to stop levying fines), (ordering them (reinstated)).",
+      "cn": "一名法官现在已经推翻了市议会停止开罚单的决定，下令恢复征收这些罚款。",
+      "points": [
+        "order A B 是「命令 A 成为 B」的宾语补足语结构，B 由过去分词充当，表示被动和结果。同类还有 declare sth done / keep sth closed",
+        "分词短语作状语时，它的逻辑主语默认是主句主语。这里 ordering 的主语是 A judge，所以意思是「法官下令恢复」，而不是「决定让罚款恢复」",
+        "them 回指前面的 fines。代词指代题常在这一类多个名词并列的句子里设错项：the city's decision 是单数，直接排除",
+        "本段的时间线是 rolled out → suspended → now overruled / reinstated → looks uncertain。把 now 当成链条上的一环，第 1 段「禁行区命运未定」的结论就读出来了"
+      ],
+      "words": [
+        "judge",
+        "overrule",
+        "levy",
+        "fine"
+      ],
+      "source": "2020 英语二 Text 3"
+    },
+    {
+      "id": "y20s15",
+      "type": "介词短语前置 + 定语从句 + 独立主格（过去分词）",
+      "en": "Madrid's back and forth on clean air is a pointed reminder of the limits to the patchwork, city-by-city approach that characterises efforts on air pollution across Europe, Britain very much included.",
+      "main": "Madrid's back and forth ... is a pointed reminder of the limits to the patchwork, city-by-city approach ...",
+      "clauses": [
+        {
+          "part": "主句",
+          "text": "Madrid's back and forth on clean air is a pointed reminder of the limits to the patchwork, city-by-city approach",
+          "note": "back and forth 是「来回反复」，这里名词化，指第 1 段那场政策折腾。reminder 后面用 of 引出被提醒的内容：limits to ... 才是作者真正要说的，approach 前那一串 patchwork, city-by-city 是并置的贬义修饰"
+        },
+        {
+          "part": "定语从句",
+          "text": "that characterises efforts on air pollution across Europe",
+          "note": "修饰 approach，说明受限于「各城市各自为政」的正是欧洲整体的治污努力。that 在这里是从句主语，不能省。characterise 是英式拼写，美式是 characterize"
+        },
+        {
+          "part": "独立主格（过去分词）",
+          "text": "Britain very much included",
+          "note": "不是分句，是「名词 + 过去分词」的独立主格：Britain is very much included 的压缩形式，用来补一句「英国也跑不掉」。very much 是加强语气，不是修饰动词的状语，去掉后主干照旧成立"
+        }
+      ],
+      "bracket": "(Madrid's back and forth on clean air) is (a pointed reminder of the limits) to (the patchwork, city-by-city approach) [that characterises efforts on air pollution across Europe], (Britain very much included).",
+      "cn": "马德里在清洁空气问题上的这番反复，尖锐地提醒人们：欧洲（英国更是首当其冲）那种东拼西凑、逐个城市各自为政的治污做法，是有其局限的。",
+      "points": [
+        "Britain very much included 是独立主格，不是新的句子，也不是插入语。看到「逗号 + 名词 + 过去分词」结构，先判断它有没有自己的谓语——没有，就是独立主格，整块可先跳过",
+        "主句骨架是 A is a reminder of B，中间插了很长的主语（Madrid's back and forth on clean air）和很长的宾语（the limits to ... approach）。找主干的方法是先锁定 is，再左右各找一个名词中心词：back and forth 和 reminder",
+        "that 引导的是限定性定语从句，且 that 在从句中作主语，所以不能省略。这与第 2 段的 the measures cities must employ 恰好相反——那里的关系词作宾语，被省掉了",
+        "这句是全文的**枢纽句**：它把第 1 段的马德里个案升级成「整个欧洲模式的缺陷」，后面第 3、4 段都在解释这个缺陷为什么存在、该由谁负责。主旨题答案由它定调，读到这句要意识到作者从「讲事情」转入「下判断」"
+      ],
+      "words": [
+        "reminder",
+        "limit",
+        "patchwork",
+        "characterise",
+        "included"
+      ],
+      "source": "2020 英语二 Text 3"
+    },
+    {
+      "id": "y20s16",
+      "type": "定语从句 + do so 替代 + 原因状语从句 + 比较结构",
+      "en": "But mayors and councilors can only do so much about a problem that is far bigger than any one city or town.",
+      "main": "mayors and councilors can only do so much about a problem ...",
+      "clauses": [
+        {
+          "part": "主句",
+          "text": "mayors and councilors can only do so much about a problem",
+          "note": "主干极短，谓语是 can only do。do so much about sth 意为「在…上能做的最多也就这么多」，only 把它压成「力所不及」的意思，是作者对地方官员的同情式评价"
+        },
+        {
+          "part": "定语从句",
+          "text": "that is far bigger than any one city or town",
+          "note": "修饰 a problem。that 在从句里作主语；比较对象是 a problem 和 any one city or town。作者把问题定位成「超出一座城市」的量级，这就是「该由更高层政府管」的伏笔"
+        }
+      ],
+      "bracket": "But (mayors and councilors) can only (do) (so much) about (a problem) [that is far bigger than any one city or town].",
+      "cn": "但市长和议员们对这样一个远大于任何单座城市的问题，能做的也就只有这么多。",
+      "points": [
+        "do so much about sth：so much 在这里不是「如此多」而是「最多也就这样」，only 一加，语气从描述变成谅解。若译成「能做很多」意思正好相反，这是态度题的关键细节",
+        "far 修饰比较级 than 结构，far bigger than = 大得多。同类还有 much / even / still / a lot + 比较级，其中 far 和 much 最常考",
+        "句首 But 是对第 3 段的转折：上段刚承认地方措施有效（The zones do deliver ...），本句立刻把功劳的上限划出来。读到 But 就要预判作者即将给出「但是不够」的结论",
+        "下一句 They are acting because national governments ... have failed to do so 里的 do so 替代的就是本句的 do so much about a problem。考研里 do so / do that 是高频替代形式，必须回上一句还原它替的是什么动作"
+      ],
+      "words": [
+        "mayor",
+        "councilor",
+        "problem"
+      ],
+      "source": "2020 英语二 Text 3"
+    },
+    {
+      "id": "y20s17",
+      "type": "时间状语从句（now that）+ 破折号插入的同位语（内含省略 that 的宾语从句）+ 主句",
+      "en": "Now that members of Generation Z are graduating college this spring—the most commonly-accepted definition says this generation was born after 1995, give or take a year—the attention has been rising steadily in recent weeks.",
+      "main": "Now that members of Generation Z are graduating college this spring ... the attention has been rising steadily in recent weeks.",
+      "clauses": [
+        {
+          "part": "时间状语从句",
+          "text": "Now that members of Generation Z are graduating college this spring",
+          "note": "now that = 既然、由于，引导的是已知前提，不是「现在」。graduate 在这里是及物用法，college 直接作宾语，不能说成 graduate from college；整块读到破折号为止就停"
+        },
+        {
+          "part": "破折号插入的同位语（含宾语从句）",
+          "text": "the most commonly-accepted definition says this generation was born after 1995, give or take a year",
+          "note": "两个破折号中间的整块是插入语，作用相当于对 Generation Z 下定义。它的内部又是一个「主语 + says + 宾语从句」结构：says 后省略了连词 that。先把这一块整体跳过，主句才好找。括号化里之所以有 [this generation was born after 1995]，是因为 says 后面的 that 从句就是这个宾语从句"
+        },
+        {
+          "part": "插入语内的宾语从句",
+          "text": "this generation was born after 1995, give or take a year",
+          "note": "作 says 的宾语。give or take a year 是「上下相差一年左右」，口语里作补充说明；考研常拿它设词义题，意思是「大约」而不是「给出或拿走」"
+        },
+        {
+          "part": "主句",
+          "text": "the attention has been rising steadily in recent weeks",
+          "note": "这才是全句的主干，主语是 attention（注意力），不是 Generation Z。has been rising 是现在完成进行时，表示「最近几周一直在涨」；一旦把 Z 世代当成主语，主语和谓语的搭配就读错了"
+        },
+        {
+          "part": "补充说明（同位语的同指成分）",
+          "text": "this generation",
+          "note": "指的就是破折号前那个 Generation Z。这类「名词 + 指示代词回指」是插入语里常见的承接方式，读到 this 要立刻回指上一个提到的名词，不要另起一个主语"
+        }
+      ],
+      "bracket": "[Now that members of (Generation Z) are graduating college this spring]—(the most commonly-accepted definition) says [this generation was born after 1995], (give or take a year)—(the attention) has been rising steadily in (recent weeks).",
+      "cn": "既然 Z 世代今年春天就要大学毕业了——最被普遍接受的定义说，这一代出生于 1995 年之后，前后差一年左右——最近几周，人们的关注度一直在稳步上升。",
+      "points": [
+        "两个破折号之间的插入语是「可整体删除」的信号。删掉后剩下 Now that... the attention has been rising...，主干立刻清楚；考场上如果在插入语里纠缠，很容易把 attention 看成插入语的一部分",
+        "主句主语是 the attention，不是 Generation Z。英文里「注意力在上升」用 attention rises，人只能 receive attention——细节题若写成 Z 世代很受关注，那是对的方向，但若说 Z 世代「关注度上升」，主语就错了",
+        "now that 引导原因兼时间：译成「既然」。它和 because 的差别在于强调「前提已经成立」，所以后半句往往是自然结果——这是本段「关注度上升」的因果来源",
+        "定义用一般过去时（was born），而主句用现在完成进行时（has been rising），时态切换本身就在提示「定义是老规矩，升温是最近的事」"
+      ],
+      "words": [
+        "attention",
+        "definition",
+        "steadily"
+      ],
+      "source": "2020 英语二 Text 4"
+    },
+    {
+      "id": "y20s18",
+      "type": "条件状语从句 + 插入语（fairly or not）+ 括号插入同位语 + 主句（转折对照）",
+      "en": "If \"entitled\" is the most common adjective, fairly or not, applied to millennials (those born between 1981 and 1995), the catchwords for Generation Z are practical and cautious.",
+      "main": "If \"entitled\" is the most common adjective ... applied to millennials ... the catchwords for Generation Z are practical and cautious.",
+      "clauses": [
+        {
+          "part": "条件状语从句",
+          "text": "If \"entitled\" is the most common adjective",
+          "note": "entitled 带引号，说明作者是在引用别人给的标签，不是自己的判断，态度上留了余地。这句话译成「如果非要说…」比译成「如果…是」更贴近语气"
+        },
+        {
+          "part": "插入语（让步性评论）",
+          "text": "fairly or not",
+          "note": "夹在形容词和它的后置修饰之间，意思是「不管公不公平」。它表达的是作者的中立姿态——态度题若据此说作者认同 entitled 这个标签，就过度解读了"
+        },
+        {
+          "part": "后置定语",
+          "text": "applied to millennials",
+          "note": "过去分词短语修饰 the most common adjective，等于 which is applied to millennials。它被 fairly or not 隔开了，读的时候要回接：这个形容词是「用在千禧一代身上的」"
+        },
+        {
+          "part": "括号插入的同位语",
+          "text": "those born between 1981 and 1995",
+          "note": "those = the millennials，后接过去分词短语 born...；出生年份是考研里判断「哪一代人」的硬信息，细节题常拿它对照第 1 段的 born after 1995"
+        },
+        {
+          "part": "主句",
+          "text": "the catchwords for Generation Z are practical and cautious",
+          "note": "主干是 the catchwords are practical and cautious，主语中心词是 catchwords（口头禅、标签词），practical and cautious 说明的是这两个词，不是 Z 世代本身——中文顺译成「Z 世代的标签词是……」即可，别写成「Z 世代很实用」"
+        }
+      ],
+      "bracket": "[If \"entitled\" is (the most common adjective), (fairly or not), (applied to millennials) ((those born between 1981 and 1995))], (the catchwords for Generation Z) are (practical and cautious).",
+      "cn": "如果说「自认理所应当」是贴在千禧一代身上最常见的形容词——不管这公不公平——那么 Z 世代的标签词就是务实和谨慎。",
+      "points": [
+        "If 从句在这里不是真正的条件句，而是对照框架：If A is X, B is Y = A 是 X，而 B 是 Y。英二常靠 if 把两代人的标签并排放，主旨题要的就是这组对照",
+        "fairly or not 是插入语，删掉不影响语法。它的价值在语气：作者既转述了标签又声明无意评判，遇到问作者态度的题，这句话正是「客观、不站队」的证据",
+        "the catchwords ... are practical and cautious：主语是 catchwords（标签词），practical 与 cautious 是表语形容词，说明标签本身。若按「Z 世代务实谨慎」去理解，语义方向对，但会漏掉作者「这两个词是外界给的标签」这层意思",
+        "括号里的那些 born between 1981 and 1995 与第 1 段 Z 世代的 born after 1995 形成时间对照，是细节题定位「哪一代」的唯一依据，务必看清年份落点"
+      ],
+      "words": [
+        "entitled",
+        "cautious",
+        "millennial"
+      ],
+      "source": "2020 英语二 Text 4"
+    },
+    {
+      "id": "y20s19",
+      "type": "引语 + 引述动词前置 + 同位语 + 定语从句（被同位语隔开）+ as well 比较",
+      "en": "\"Millennials wanted more flexibility in their lives,\" notes Tanya Michelsen, Associate Director of YouthSight, a UK-based brand manager that conducts regular 60-day surveys of British youth, in findings that might just as well apply to American youth.",
+      "main": "\"Millennials wanted more flexibility in their lives,\" notes Tanya Michelsen ... in findings that might just as well apply to American youth.",
+      "clauses": [
+        {
+          "part": "引语",
+          "text": "Millennials wanted more flexibility in their lives",
+          "note": "引号里是观点的内容，是整个第三段的第一个论据：上一代要的是灵活。读引语先读内容，别被引号外的长尾巴带跑"
+        },
+        {
+          "part": "引述框（动词前置）",
+          "text": "notes Tanya Michelsen",
+          "note": "notes + 人名，动词在主语前是新闻英语的引述惯例，不倒装、也不表示「正在记录」。这句还提示后面的话是专家观点，态度题、推理题都要按「专家怎么说」处理"
+        },
+        {
+          "part": "同位语 1",
+          "text": "Associate Director of YouthSight",
+          "note": "说明 Michelsen 的职位。职位和机构名连在一起时最容易读成新句子，看到「逗号 + 大写职衔」先判断它是同位语"
+        },
+        {
+          "part": "定语从句（修饰 a UK-based brand manager）",
+          "text": "a UK-based brand manager that conducts regular 60-day surveys of British youth",
+          "note": "that 的先行词是 a UK-based brand manager，不是紧挨着的 YouthSight。同位语插在中间把「名词—定语从句」隔开了，这是本句最容易错的地方：定语从句跳过同位语回指前面"
+        },
+        {
+          "part": "状语（引出适用范围）",
+          "text": "in findings that might just as well apply to American youth",
+          "note": "in findings 意为「在……的这些发现里」，说明后面讲的是研究结论；might just as well = 也完全可以，作者借此把英国的调查结果推广到美国青年，扩大了全段的适用范围"
+        }
+      ],
+      "bracket": "\"Millennials wanted more flexibility in their lives,\" notes (Tanya Michelsen), (Associate Director of YouthSight), (a UK-based brand manager) [that conducts regular 60-day surveys of British youth], in (findings) [that might just as well apply to American youth].",
+      "cn": "「千禧一代想要生活里有更多灵活度，」YouthSight 副总监坦尼娅·米歇尔森说。YouthSight 是一家英国品牌管理机构，定期对英国青年做 60 天一轮的调查。而这些发现，也完全可以套用到美国青年身上。",
+      "points": [
+        "\"...,\" notes Tanya Michelsen, Associate Director of YouthSight, a UK-based brand manager that... 这一长串里只有 notes 是谓语。策略：先把两个同位语和定语从句整块跳过，只保留 notes Tanya Michelsen + in findings，句子就通了",
+        "that conducts regular 60-day surveys 的先行词是 a UK-based brand manager。同位语 YouthSight 把名词和它的定语从句隔开，属于「先行词与定语从句被插入成分分离」，遇到时要往前找中心名词，不能就近指代",
+        "in findings that might just as well apply to American youth 是全文最后一次扩大范围：从「英国青年的调查」推广到「美国青年也一样」。主旨题如果只答「英国青年的就业观」，就漏掉了这层推广",
+        "60-day surveys 里的 60-day 是「数词+名词」作前置定语，名词用单数，不能写成 60-days；考研里这类复合定语的单复数常设干扰项"
+      ],
+      "words": [
+        "flexibility",
+        "survey"
+      ],
+      "source": "2020 英语二 Text 4"
+    },
+    {
+      "id": "y20s20",
+      "type": "not only ... but also 并列 + 并列项省略谓语",
+      "en": "This may not only do damage to your relationship with your child but also your child's self-esteem.",
+      "main": "This may not only do damage to your relationship with your child but also your child's self-esteem",
+      "clauses": [
+        {
+          "part": "主语",
+          "text": "This",
+          "note": "单独一个 this 作主语，回指上一段整件事（在疲惫的一刻脱口而出的话）。英文里 this 常常代替一整个句子，读的时候必须往上找它指的是什么，不能当「这个」一笔带过"
+        },
+        {
+          "part": "并列谓语 1",
+          "text": "may not only do damage to your relationship with your child",
+          "note": "do damage to = 损害、伤害，介词只能用 to。not only 放在句中时不倒装，情态动词 may 照常放在主语后面"
+        },
+        {
+          "part": "并列宾语 2（省略谓语）",
+          "text": "but also your child's self-esteem",
+          "note": "完整形式是 but also (do damage to) your child's self-esteem。not only A but also B 里，B 后面常常省掉与 A 相同的动词，所以 but also 后面直接跟一个名词短语是正常的，不是句子残缺"
+        }
+      ],
+      "bracket": "This may not only (do damage to your relationship with your child) but also (your child's self-esteem).",
+      "cn": "这不仅可能损害你和孩子之间的关系，还可能伤到孩子的自尊。",
+      "points": [
+        "not only A but also B 里，B 后面省掉了与 A 相同的 do damage to。读的时候要把谓语补回来，否则会觉得 but also 后面少了东西",
+        "not only 在句中时**不倒装**（may not only do damage）；只有把它提到句首才倒装（Not only may it do damage...）。这是写作和改错的高频考点",
+        "do damage to sb/sth 是固定搭配，介词用 to：do damage to your health。不能说 do damage for / on",
+        "这句是第 3 段的结论句，也是全文的价值落点：一时的气话会同时伤到关系和自尊。but also 引出的是递进，说明在作者看来伤自尊这一层更重——态度题常在这里设题"
+      ],
+      "words": [
+        "damage",
+        "self-esteem"
+      ],
+      "source": "2020 英语二 完形填空"
+    },
+    {
+      "id": "y20s21",
+      "type": "插入语 + 同级比较 + 分词状语 + 名词性从句引导的冒号句 + 并列谓语",
+      "en": "A more practical goal is to try, to the best of your ability, to be as tolerant and composed as you can when faced with situations involving your children.",
+      "main": "A more practical goal is to try ... to be as tolerant and composed as you can ...",
+      "clauses": [
+        {
+          "part": "主语",
+          "text": "A more practical goal",
+          "note": "more practical 是「对比出来的」比较级，前面一段刚说完「时刻耐心极难」，所以这个 goal 是与「时刻耐心」相比更实际的那一个。比较级在段首出现，通常意味着作者在调整主张、降低要求"
+        },
+        {
+          "part": "表语（不定式）",
+          "text": "to try ... to be as tolerant and composed as you can",
+          "note": "to try 作表语，try 后面又接不定式 to be，构成 try to do sth。两层不定式套在一起时，先看外层 to try，再看内层 to be，不要把 try 当名词读成「一次尝试」"
+        },
+        {
+          "part": "插入语",
+          "text": "to the best of your ability",
+          "note": "两个逗号夹住的插入成分，作方式状语，意思是「尽你所能」。整块拿掉后句子照样通顺，所以阅读时可以先跳过；固定搭配 to the best of one's ability 是考研高频短语，完形里常以介词 to 设干扰项（不能用 in / with）"
+        },
+        {
+          "part": "同级比较",
+          "text": "as tolerant and composed as you can",
+          "note": "as + 形容词 + as + 从句，表示「尽可能的…」。第二个 as 后面是省略形式，补全为 as you can (be)；be composed 是「镇定、沉着」，和本段开头的 tolerant 并列，一起定下作者对父母的真实期待"
+        },
+        {
+          "part": "分词状语（省略主谓）",
+          "text": "when faced with situations involving your children",
+          "note": "when (you are) faced with... 的省略，主语与主句一致时连同 be 一起省掉。faced with 是被动含义的过去分词短语，situations 后面用 involving 作后置定语，表示「与孩子有关的各种情形」；两层修饰叠在一起，读的时候从后往前剥"
+        }
+      ],
+      "bracket": "(A more practical goal) is (to try), (to the best of your ability), (to be [as tolerant and composed as you can]) [when (you are) faced with (situations) [involving your children]].",
+      "cn": "更实际的目标是：尽你所能，在与孩子相关的情形面前尽量做到宽容、镇定。",
+      "points": [
+        "to try, to the best of your ability, to be...：插入语把 try 和它真正的不定式宾语 to be 隔开了。这是英二阅读和完形都爱考的「动宾被插入语隔断」，看到 try 之后不要急着断句，要往下找第二个 to",
+        "to the best of your ability 是固定搭配，介词只能用 to。同类高频搭配还有 to some extent / to a large degree，完形常在介词上做文章",
+        "when faced with... 是 when you are faced with... 的省略；be faced with 表被动，主语是人时译成「面对」，不能译成「被面对」",
+        "as tolerant and composed as you can 是同级比较，第二个 as 后承前省略了 be 动词。本段用 tolerant and composed 与上一段的 lose your patience 形成正反对比，态度题的答案就藏在这组对照里"
+      ],
+      "words": [
+        "practical",
+        "tolerant",
+        "composed"
+      ],
+      "source": "2020 英语二 完形填空"
+    },
+    {
+      "id": "y20s22",
+      "type": "动名词短语作主语 + 宾语从句（省略 that）+ 比较结构 rather than + 动名词",
+      "en": "In fact, rushing to get your own ideas out there can cause colleagues to feel you don't value their opinions.",
+      "main": "rushing to get your own ideas out there can cause colleagues to feel you don't value their opinions.",
+      "clauses": [
+        {
+          "part": "插入语/连接性状语",
+          "text": "In fact",
+          "note": "不是句子成分，作用是把上一句「你也可以说说自己的感受」**收紧成作者真正的立场**。段落里的 In fact 后面通常跟着更正或加强，读到它要准备接受一个比前面更硬的说法"
+        },
+        {
+          "part": "动名词短语作主语",
+          "text": "rushing to get your own ideas out there",
+          "note": "主语中心词是动名词 rushing，不是 ideas。rushing to do 意为「急着做…」；get your ideas out there 是口语化的「把自己的想法说出去」。动名词作主语时谓语用单数，所以后面是 can 而不是 can't 之类的变形——判断主谓一致就看中心词"
+        },
+        {
+          "part": "谓语 + 宾语 + 宾补",
+          "text": "can cause colleagues to feel",
+          "note": "cause sb to do sth 是「使某人做某事」，带 to 的不定式作宾补。这是与 make / let / have 的关键差别：make sb do 不带 to，cause sb to do 必须带 to，考研改写题常在这里埋雷"
+        },
+        {
+          "part": "宾语从句（省略 that）",
+          "text": "you don't value their opinions",
+          "note": "feel 后面省略了连词 that，从句本身主谓宾完整。识别方法：feel 是及物动词，紧跟其后的完整主谓结构就是它的宾语从句。their 指同事，opinions 是「意见」不是「观点立场」"
+        }
+      ],
+      "bracket": "(In fact), (rushing (to get your own ideas out there)) can (cause colleagues) (to feel [you don't value their opinions]).",
+      "cn": "事实上，急着把自己的想法说出来，会让同事觉得你并不重视他们的意见。",
+      "points": [
+        "主语是动名词短语 rushing to get your own ideas out there，不是 ideas 或 colleagues。看清这一点才能对上后面的 can：动名词作主语按单数处理",
+        "cause sb to do sth 与 make sb do sth 的区别是高频考点：cause 后必须带 to，make / let / have 后不带 to，get sb to do 又带 to。改错和完形都爱考这一组",
+        "feel 后面省略了 that。同类的还有 I think you are right、They said it was fine，判断办法是找及物动词后是否紧跟一个完整的主谓结构",
+        "本句是第 3 段的**后果句**，与段末 `Do your best to engage coworkers in a genuine, back-and-forth conversation, rather than prioritizing your own thoughts` 构成一对反义表达（rushing ↔ take time，your own ideas ↔ back-and-forth）。细节题常问「急着表达自己会造成什么」，答案就在 don't value their opinions 这一处",
+        "out there 是口语化的「说出去、摆到台面上」，不是地点状语，不要按字面理解成「在外面」"
+      ],
+      "words": [
+        "colleague",
+        "opinion",
+        "value"
+      ],
+      "source": "2020 英语二 Part B"
+    },
+    {
+      "id": "y20s23",
+      "type": "主句 + that 宾语从句 + that 定语从句 + because 原因状语从句（内含省略 that 的宾语从句）",
+      "en": "One study found that people responded best to comments that shifted from negative to positive, possibly because it suggested they had won somebody over.",
+      "main": "One study found that people responded best to comments ... possibly because it suggested they had won somebody over.",
+      "clauses": [
+        {
+          "part": "主句 + 宾语从句",
+          "text": "One study found that people responded best to comments",
+          "note": "found 后接 that 引导的宾语从句。responded best to 是 respond to 的最高级形式：respond to sth 意为「对…作出反应」，to 是介词，后面只能接名词或动名词，不能接动词原形"
+        },
+        {
+          "part": "定语从句",
+          "text": "that shifted from negative to positive",
+          "note": "修饰 comments，不是修饰 people——判断依据是最近的先行词 comments 和语义：是评价内容从负面转向正面。shift from A to B 是「从 A 转到 B」，这里 A、B 是形容词化的名词 negative / positive（＝负面评价 / 正面评价）"
+        },
+        {
+          "part": "原因状语从句",
+          "text": "possibly because it suggested they had won somebody over",
+          "note": "possibly 是**态度缓冲词**，表示这是研究者的推测而非定论，态度题把它读成事实就会错。because 从句里 it 回指「评价由负转正」这件事；suggested 后又省略了 that，接一个宾语从句 they had won somebody over"
+        },
+        {
+          "part": "宾语从句（省略 that，过去完成时）",
+          "text": "they had won somebody over",
+          "note": "had won 是过去完成时，表示「在收到评价之前就已经赢取了对方认可」。win sb over 是「把某人争取过来、赢得某人的支持」，与全文标题里的 win over 是同一个短语，本句其实在解释「为什么赞美能拉拢人心」"
+        }
+      ],
+      "bracket": "(One study) found [that people responded (best) to (comments [that shifted from (negative) to (positive)])], (possibly) [because it suggested [they had won somebody over]].",
+      "cn": "一项研究发现，人们对「由负面转向正面」的评价反应最好，这可能是因为这种转变让他们觉得自己已经赢得了对方的认可。",
+      "points": [
+        "that comments that shifted... 两个 that 挨在一起，但身份完全不同：第一个是引导宾语从句的连词，第二个是引导定语从句的关系代词。判断办法是看 that 后面接的是完整句子还是缺主语的句子——缺主语就是定语从句",
+        "find / suggest / show 后接 that 从句是研究类句子的固定写法。本句 found that... 和 suggested... 两处都省略了 that，是考研省略现象的高频例子",
+        "had won 是过去完成时，表示比 responded 更早的动作。时间轴读不清时，先把两个动作排出先后，再判断时态是否合理",
+        "possibly 是这篇里唯一的态度缓冲词。作者引用研究是为了支持「真诚赞美」，但他自己用 possibly 表示这只是**一种解释**，所以细节题若说「研究证明赞美一定能让人被说服」就是过度推断",
+        "win sb over 就是本文标题 Five Ways to Win Over Everyone in the Office 里的那个短语，意思是「把某人争取到自己这边」。读正文时认出它，标题的含义和本段的作用就同时清楚了"
+      ],
+      "words": [
+        "comment",
+        "shift",
+        "negative",
+        "positive",
+        "suggest"
+      ],
+      "source": "2020 英语二 Part B"
+    },
+    {
+      "id": "y20s24",
+      "type": "名词短语作连词 + 省略关系词的定语从句",
+      "source": "2020 英语二 翻译",
+      "en": "Every time we fail at something, we can choose to look for the lesson we're meant to learn.",
+      "main": "we can choose to look for the lesson.",
+      "clauses": [
+        {
+          "part": "时间状语从句",
+          "text": "Every time we fail at something",
+          "note": "every time 在这里是连词，不是名词短语"
+        },
+        {
+          "part": "主句",
+          "text": "we can choose to look for the lesson",
+          "note": "choose to do sth"
+        },
+        {
+          "part": "定语从句",
+          "text": "we're meant to learn",
+          "note": "修饰 the lesson，关系代词 that/which 被省略"
+        }
+      ],
+      "bracket": "[Every time we fail at something], we can choose to look for (the lesson [we're meant to learn]).",
+      "cn": "每当我们在某件事上失败，我们都可以选择去寻找那本该学到的教训。",
+      "points": [
+        "every time 在这里作连词引导时间状语从句，相当于 whenever。同类还有 the moment / the first time / by the time，遇到要注意它们是连词不是名词",
+        "the lesson we're meant to learn：lesson 后面省略了关系代词 that/which，因为它在从句里作 learn 的宾语",
+        "be meant to do 有两个常见意思：「注定要」和「本该要」。这里取后者——这次失败本就是要教给你的东西",
+        "这是 2020 英语二翻译题的首句，翻译时要把 choose to 的「选择」意味译出来，不能只译成「我们可以寻找」"
+      ],
+      "words": [
+        "discover",
+        "lesson",
+        "failure"
+      ]
+    },
+    {
+      "id": "y20s25",
+      "type": "形式主语 it + 真主语为不定式 + 动名词短语作介词宾语",
+      "en": "It's almost impossible to go through life without experiencing some kind of failure.",
+      "main": "It's almost impossible to go through life ...",
+      "clauses": [
+        {
+          "part": "主句（形式主语 + 系表）",
+          "text": "It's almost impossible",
+          "note": "It 是形式主语，本身不指任何东西；almost 修饰 impossible，语气是「几乎、差不多」，不是「几乎不」——它压的是 impossible，不构成否定"
+        },
+        {
+          "part": "真主语（不定式短语）",
+          "text": "to go through life",
+          "note": "真正的主语，被后置到句尾。go through life 是固定说法，意思是「度过一生／走完人生」，不要逐字译成「穿过生活」"
+        },
+        {
+          "part": "介词短语（含动名词）",
+          "text": "without experiencing some kind of failure",
+          "note": "without 是介词，后面必须接动名词 experiencing，不能接动词原形。这个介词短语修饰的是「度过一生」这件事，等于给前面的不定式加了一个附加条件"
+        }
+      ],
+      "bracket": "It's (almost) impossible (to go through life) (without experiencing some kind of failure).",
+      "cn": "人的一生几乎不可能不经历某种失败。",
+      "points": [
+        "It is + adj. + to do 是考研英语里最高频的句型之一，it 只是形式主语。翻译时不能保留 it，要按汉语习惯把不定式那部分提到前面：「人的一生几乎不可能……」",
+        "impossible 和 without 让句子里出现了两层否定（不可能 ＋ 不经历），汉语直接用「不可能不……」最顺；如果拆成「不经历失败是不可能的」，句子会突然变得很书面、很拗口",
+        "without 是介词，所以后面用 experiencing 而不是 experience。同类还有 be afraid of doing / look forward to doing，只要看到介词就要警觉后面该用动名词",
+        "some kind of 是「某种」，作用是模糊化、不把失败说死。译成「某些失败」就把泛指变成了特指，反而错位"
+      ],
+      "words": [
+        "without",
+        "experiencing",
+        "failure"
+      ],
+      "source": "2020 英语二 翻译"
+    },
+    {
+      "id": "y20s26",
+      "type": "主句 + 定语从句（含 otherwise 的虚拟意味）+ 介词短语作后置定语",
+      "en": "Failure can also teach us things about ourselves that we would never have learned otherwise.",
+      "main": "Failure can also teach us things ... that we would never have learned otherwise.",
+      "clauses": [
+        {
+          "part": "主句（双宾语）",
+          "text": "Failure can also teach us things",
+          "note": "teach sb sth 双宾语结构：us 是间接宾语，things 是直接宾语，中间不加介词。also 表明这句是在前文「失败是学习机会」基础上的进一步拓展"
+        },
+        {
+          "part": "后置定语",
+          "text": "about ourselves",
+          "note": "修饰 things 而不是 ourselves，意思是「关于我们自己的（事情）」。放在 things 后面是避免头重脚轻，翻译时要挪回名词前面"
+        },
+        {
+          "part": "定语从句",
+          "text": "that we would never have learned otherwise",
+          "note": "修饰 things。otherwise 是副词，意为「在别的情况下、不这样的话」，它和 would never have learned 一起构成对未曾发生的可能性的假设"
+        }
+      ],
+      "bracket": "(Failure) can also teach (us) (things) (about ourselves) [that we would never have learned otherwise].",
+      "cn": "失败还能教给我们一些关于自己的东西，而这些是我们本来永远无从了解的。",
+      "points": [
+        "teach us things 是双宾语，不能按汉语语序硬译成「教我们东西」了事——「教给我们一些关于自己的东西」才像人话；遇到 give / tell / show / teach 这类词要第一时间认出双宾语",
+        "things 是极抽象的词，这里是英译汉的典型「抽象名词具体化」考点。译成「事情」太干，加一个范围词「关于自己的（东西）」句子才立得住",
+        "that 从句虽然紧跟在 ourselves 后面，修饰的却是 things。判断依据是语义：从句里缺的是 learn 的宾语，而「了解人」不通，只能是「了解那些事情」",
+        "otherwise 不能译成「否则」。它在这里指「要不是失败（在别的情况下）」，与 would never have learned 合成一种没发生的可能，汉语说「本来永远无从了解」最贴切。若直译成「否则我们永远不会学到」，读者会以为后面还有半句被漏掉了",
+        "这句是全文第三个层次的论点：前两段讲「失败不可怕、要看态度」，这句把失败的收获具体化为「认识自己」，是翻译题里最可能出采分点的抽象表达"
+      ],
+      "words": [
+        "teach",
+        "learn",
+        "otherwise"
+      ],
+      "source": "2020 英语二 翻译"
+    }
+  ]
+}

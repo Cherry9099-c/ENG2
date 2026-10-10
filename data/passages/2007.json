@@ -1,0 +1,285 @@
+{
+  "meta": {},
+  "passages": [
+    {
+      "id": "y07p1",
+      "source": "2007 英语一（旧） Text 1",
+      "topic": "天才是否天生",
+      "type": "现象—猜测—研究否定—结论型",
+      "mainIdea": "精英球员出生月份集中的怪现象，引出的不是神秘天赋而是后天训练：记忆等能力并非基因决定，把高手与常人区分开的是「刻意练习」。",
+      "structure": "摆怪现象（1）→ 引入人物（2）→ 实验与机制（3）→ 推广收束（4）",
+      "paragraphs": [
+        {
+          "n": 1,
+          "role": "摆现象 + 罗列猜测",
+          "gist": "足坛精英更可能出生在年初，青训梯队里这一现象更明显；作者随即抛出一串猜测，最后一项是「以上皆非」。",
+          "note": "两个平行的 If you were to... / If you then examined... you would find... 是虚拟条件句，作用是把「现象」写得像一项研究结论，读的时候只要抓住 this strange phenomenon 这个反复出现的名词短语，就知道下文都是围着它转。四个猜测 a) b) c) d) 是**别人的解释**，不是作者观点；d) none of the above 单独成项，是在替下一段的主角抢先表态，主旨题选「作者态度」时不能把 a) b) c) 当成作者立场。"
+        },
+        {
+          "n": 2,
+          "role": "引入人物 + 举例",
+          "gist": "心理学家 Ericsson 明确表态支持「以上皆非」；他原本学核工程，意识到转攻心理学才更有机会做自己的研究；三十年前那项记忆实验里，受试者经过 20 小时训练把数字记忆广度从 7 提到 20，200 小时后超过 80。",
+          "note": "says he believes strongly in \"none of the above\" 把上一段的 d) 项接了过来，这是段与段之间的钩子。中间那句人物背景（他原本学核工程，意识到转攻心理学才能有更多机会做自己的研究）是**插叙**，考细节题时才需要，抓主旨时可以整句跳过；但它的存在本身就是作者在铺「高手是练出来的」这个论点——连 Ericsson 本人也是靠选择才走上研究之路。数字 7 / 20 / 80 是全文唯一的实验数据，细节题常拿它设「训练无效」这类反向干扰。"
+        },
+        {
+          "n": 3,
+          "role": "揭示机制",
+          "gist": "这项成功加上「记忆本身不是基因决定」的后续研究，使 Ericsson 断定记忆是认知训练而非直觉天赋；先天的记忆差异会被「编码」能力淹没，而学会有意义地编码最好的办法就是「刻意练习」——它不只是重复任务，而是设定具体目标、获取即时反馈、技法与结果并重。",
+          "note": "本段是全文的论证核心，推进链条是：This success, coupled with later research → led Ericsson to conclude → In other words（换句话解释）→ And the best way... was a process known as deliberate practice（给出关键概念）→ Deliberate practice entails... / Rather, it involves...（正面定义）。段末 whatever inborn differences... those differences are swamped by... 是**先让步再压低**：作者承认先天差异存在，但用 swamped（被淹没）把它一笔勾销，这一句就是主旨题的答案句。掌握 deliberate practice 的定义，第 4 段的结论才有落点。"
+        },
+        {
+          "n": 4,
+          "role": "推广 + 得出结论",
+          "gist": "Ericsson 和同事转而研究足球等各领域的顶尖高手，既收集成绩与生平资料，也做实验室实验；结论很惊人——我们通常所说的「天赋」被大大高估了，高手几乎都是练出来的，而不是生出来的。",
+          "note": "including soccer 把话题绕回第 1 段的足球，是典型的**首尾呼应**：开头那个怪现象到这里被解释掉了。Their work makes a rather startling assertion: the trait we commonly call talent is highly overrated 是全文论点句；末句 Or, put another way, expert performers... are nearly always made, not born 用 made, not born 的对比把论点缩成一句口号，是主旨题最直接的答案来源。注意 nearly always 是限定，选项若写成 always 或 none 就属于绝对化错误。"
+        }
+      ]
+    },
+    {
+      "id": "y07p2",
+      "source": "2007 英语一（旧） Text 2",
+      "topic": "智商测试能测出什么",
+      "type": "现象—设问—介绍—反驳型",
+      "mainIdea": "智商分数长期被当成智力的定义，但它只测分析和语言能力，测不出创造力与实践知识，一旦人群或情境改变就连预测力都会反转——真正需要重新界定的是「聪明」本身。",
+      "structure": "引例并暴露矛盾（1）→ 提出根本设问（2）→ 交代测试现状与局限（3）→ 权威反驳并收束（4）",
+      "paragraphs": [
+        {
+          "n": 1,
+          "role": "引例 + 暴露矛盾",
+          "gist": "《Parade》周刊的「Ask Marilyn」专栏请智商 228 的 vos Savant 回答读者提问，可她被问的却是爱与喜欢的区别、运气与巧合的本质这类问题；而智商测试只考类比、折纸想象和数字推理，这种错位让人困惑。",
+          "note": "开篇用 vos Savant 的「10 岁测出 23 岁的智力水平」「IQ 228」两个数字把「高智商」写得极有冲击力，但作者的重点不在这位天才，而在末句那个反差——IQ 测的是 verbal and visual analogies 这类封闭任务，读者问的却是诗人哲学家都没答上来的问题。So it is a bit confusing when... 是作者态度第一次露头：他不是在赞美智商测试。段末 It's not obvious how... 用双重否定委婉地表达质疑，这句是全篇由「例子」转向「问题」的接口，主旨题里它和第 2 段的设问是同一个方向。"
+        },
+        {
+          "n": 2,
+          "role": "提出根本设问",
+          "gist": "智力显然不只是一个考试分数，那么「聪明」到底指什么？其中有多少能被明确界定，又有多少要靠神经学、遗传学、计算机科学去了解？",
+          "note": "全段由 Clearly 加三个问句组成，是典型的「用一串设问顶替论述」的写法，句句都在给第 3、4 段的回答留位置。Clearly 是态度副词，等于先下结论再提问：作者已经认定「分数≠智力」，只是要问该用什么替代。这三个问句本身常常就是主旨题的题干来源，读的时候要把它们记住，而不是当成作者没有立场。"
+        },
+        {
+          "n": 3,
+          "role": "交代现状 + 揭示局限",
+          "gist": "尽管测试频次不如从前，IQ 分数仍是人类智力的定义性指标；测试主要分 Stanford-Binet 和 Wechsler 两套，费用数百美元、通常只由心理学家施测，但书店和网上到处是变体；由于计分改为同龄人群的统计分布，228 这样的超级高分已不可能再现；SAT、GRE 之类标准化考试也复制了 IQ 测试的主要方面。",
+          "note": "本段信息密集，最容易在读的时候迷路，骨架其实只有三句：①智商分数依然是定义（The defining term of intelligence in humans still seems to be the IQ score）；②测试长什么样、怎么给分；③其它标准化考试与之一脉相承。扫描细节题喜欢考 Generally costing several hundred dollars / given only by psychologists / variations... populate bookstores and the World Wide Web 这一组对比——正规测试昂贵又小众，变体却随处可见，暗示「测试的权威性没那么牢」。真正的难点是 rather than simply dividing the mental age by the chronological age and multiplying by 100：新计分方式是人群统计分布，旧方式才是「心理年龄÷实际年龄×100」，作者正是用这个对照解释为什么 228 分不再可能出现——不是人的智力变了，而是尺子换了。段末把 SAT、GRE 和 IQ 测试并列，是在替第 4 段的批评扩大打击面。"
+        },
+        {
+          "n": 4,
+          "role": "权威反驳 + 收束",
+          "gist": "Sternberg 认为标准化测试未必能测出学业与人生成功所需的全部要素：传统测试最擅长分析和语言技能，却测不出创造力与实践知识；而且一旦人群或情境变化，IQ 的预测力就未必可靠——低压力下 IQ 能预测领导力，高压力下却与领导力负相关，也就是预测出了相反的结果；再加上应试技巧本身也影响成绩，考过 SAT 的人都懂。",
+          "note": "本段靠引用权威来收束全文，四句推进：Such standardized tests may not assess... argues Sternberg（亮出立场）→ notes that traditional tests best assess... but fail to measure...（一褒一贬的对照）→ Moreover（推进到更根本的一层）→ Research has found...（给证据）。Moreover 之后那两句才是杀招：not necessarily predict so well once populations or situations change 里的 once 是「一旦」，不是「一次」，很多人读成「曾经预测得不好」就把逻辑读反了；紧接着 low-stress 与 high-stress 的对照、以及 that is, it predicted the opposite 的自我解释，说明在高压情境下 IQ 与领导力是负相关——分数高反而更不擅长领导。末句 Anyone who has toiled through SAT will testify that test-taking skill also matters 把话题从学术实验拉回考生经验，也是一个「不止测不准、还掺了应试技巧」的加分项。整段的落脚点是：分数里混进了太多与智力无关的东西，这正是主旨题答案所在。"
+        }
+      ]
+    },
+    {
+      "id": "y07p3",
+      "source": "2007 英语一（旧） Text 3",
+      "topic": "中产家庭的风险转移",
+      "type": "问题—成因—多面展开—结论警示型",
+      "mainIdea": "过去一代里，美国中产家庭原本靠努力工作和公平竞争就能维持的财务安全已被经济风险击穿；双职工、养老金、医保和老龄照护把风险一层层压回家族肩上，作者警告财务上的恶果已经显现，政治上的恶果也不会远。",
+      "structure": "亮出转变与脆弱处境（1）→ 揭示副作用：双职工拆掉了安全网（2）→ 三路并进罗列风险（3）→ 收束定性并发出警示（4）",
+      "paragraphs": [
+        {
+          "n": 1,
+          "role": "亮转变 + 摆处境",
+          "gist": "过去一代，原本能靠努力工作和公平竞争维持财务安全的中产家庭，被经济风险和新的现实改造了；如今一张解聘通知、一次误诊、或配偶离去，就足以让一个稳固的中产家庭在几个月内跌进新贫。",
+          "note": "首句用 has been transformed 的完成时被动把「change」这个主题钉死——全篇讲的都是「变」。骨架是 the American middle-class family ... has been transformed by economic risk and new realities；中间 that once could count on ... to keep itself financially secure 是定语从句，夹在主语和谓语之间，是这一句读不出主干的主因，看到主语后紧跟 that 就先把它整块括起来。段末 pink slip / a bad diagnosis / a disappearing spouse 三个并列名词短语是全文最形象的「风险清单」，细节题和例证题常从这里取材；pink slip 是「解聘通知」而不是「粉色纸条」，属于必须靠语境定的词。这一段的写法是「先讲一代人的落差（past），再讲现在的脆弱（now）」，时间对比就是它的论证方式。"
+        },
+        {
+          "n": 2,
+          "role": "揭示副作用",
+          "gist": "短短一代人里，数百万母亲走上职场，改变了家庭经济的基本结构；学者、决策者和各方批评者都在争论这件事的社会影响，却很少有人去看它的副作用——家庭风险也随之上升。如今的家庭把预算用到了双份薪水状态的极限，于是失去了从前财务受挫时的降落伞：一个备用挣钱的人（通常是母亲），可以在主要挣钱者被裁或病倒时进入劳动力市场。这种「额外劳动者效应」本可以配合失业保险或伤残保险织成的安全网，帮家庭熬过难熬的日子；但今天，家庭财运一旦中断，再也无法靠一个本来待在家里的伴侣多挣一份收入来弥补。",
+          "note": "本段是全文的**枢纽段**，靠 but few have looked at the side effect 这个转折把话题从「社会影响」扭到「家庭风险」，冒号后面的 family risk has risen as well 就是作者真正要说的，主旨题和态度题都绕不开这一句。论证链条是：mothers have gone to work → 家庭预算用到极限 → 失去 the parachute → added-worker effect（旧机制的正面回顾）→ But today 一转折，机制失效。注意 the parachute 后面的破折号是**同位语解释**，破折号里又套了定语从句和 if 条件句，句法上最难的就是这一块。the parachute / the safety net 都是比喻，作者用「安全网被拆掉」的意象来讲风险，抓住了这组比喻，第 4 段 risk 被 shift 到 overburdened shoulders 的说法就顺了。"
+        },
+        {
+          "n": 3,
+          "role": "三路并进罗列风险",
+          "gist": "同一时期，家庭还被要求在自己的退休收入上承担多得多的风险：钢铁工人、航空员工，如今连汽车业的人也在加入那数百万必须担心利率、股市波动、以及「可能活得比退休金更久」这一严酷事实的家庭。过去一年里，布什总统一直在推动把社会保障改成储蓄账户模式，让退休者用大部分或全部有保障的给付去换取决于投资回报的给付。对年轻家庭来说，情形也好不到哪里去：医疗的绝对成本、以及其中由家庭承担的那一份都涨了，而新流行的健康储蓄计划正从立法机构扩散到沃尔玛员工，伴随着高得多的免赔额和一大笔新增的投资风险。连人口结构都在跟中产家庭作对：有一个体弱年老父母的几率、以及随之而来的全部照护需要，在一代人的时间里跳了八倍。",
+          "note": "全篇最长的一段，但结构是**三路并进 + 递进**，读的时候先把它拆成三块就一点不乱：retirement income（钢铝/航空/汽车工人 + 布什社保改革）→ healthcare（成本上涨 + 健康储蓄计划）→ demographics（体弱父母几率八倍）。第三块的 Even demographics 用 Even 把递进推到顶点，意思是「连最不可控的因素也在恶化」，这是本段的重心信号词。布什社保改革那一句并非闲笔，它是「风险从机构转移到个人」的政治证据，和第 4 段 wholesale shift of financial risk 直接呼应。For younger families, the picture is not any better 是段内的小过渡句，短句往往是分段标志，看到它就说明话题要换一个方面了。三个方面的共同点只有一条：风险都从集体/雇主/政府转到了家庭，抓住这个共同点，主旨题不会被具体数字带偏。"
+        },
+        {
+          "n": 4,
+          "role": "收束定性 + 警示",
+          "gist": "从中产家庭的角度看，这一切可以理解地更像是一场把财务风险整体、加速地甩到他们本已不堪重负的肩膀上的可怕加速，而不太像一次承担更多财务责任的机会。财务上的余波已经开始，政治上的余波恐怕也不会远。",
+          "note": "本段是**态度段**，也是全文唯一直接表态的地方。核心结构是 far less like A, and a good deal more like B：作者先让一步（承认有一种解读叫 opportunity to exercise more financial responsibility，这是官方/支持者的说法），再用 far less / a good deal more 把它压下去，重心永远在 B。所以问作者态度的题，答案一定落在 frightening acceleration / overburdened / wholesale shift 这一串词上，是负面、是批评，不是中立描述。末句 The financial fallout has begun, and the political fallout may not be far behind 是两个短分句的对照（financial / political），fallout 是「（核爆后的）放射性尘埃」，引申为「（坏事造成的）余波、恶果」；may not be far behind 是委婉的警告——不说会发生，而说「不会太远」，这种留有余地的说法本身就是英语议论文收尾的常用套路，语气题常在这里设「作者暗示什么」。"
+        }
+      ]
+    },
+    {
+      "id": "y07p4",
+      "source": "2007 英语一（旧） Text 4",
+      "topic": "数据安全成了老板的事",
+      "type": "现象切入—案例佐证—权威立论—观念纠偏—制度展望型",
+      "mainIdea": "信息保护已经从低层 IT 人员的技术杂务，变成各类企业老板案头的头等大事：数据泄密屡屡发生、监管即将收紧，而能否守住客户数据关乎市场价值与信任，这本质上是管理问题而非技术问题。",
+      "structure": "由谚语切入，点出议题（1）→ 泄密案例促成转变（2）→ 权威观点立论（3）→ 反问纠偏（4）→ 法律滞后与监管趋势（5）",
+      "paragraphs": [
+        {
+          "n": 1,
+          "role": "切入 + 点题",
+          "gist": "祸不单行：老板们刚收拾完会计与合规的烂摊子，数据不安全又成了新麻烦，而且专在美国制造让高管丢官的头条。信息保护过去被丢给低层 IT 人员、被看作银行电信航空这类数据密集行业才操心的事，如今却登上各类企业老板的议程。",
+          "note": "首句 It never rains but it pours 是谚语，**不是论点句**，作用只是给「刚解决一个麻烦又来一个」定个调，略读即可。真正的论点在末句：information protection is now high on the boss's agenda，其中 **now** 是全段的枢纽词，暗示「过去不是这样」，全文后面几段都在解释这个变化从何而来。中间左、右两个逗号隔开的过去分词短语是对 information protection 的插入修饰，读的时候先跳过，把主语和谓语 is 接上，句子骨架才出来。冒号后面的 data insecurity 是给 a new problem 命名的同位语——考研阅读里「冒号 = 名词的具体化」，看到冒号要立刻把冒号前后的词划等号。主旨题若问「作者讨论的核心对象」，答案就是 information protection / data security，而不是会计合规（那只是背景铺垫）。"
+        },
+        {
+          "n": 2,
+          "role": "举例 + 摆规模",
+          "gist": "今年多起客户与员工数据大规模泄露，出事机构五花八门——时代华纳、美国国防承包商 SAIC，连加州大学伯克利分校都在内，逼得管理者慌忙翻查自家复杂的 IT 系统和业务流程，寻找潜在漏洞。",
+          "note": "一段话就一个长句，靠一对破折号把名单塞进主谓之间，是典型的「主谓被例子撑开」。as diverse as A, B and even C 里的 **even** 是语气信号：连大学这种最不像目标的机构都中招，说明泄密已经无人能免——这是细节题和推理题的常见考点。in search of potential vulnerabilities 是这套被动局面的落点：管理者不是主动整改，而是「慌忙去找漏洞」，作者的保留态度藏在这里。"
+        },
+        {
+          "n": 3,
+          "role": "权威立论",
+          "gist": "斯坦福商学院的 Mendelson 说数据正在成为一种资产，必须像别的资产一样守护；守得住客户数据才有市场价值，而这是董事会对股东应负的责任。哥伦比亚商学院的 Noam 顺势提议：既然有公认会计准则 GAAP，或许该有个 GASP（公认安全准则）；他并强调，给安全、冗余和恢复定投资额度是管理问题，不是技术问题。",
+          "note": "本段全是**引语**，作者本人没有出面表态，但选谁来发言就是态度：两所商学院的教授，说的都是「董事会/管理层该负责」。段末 not a technical one 是全篇最关键的一句判断，文章标题式的对照「management issue, not a technical one」就是答题锚点。GASP 是作者借 Noam 造的仿词（仿 GAAP），这种生造缩写只要看破它模仿的是谁，意思不用猜。注意引语里的 The ability to guard customer data is the key to market value 把「数据安全」和「市场价值」直接挂钩，这是态度题和推理题最爱设题的因果链。"
+        },
+        {
+          "n": 4,
+          "role": "反问 + 纠偏",
+          "gist": "令人不解的是，这件事居然还会让老板们感到意外。哪怕是最愚钝的高管也该明白：信任这种最宝贵的经济资产极易被摧毁、修复代价极高；而最可能摧毁信任的，莫过于企业让敏感的个人数据落入不该拿到它的人手中。",
+          "note": "The mystery is that... 表面说「费解」，实际是**批评**：老板们竟然到现在才意识到。这句是全文语气最重的地方，态度题问作者对老板们的态度，「不满 / 批评」就落在这里。Surely 开头是强烈的反讽信号词，后面跟的 that... and that... 两个并列的宾语从句才是作者真正的主张，读的时候要抓住第二个 that，它才是重点（少数东西比数据外泄更能摧毁信任）。结构上还有一个易错点：that most valuable of economic assets 是插在 trust 和 is 之间的同位语，先跳过它，trust is easily destroyed... 的主谓才连得上。"
+        },
+        {
+          "n": 5,
+          "role": "制度滞后 + 趋势",
+          "gist": "现状之所以如此，或许是因为数据泄露缺乏法律惩罚（美国如此，欧洲不是）——这能解释却不能开脱。在加州前不久立法之前，美国公司数据出错时连受害者都不必告知；这会很快改变：华盛顿正在审议大量数据安全法案。与此同时，6 月 17 日披露的约 4000 万信用卡账户信息被盗，盖过了前一天美国联邦贸易委员会（FTC）的一项重大决定——它警告美国企业界，若不能提供足够的数据安全，监管者就会出手。",
+          "note": "though not justified 是让步中的关键词：作者承认「没有法律惩罚」可以解释这种状况，但明确否认它能被合理化——**解释 ≠ 开脱**，这是态度题的分水岭，选项若写成「作者认为缺乏惩罚是正当的」就是错的。That may change fast 是本段的转折信号，前面讲现状（法律空白），后面讲变化（立法 + FTC），全文由「问题」转向「出路」就在这一句。末句 Meanwhile 引出的其实是两条并行的消息（信息被盗与 FTC 决定），overshadowed（盖过）说明作者认为**FTC 的决定更重要**，主旨题和推理题问「文章最后强调什么」时应选监管趋严，而不是那 4000 万账户本身。"
+        }
+      ]
+    },
+    {
+      "id": "y07p5",
+      "source": "2007 英语一（旧） 完形填空",
+      "topic": "独立理想与宗教分歧",
+      "type": "背景铺陈—理想罗列—问题转折—现实打折型",
+      "mainIdea": "19 世纪初西属、葡属殖民地独立后，领导人以共和、自由、平等为建国理想，却在宗教这一议题上分歧最大，最终平等承诺又被财政需要和对民众自治能力的恐惧打了折扣。",
+      "structure": "铺背景 + 罗列建国理想（1）→ 以信号词转折到宗教分歧，教会成为保守派旗帜（2）→ 平等的理想在实践中被现实打折（3）",
+      "paragraphs": [
+        {
+          "n": 1,
+          "role": "铺背景 + 罗列理想",
+          "gist": "到 1830 年，前西班牙和葡萄牙殖民地已成为独立国家；这些新国家的领导人成长于旧制度和伊比利亚殖民主义的危机之中，因而信奉代议制政府、向才能开放的仕途、商贸自由、私有财产权，以及「个人是社会基础」的信念；同时还有一种共识：新国家应当主权独立、经济体量足以自立，并由一套法律整合起来。",
+          "note": "本段是全文的背景段，也是主题词的产地。时间状语 By 1830 一出现就要意识到这是历史背景描述，不是作者在评论当下。真正的骨架是两句 Belief 句：一句讲**政治经济理想**（the ideals of representative government, careers open to talent, freedom of commerce and trade, the right to private property），一句讲**国家形态理想**（sovereign and independent states, large enough to be economically viable and integrated by a set of laws）。这些并列名词短语本身就是完形填空最爱挖空的位置（抽象名词、固定搭配），读的时候只要能判断「这里在列举理想」就够，不必逐词理解。Born in the crisis of the old regime and Iberian colonialism 是过去分词短语作状语，交代理想的**来源**——领导人的观念不是凭空来的，是旧秩序的危机逼出来的，这句是细节题和因果题的落点。段内信号词是并列连词 and 铺陈，没有转折，所以整段语气是正面的、理想主义的。"
+        },
+        {
+          "n": 2,
+          "role": "话题转折 + 揭示分歧",
+          "gist": "但在宗教和教会地位这一议题上，领导层内部的共识要少得多：罗马天主教原是国教，也是西班牙王室唯一认可的宗教；多数领导人主张让天主教继续作新国家的官方宗教，另一些人则想终止其他信仰所受的排斥。于是保卫教会成了保守势力的集结旗帜。",
+          "note": "本段用 On the issue of ... , however, there was less agreement 一句完成**全篇最大的一次转折**：第 1 段说的是「共同理想」（many of the leaders shared），本段说的是「分歧」（less agreement）。这个对照就是段落衔接的钩子，主旨题问「文章的转折在哪」答案就在这句。转折词 however 插在介词短语和主语之间（On the issue of ..., however, there was ...），是考研完形常考的插入位置——它前后的逗号是识别标志，读的时候要把 however 挑出来单独看，句子骨架是 there was less agreement among the leadership。段内又套了一层转折：most leaders sought to maintain Catholicism as the official religion, **but** other leaders sought to ...，most / other 的对照说明分歧出在**内部**、不是对外。Roman Catholicism had been the state religion 用的是**过去完成时** had been，因为说的是独立之前的状态，这个时态是本段最容易读错的地方。段末 The defense of the Church became a rallying cry for the conservative forces 是全段的结论句，把「宗教分歧」定性成了**政治阵营的分野**，为下一段讨论理念为何落空做铺垫。"
+        },
+        {
+          "n": 3,
+          "role": "理想打折 + 收束全文",
+          "gist": "早期独立领导人的理想往往是平等主义的，看重各方面的平等：玻利瓦尔曾接受海地的援助，作为回报承诺在他解放的地区废除奴隶制；到 1854 年，除西班牙的殖民地外，奴隶制已在各地被废除。但废除印第安人头税和混血人种赋税的早期承诺兑现得晚得多，因为新国家仍然需要这些政策带来的财政收入。平等主义的情绪因此常被一种恐惧冲淡：大多数民众还没有能力自治，也未必支持民主。",
+          "note": "本段是全篇的**结论段**，功能是把第 1 段那串漂亮的理想逐一「打折」。行文链条非常清楚：先摆理想（egalitarian, valuing equality of everything）→ 给正面实例（Bolivar 废奴，且有时间结果 By 1854 slavery had been abolished）→ 用转折压低（Early promises ... came much later）→ 给出原因（because the new nations still needed the revenue）→ 段末用被动句收束（Egalitarian sentiments were often tempered by fears ...）。抓住 **tempered**（被冲淡、被打折扣）这个词，它等于作者的态度标签：不是否定理想，而是指出理想被现实条件限制了。原因信号词 because 后面才是作者真正的解释；而段末 that 引导的同位语从句（fears that the mass of the population was ... self-rule and democracy）说明恐惧的**内容**，是细节题的定位点。时间线 By 1830（第 1 段）→ By 1854（本段）也值得串起来看：理想提出得早，兑现得晚，这个时间差本身就是本段的论证方式。"
+        }
+      ]
+    },
+    {
+      "id": "y07p6",
+      "source": "2007 英语一（旧） Part B",
+      "topic": "父母如何帮孩子走向成年",
+      "type": "总—分—总型（小标题匹配：标题句 + 首段总起 + 五条并列建议 + 末段补论 + 选项区）",
+      "mainIdea": "父母要帮孩子平稳落地到成年：早早带他们认识自己的强弱与兴趣，用真人榜样和饭桌谈话撑起他们对未来的想象，在家中练出工作与组织的本事，管住电子娱乐的时间，教会他们应对挫折，而已经长大却还在打转的孩子，需要的则是被尊重、被当成伙伴。",
+      "structure": "题干给出任务（1）→ 文章标题亮出母题（2）→ 首段点出 work-life unreadiness 并承诺给办法（3）→ 建议一：认识自己（41）→ 建议二：常谈未来（42）→ 建议三：练工作技能（43）→ 建议四：限制娱乐时间（44）→ 建议五：学会应对（45）→ 末段补论：已成年子女怎么办（9）→ 供匹配的候选标题（10）",
+      "paragraphs": [
+        {
+          "n": 1,
+          "role": "题干（Directions）",
+          "gist": "说明这是小标题匹配题：从 A—G 中为编号的 41-45 各选一条最贴切的标题，首末两段不编号，另有两条多余标题用不上。",
+          "note": "题干是本题唯一的信息框架，读正文前先圈出三处：`headings` 说明候选标题在文末列出、`(41-45)` 说明要配标题的正好五段、`two extra headings` 说明 A—G 里必然多出两条。这三条合起来就是做题节奏：先把五段各自的**主题句**找出来，再拿七条标题来对，最后必然剩下两条无处可去。题干里的 `what parents are supposed to do to guide their children into adulthood` 是全篇的话题预告，正文里反复出现的 parent / kids / adulthood 都属于这个语义场，做题时若某条标题完全落在这个语义场之外，就可以直接排除。题干段本身不配标题。"
+        },
+        {
+          "n": 2,
+          "role": "文章标题",
+          "gist": "文章标题：How Can a Parent Help?（父母能帮上什么忙？）",
+          "note": "标题句一读就知道全文的角色分工：动作的发出者是 parent，受益者是孩子，全文的主线是「父母**做什么**」。所以七条候选标题几乎全是祈使句（Set / Build / Place / Talk / Help），匹配时找的是「这一段在教父母做哪件事」，而不是找话题名词。标题里的 `Help` 是全文唯一反复出现的行为词——第 2、4、5 段都以它或其同义表达收束，抓住它就不会被 A（Set a Good Example）这类看似相关的选项带偏：全文没有一段以「父母以身作则」为中心。标题段本身不编号、不配标题。"
+        },
+        {
+          "n": 3,
+          "role": "首段总起 + 点出问题",
+          "gist": "父母能为孩子做很多，帮他们安稳落地到成年早期。干薪再低、孩子再急着马上满足，只要这个刚起步的成年人做好了准备，从学校到工作的转变就不会那么像一次挫折。作者接着端出几条取自自己书的办法，用来防止他所谓的 work-life unreadiness（工作—生活未就绪）。",
+          "note": "本段是全文的总起段，不出题，但它决定了下文每一段的读法：末句 `Here are a few measures ... that parents can take to prevent what I call \"work-life unreadiness\"` 里的 a few measures 是**明确的清单信号**，看到它就知道后面每一段各是一条办法，而每条办法的动词就是该段的小标题。第 2 句的 `Even if ... can be less of a setback if ...` 是双重 if 的让步加条件，让步部分（工资低、孩子急着要即时满足）只是铺垫，重心落在 `the transition from school to work can be less of a setback` 上——这句是全文的立论前提：转变本身不可怕，没准备好才可怕。`work-life unreadiness` 是作者自造的概念，后面的五条建议全是在治这个病，所以第 5 段（44 题）专讲「电子娱乐妨碍能力发育」时才显得切题。"
+        },
+        {
+          "n": 4,
+          "role": "建议一：认识自己（对应 F）",
+          "gist": "这个过程可以从孩子 11、12 岁就开始：定期和孩子一起回顾他们正在显现的强项与弱项，一起改进沟通、协作这类短板；还要找出他们一再回头去碰的那些兴趣，因为这些兴趣透露了什么样的职业最适合他们。",
+          "note": "**主题句是第一句的前半句 `You can start this process when they are 11 or 12.`**——它承接上段末的 measures，开启第一条建议并交代从何时做起。这句只给了时间，真正点明本段干什么的是后面两组并列祈使句：`Periodically review their emerging strengths and weaknesses` 讲「认清自己现在是什么样」，`identify the kinds of interests they keep coming back to` 讲「弄清自己将来适合什么」，而这正是标题 `[ F ] Help Your Kids Figure Out Who They Are` 的全部含义（figure out who they are＝搞清自己是块什么料）。**不选其他六条的理由**：本段通篇没有「以身作则」的示范行为（排除 A）；没有出现任何家务、工作或责任分配（不是 B，也不是 G）；没有娱乐时间或时长限制（不是 C）；`discussions` 一词在本段根本没出现，兴趣只被用来指向职业，而不是用来谈未来规划（不是 D，D 落在 42 段）；本段列出 shortcomings 只是为了让父母帮着改进，落脚点是「认清长短处」而不是「教怎么扛住挫折」（不是 E，E 落在 45 段）。"
+        },
+        {
+          "n": 5,
+          "role": "建议二：常谈未来（对应 D）",
+          "gist": "孩子需要的是真实的榜样，而不是小圈子里的同伴、流行歌星和被吹出来的运动员。要常在饭桌上聊家里认识的人和他们的经历，聊你自己职业的乐趣与代价，鼓励孩子对自己的将来形成一些想法；被问到想干什么时，不该让他们用「我不知道」搪塞——可以改主意两百次，但对自己的未来只有一个模糊印象是没用的。",
+          "note": "**主题句是第一句 `Kids need a range of authentic role models – as opposed to members of their clique, pop stars and vaunted athletes.`**，但主题句只提出了「榜样」这个条件，本题真正的主线在第二句：`Have regular dinner-table discussions about people the family knows and how they got where they are.`——祈使句 + Have **regular** + discussions，与标题 `[ D ] Talk about the Future on a Regular Basis` 逐词对上（regular ↔ on a Regular Basis）。全段结构是一条主线加两处约束：`Discuss the joys and downsides of your own career and encourage your kids to form some ideas about their own future` 是正面的要求，末句 `having only a foggy view of the future is of little good` 是反面的警告，两句都锁在 future 上。**不选其他六条的理由**：`as opposed to members of their clique, pop stars and vaunted athletes` 是排除法，正是为了排除 A——榜样不是拿来「模仿着做」的偶像，而是用来说明「他们是怎么走到今天的」的谈话素材；本段的核心动作是 discussions / Discuss（谈），不是Assign（不是 B）、不是 Place limits（不是 C）、不是如何应对挫折（不是 E，虽然 form some ideas about their own future 听着像自我认识，但本段的抓手是「定期谈未来」而不是「评估强弱项」，所以不选 F）；G 讲的是承担家务责任，本段根本没提。"
+        },
+        {
+          "n": 6,
+          "role": "建议三：练工作技能（对应 B）",
+          "gist": "老师负责教孩子怎么学习，父母则应该负责教他们怎么工作：在家里分配家务责任，盯住作业的截止时间，鼓励青少年去做兼职。孩子需要大量练习延迟满足和施展组织能力，比如管理时间、分清轻重缓急。",
+          "note": "**主题句是第一句冒号之后的那半句 `parents should be responsible for teaching them how to work`**——前半句用老师作对照（Teachers are responsible for teaching kids how to learn），对照的目的正是把父母的职责定在 work 上，`how to work` 直接对上标题 `[ B ] Build Your Kids' Work Skills`。后面全是这句的落地动作：Assign responsibilities around the house、make sure homework deadlines are met、take a part-time job 是三件具体的事，而 `delaying gratification and deploying effective organizational skills, such as managing time and setting priorities` 是这些事要练出的两种能力。**不选其他六条的理由**：本段出现的 responsibility 是 `Assign responsibilities around the house`，指的是**父母分配、孩子承担家务**，考的是「工作技能」，与 G 的 Build Your Kids' Sense of Responsibility（培养责任感）方向不同——G 强调的是让孩子有担当的意识，B 强调的是做事的能力，而本段末句把重心明确落在 skills（organizational skills / managing time）上，所以选 B 不选 G；本段也没有谈未来规划（不是 D）、没有娱乐限制（不是 C）、没有挫折应对（不是 E，delaying gratification 是「忍住不当场要」，属于自我管理而不是应对打击）；A、F 的关键词（示范、认识自己）在本段全无。"
+        },
+        {
+          "n": 7,
+          "role": "建议四：限制娱乐时间（对应 C）",
+          "gist": "玩电子游戏鼓励的是即时满足；长时间看带罐装笑声的电视节目，只会教孩子被动地处理信息；长时间用耳机听同一种单调节拍，则让孩子待在自己的泡泡里，不去尝试别的追求。这些活动都会妨碍重要的沟通与思考能力发育，也让孩子难以养成大多数工作都需要的持久专注力。",
+          "note": "**主题句是第一句 `Playing video games encourages immediate content.`**——它是三个并列例子里打头的那个，也是本段唯一能当主题句的短句（第 2、3 句分别以 And 和 At the same time 接上，说明它们都是同一层的补充例子）。本段是五段里唯一没有出现任何祈使句的建议段：作者先摆三种活动（video games / hours of watching TV / listening through earphones to the same monotonous beats for long stretches），再用末句 `All these activities can prevent the growth of important communication and thinking skills ...` 统一收口。小标题 `[ C ] Place Time Limits on Leisure Activities` 是用**解决办法**去概括**问题段**，所以匹配的依据是末句的 All these activities：三者都属于 leisure activities，而 hours of、for long stretches 这两个表示「时长」的状语正是 Time Limits 的着落点。**不选其他六条的理由**：本段谈的全是别人提供的消遣（游戏、电视、音乐），与 A 的「父母做榜样」无关；`skills` 一词虽在末句出现，但那说的是**孩子被娱乐耽误掉的能力**，不是父母该去培养的技能，所以不选 B；future 一词本段根本没出现（不是 D）；E、F、G 的核心词（cope / who they are / responsibility）一个都没露头。"
+        },
+        {
+          "n": 8,
+          "role": "建议五：学会应对（对应 E）",
+          "gist": "孩子应该懂得怎么面对挫折、压力和力不从心的感觉，也应该学会解决问题、化解冲突，学会集思广益和批判性思考。家里的讨论能让孩子练习这些事，并帮他们把技能用到日常处境里。",
+          "note": "**主题句是第一句 `They should know how to deal with setbacks, stresses and feelings of inadequacy.`**——`deal with` 与标题 `[ E ] Help Kids Develop Coping Strategies` 里的 coping 是同义替换（cope with＝deal with），setbacks / stresses / feelings of inadequacy 就是需要 coping 的三种处境。第二句用 `They should also learn how to ...` 把范围从「扛住」扩到「解决」，`solve problems and resolve conflicts, ways to brainstorm and think critically` 这串动宾和名词短语是 also 带来的第二层，末句的 Discussions at home can help kids practice doing these things 才是父母的动作（help ... practice），正好补上标题里的 Help Kids Develop。**不选其他六条的理由**：本段是五段里唯一以 They（指孩子）为主语的建议段，父母只在末句出现，所以凡是以父母动作为中心、且抓不到 setbacks 这类词的选项都要排除——A 完全没有；B 的 work skills 在本段没有落点（这里练的是心理与思考技能，不是工作技能）；C 讲时间限制、D 讲谈未来，本段一个都没提；F 讲的是认清自己的强弱项与兴趣（第 41 段的事），本段的 the way 指向「怎么办」而不是「我是谁」；G 的责任感本段也没出现。"
+        },
+        {
+          "n": 9,
+          "role": "末段补论 + 收束",
+          "gist": "那已经长大、却还在成年早期挣扎打转的孩子呢？父母仍然有重要的角色，只是现在更微妙：要小心别显得对孩子失望，要对他此刻感兴趣的东西（哪怕看着天真或想得不周到）表现出强烈的兴趣和尊重，同时成为他探索未来选项的伙伴。最重要的是，这些新成年人必须感到自己受到一个欣赏他们的家庭的尊重和支持。",
+          "note": "本段不编号、不出题，但它是全文的收束，也是作者唯一一次**让步式的补充**：首段讲的是「还没出发的孩子」，本段把镜头转向「已经出发却还在打转的孩子」，用 `Parents still have a major role to play, but now it is more delicate.` 这句 `still ... but` 把全文的适用范围扩大到成年之后，`more delicate` 是作者的态度信号——父母的角色不是消失，而是要从「安排」变成「陪伴和尊重」。末句 `Most of all, these new adults must feel that they are respected and supported by a family that appreciates them.` 是全文最后的落点，呼应首段的 safe landing：前面五条建议都是「怎么帮」，这句才是「帮」的底线。做本题时不涉及本段，但若考主旨或态度，答案的重心是 respect / supported / appreciates 这组词，而不是首段的 measures。"
+        },
+        {
+          "n": 10,
+          "role": "候选小标题（选项区）",
+          "gist": "候选标题：[ A ] Set a Good Example for Your Kids；[ B ] Build Your Kids' Work Skills；[ C ] Place Time Limits on Leisure Activities；[ D ] Talk about the Future on a Regular Basis；[ E ] Help Kids Develop Coping Strategies；[ F ] Help Your Kids Figure Out Who They Are；[ G ] Build Your Kids' Sense of Responsibility。其中 A 与 G 是多余项。",
+          "note": "选项区不是正文，不要当收尾段读。七条全部是**祈使句式的动宾结构**（Set / Build / Place / Talk / Help / Help / Build），说明每段的答案都藏在段中的**祈使句或 should 句**里，读正文时只要盯住「父母该做的那件事」。这份名单里有两组**同动词、近义的干扰陷阱**：B（Build ... Work Skills）与 G（Build ... Sense of Responsibility）都以 Build 开头，C（Place Time Limits）与 G 都涉及「管」；区分点全在宾语上——Work Skills 对第 43 段，Sense of Responsibility 是多余项。**多余项为什么是 A 和 G**：A（Set a Good Example）要求段落以「父母自己怎么做事」为中心，但全文没有一段讲示范——第 2 段里的 role models 是「谈资」不是「模仿对象」（原文明说 as opposed to ... pop stars and vaunted athletes）；G（Sense of Responsibility）与第 43 段最像，但那段把重心从 responsibility 一路推到 organizational skills / managing time，落在 Work Skills 上，且全文再无第二处谈责任感。做题顺序建议：先锁 42→D（future 与 regular 反复出现）、43→B（how to work）、45→E（deal with ↔ coping）、41→F（strengths and weaknesses / interests）、44→C（hours of、for long stretches 对应 Time Limits），剩下 A、G 自然归位。"
+        }
+      ]
+    },
+    {
+      "id": "y07p7",
+      "source": "2007 英语一（旧） 翻译",
+      "topic": "法律教育与新闻从业者的法律素养",
+      "type": "立论—类比—论证—结论型",
+      "mainIdea": "法学正在成为通识教育的一部分；记者必须比普通公民更懂法律，因为理解新闻媒体的既定惯例与特殊责任是做政治报道的前提，而一味依赖律师的解读并不可取。",
+      "structure": "引入背景（1）→ 转折：旧观念正在改变（2）→ 类比论证：法学与新闻教育的共通处（3）→ 深入论证：记者为何必须懂法（4）→ 让步收束，给出主张（5）",
+      "paragraphs": [
+        {
+          "n": 1,
+          "role": "引入背景",
+          "gist": "法学在欧洲大学里几百年来一直被看作一门基础学科，但在加拿大，它直到近年才成为本科课程的一部分。",
+          "note": "全篇的起点是「法学在加拿大本科教育里是新事物」。only in recent years has it become... 是 only + 状语提前引起的部分倒装，正常语序是 it has become a feature...。翻译题读到倒装先还原语序再译。"
+        },
+        {
+          "n": 2,
+          "role": "转折：观念在变",
+          "gist": "传统上法律学习被视为律师的专属领地，而不是受教育者必备知识素养的一部分；但更接近欧陆传统的法律教育观正在不少加拿大高校扎根，有的甚至已开设法学本科学位。",
+          "note": "本段是全文的转折枢纽：Traditionally... rather than... 先摆旧观念，Happily... 再给新趋势。happily 是作者的态度信号词，说明他对这一变化是赞成的。第 46 题的划线句就在这里。"
+        },
+        {
+          "n": 3,
+          "role": "类比论证",
+          "gist": "如果法学正在成为通识教育的一部分，它的目标和方法就应当直接吸引新闻教育者：法学训练的是负责任的判断，并且像记者采写新闻那样，把正义、民主、自由这些概念与日常现实联系起来。",
+          "note": "本段靠 On the one hand... On the other... 展开。第 47 题的划线句跟在 On the other 之后。作者的论证策略是类比——法学和新闻业都要把抽象概念落到具体事实上，这句是理解全文逻辑的关键。"
+        },
+        {
+          "n": 4,
+          "role": "深入论证",
+          "gist": "记者必须比普通公民更深刻地理解法律，这一要求建立在理解新闻媒体既定惯例与特殊责任的基础之上；政治是国家运作的核心题材，记者对国家如何运作了解得越清楚，报道就越好。",
+          "note": "The better informed they are..., the better their reporting will be. 是「the + 比较级, the + 比较级」结构，表示「越……越……」。第 48、49 两题都在本段，是全文密度最高的一段。"
+        },
+        {
+          "n": 5,
+          "role": "让步收束，给出主张",
+          "gist": "法律体系及其中的事件是记者的主要题材；许多记者过度依赖律师提供的解读并不妥当——律师的评论和反馈固然能提升报道，但记者更应当依靠自己对重要性的判断作出独立判断，而这种能力只能来自对法律体系的扎实理解。",
+          "note": "末段用 While comment and reaction may enhance stories, it is preferable for journalists to... 的让步结构给出作者主张。最后一句 These can only come from a well-grounded understanding of the legal system. 收束全篇，点明「扎实理解法律」是记者独立判断的来源。第 50 题在这里。"
+        }
+      ]
+    }
+  ]
+}

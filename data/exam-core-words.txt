@@ -1,0 +1,161 @@
+# 考研高频核心词表
+#
+# 用途：给卷子词表分档。出现在这里的词，标记为「核心」，优先刷。
+# 这份表是我按考研真题的常见考点整理的，**不是教育部官方大纲词汇表**，
+# 所以它是个排序参考，不是权威名单。想调整直接改这个文件。
+#
+# 一行一个词，# 开头是注释。
+
+# ---------- 论证与思维动词 ----------
+analyze assess assume attribute conclude confirm demonstrate determine
+emphasize establish evaluate examine identify illustrate imply indicate
+interpret justify maintain obtain perceive presume propose prove recognize
+reflect reveal signify suggest verify acknowledge advocate argue assert
+claim contend contradict criticize debate dispute endorse object oppose
+refute reject undermine challenge highlight overlook neglect ignore
+address tackle resolve cope confront distinguish differentiate deviate
+infer deduce correlate correspond coincide speculate imply presume
+
+# ---------- 变化与趋势 ----------
+accelerate accumulate alter amplify boom climb decline decrease deteriorate
+diminish dwindle escalate expand extend fluctuate intensify lessen mount
+plummet plunge reduce shrink soar surge swell stabilize vary shift
+transform convert evolve progress reverse sustain exceed offset restrain
+restrict retain reverse revise modify adjust adapt accommodate
+
+# ---------- 因果与来源 ----------
+arise arouse contribute derive elicit emerge ensue generate induce originate
+provoke stem trigger yield entail involve attribute constitute comprise
+consist constitute attribute render
+
+# ---------- 程度与范围 ----------
+adequate abundant ample considerable excessive extensive immense marginal
+minimal moderate negligible numerous profound substantial tremendous vast
+radical drastic severe slight subtle trivial overwhelming indispensable
+inevitable inherent prevalent widespread universal unique diverse various
+predominant preliminary fundamental primary secondary ultimate
+
+# ---------- 评价与属性 ----------
+ambiguous arbitrary coherent compelling consistent controversial credible
+crucial dubious feasible legitimate plausible rational reasonable relevant
+reliable skeptical valid viable vital vulnerable susceptible prone immune
+resistant reluctant inclined explicit implicit obscure vague precise accurate
+approximate thorough comprehensive superficial sophisticated intricate
+elaborate primitive crude flexible rigid static dynamic volatile fragile
+robust obvious apparent notable remarkable striking profound
+
+# ---------- 社会与经济 ----------
+allocate budget capital commerce commodity compensate consume corporate
+currency deficit economy enterprise expenditure export finance import
+incentive industry inflation invest manufacture margin monopoly output
+profit prosperity recession revenue subsidy tariff wealth welfare workforce
+unemployment productivity efficiency competition consumer market trade
+resource distribution inequality poverty affluent expenditure
+
+# ---------- 政治与法律 ----------
+authority legislation regulation compliance enforcement jurisdiction policy
+reform sanction sovereignty statute verdict testify violate constitutional
+democratic federal municipal candidate campaign election mandate opposition
+coalition protest petition lobby obligation liable prohibit prohibit
+
+# ---------- 科技与环境 ----------
+automation breakthrough digital emission conserve contaminate degradation
+ecology ecosystem habitat innovation mechanism pollution recycle renewable
+sustainable toxic virtual algorithm artificial intelligence device network
+satellite species environment genetic modify
+
+# ---------- 心理与认知 ----------
+cognitive conscious perception intuition instinct reasoning memory attention
+emotion motivate bias prejudice stereotype attitude impulse anxiety
+depression stress resilient incentive
+
+# ---------- 学术写作常用名词 ----------
+aspect dimension factor element component constituent criterion standard
+framework structure mechanism procedure phenomenon hypothesis theory
+principle concept notion assumption implication consequence significance
+tendency trend pattern proportion ratio percentage majority minority
+threshold spectrum extent magnitude scope domain context perspective
+insight outcome sequence phase category hierarchy integrity
+strategy scheme medium
+
+# ---------- 其他高频动词 ----------
+accompany accomplish acquire adhere administer adopt afford aggregate
+anticipate appreciate approach articulate assemble assign assist associate
+attain attempt attract cease cite commit communicate compare compensate
+competent comply conceive concentrate concern conduct confine conform
+consent consider constrain construct consult contemporary contend convey
+convince cooperate coordinate cultivate dedicate define defend deny depict
+deprive detect devise devote discard disclose discriminate dispose dispute
+distribute dominate eliminate emerge enable encounter enhance ensure
+entitle equivalent estimate evolve exclude exhibit expand exploit expose
+extract facilitate formulate fulfil generate grant guarantee impose
+incorporate initiate inspect integrate interact intervene investigate
+invoke isolate manipulate maximize mediate minimize monitor negate
+obtain occupy occur orient overlap overcome participate persist precede
+prevail proceed promote pursue react recommend reconcile refine regulate
+reinforce remedy reside resort restore revise satisfy secure seek
+simulate stimulate substitute supplement tolerate transfer transmit
+undergo underlie undertake utilize validate venture
+
+# ---------- 其他高频形容词 / 副词 ----------
+available capable comparable complex concerned contrary conventional
+dramatic empirical equivalent essential ethical evident eventual genuine
+identical initial intrinsic mature mutual ongoing potential prior
+random simultaneous specific sufficient tedious temporary thereby
+transparent uniform vigorous
+
+# ---------- 高频动词短语里的核心词 ----------
+account appeal apply approve assume attach attribute benefit capable
+concern consist depend dispose engage expose resort result subject
+substitute tendency
+
+# ============================================================
+# PHRASES-START
+# 这一行之后，一行一条短语，不再按空白拆成单词。
+# （之前两种混在一起，导致 "make sense of" 被拆成 make / sense / of，
+#   这些基础词全被误判成考研核心词。）
+# ============================================================
+account for
+at the expense of
+be subject to
+in light of
+give rise to
+stem from
+take into account
+fall short of
+as opposed to
+comply with
+rely on
+refer to
+result in
+result from
+lead to
+contribute to
+consist of
+depend on
+engage in
+expose to
+resort to
+subject to
+in terms of
+in response to
+in contrast to
+by contrast
+on the contrary
+for instance
+for example
+in addition
+in particular
+in general
+at best
+at worst
+far from
+by no means
+to some extent
+play a role in
+give priority to
+make sense of
+take advantage of
+shed light on
+pave the way for
+bear in mind

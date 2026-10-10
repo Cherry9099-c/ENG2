@@ -1,0 +1,351 @@
+{
+  "wordlists": [
+    {
+      "key": "2021",
+      "label": "2021 英语二",
+      "file": "data/wordlists/2021.json",
+      "stats": {
+        "total": 672,
+        "t1": 23,
+        "t2": 37,
+        "t3": 76,
+        "t4": 536,
+        "phrases": 7
+      },
+      "sections": [
+        {
+          "id": "text1",
+          "label": "Text 1",
+          "source": "2021 英语二 Text 1",
+          "topic": "再培训：谁该买单",
+          "type": "问题分析型",
+          "paragraphs": 3,
+          "sentences": 23,
+          "preview": "\"Reskilling\" is something that sounds like a buzzword but is actually a requirement if w",
+          "analyzed": 1,
+          "words": 127,
+          "_order": 0
+        },
+        {
+          "id": "text2",
+          "label": "Text 2",
+          "source": "2021 英语二 Text 2",
+          "topic": "英国能否回归粮食自给自足",
+          "type": "设问—反驳型",
+          "paragraphs": 5,
+          "sentences": 16,
+          "preview": "With the global population predicted to hit close to 10 billion by 2050, and forecasts t",
+          "analyzed": 3,
+          "words": 136,
+          "_order": 1
+        },
+        {
+          "id": "text3",
+          "label": "Text 3",
+          "source": "2021 英语二 Text 3",
+          "topic": "科技巨头的「收购式招聘」",
+          "type": "现象—争议—监管型",
+          "paragraphs": 7,
+          "sentences": 19,
+          "preview": "When Microsoft bought task management app Wunderlist and mobile calendar Sunrise in 2015",
+          "analyzed": 1,
+          "words": 136,
+          "_order": 2
+        },
+        {
+          "id": "text4",
+          "label": "Text 4",
+          "source": "2021 英语二 Text 4",
+          "topic": "直觉胜过深思",
+          "type": "论点—实验—限定型",
+          "paragraphs": 5,
+          "sentences": 21,
+          "preview": "We're fairly good at judging people based on first impressions, thin slices of experienc",
+          "analyzed": 1,
+          "words": 160,
+          "_order": 3
+        },
+        {
+          "id": "use-of-english",
+          "label": "完形填空",
+          "source": "2021 英语二 完形填空",
+          "topic": "考核目标的意外后果",
+          "type": "反常识立论—实例—机制—让步收束",
+          "paragraphs": 4,
+          "sentences": 40,
+          "preview": "It's not difficult to set targets for staff.",
+          "analyzed": 2,
+          "words": 91,
+          "_order": 4
+        },
+        {
+          "id": "partb",
+          "label": "Part B",
+          "source": "2021 英语二 Part B",
+          "topic": "",
+          "type": "",
+          "paragraphs": 10,
+          "sentences": 36,
+          "preview": "There are two extra subheadings which you do not need to use.",
+          "analyzed": 1,
+          "words": 150,
+          "_order": 5
+        },
+        {
+          "id": "translation",
+          "label": "翻译",
+          "source": "2021 英语二 翻译",
+          "topic": "",
+          "type": "",
+          "paragraphs": 2,
+          "sentences": 7,
+          "preview": "We tend to think that friends and family members are our biggest sources of connection, ",
+          "analyzed": 1,
+          "words": 62,
+          "_order": 6
+        },
+        {
+          "id": "writing",
+          "label": "写作",
+          "source": "2021 英语二 写作",
+          "topic": "",
+          "type": "",
+          "paragraphs": 3,
+          "sentences": 6,
+          "preview": "Write an email to Jack, an international student, to 1)invite him to participate, and 2)",
+          "analyzed": 0,
+          "words": 14,
+          "_order": 7
+        }
+      ],
+      "sentences": 10
+    },
+    {
+      "key": "2020",
+      "label": "2020 英语二",
+      "file": "data/wordlists/2020.json",
+      "stats": {
+        "total": 642,
+        "t1": 24,
+        "t2": 30,
+        "t3": 89,
+        "t4": 499,
+        "phrases": 11
+      },
+      "sections": [
+        {
+          "id": "text1",
+          "label": "Text 1",
+          "source": "2020 英语二 Text 1",
+          "topic": "",
+          "type": "",
+          "paragraphs": 5,
+          "sentences": 18,
+          "preview": "Rats and other animals need to be highly attuned to social signals from others so they c",
+          "analyzed": 2,
+          "words": 129,
+          "_order": 0
+        },
+        {
+          "id": "text2",
+          "label": "Text 2",
+          "source": "2020 英语二 Text 2",
+          "topic": "",
+          "type": "",
+          "paragraphs": 4,
+          "sentences": 20,
+          "preview": "It is true that CEO pay has gone up—top ones may make 300 times the pay of typical worke",
+          "analyzed": 3,
+          "words": 121,
+          "_order": 1
+        },
+        {
+          "id": "text3",
+          "label": "Text 3",
+          "source": "2020 英语二 Text 3",
+          "topic": "",
+          "type": "",
+          "paragraphs": 4,
+          "sentences": 20,
+          "preview": "Madrid was hailed as a public health beacon last November when it rolled out ambitious r",
+          "analyzed": 2,
+          "words": 154,
+          "_order": 2
+        },
+        {
+          "id": "text4",
+          "label": "Text 4",
+          "source": "2020 英语二 Text 4",
+          "topic": "",
+          "type": "",
+          "paragraphs": 3,
+          "sentences": 21,
+          "preview": "Now that members of Generation Z are graduating college this spring—the most commonly-ac",
+          "analyzed": 0,
+          "words": 142,
+          "_order": 3
+        },
+        {
+          "id": "use-of-english",
+          "label": "完形填空",
+          "source": "2020 英语二 完形填空",
+          "topic": "",
+          "type": "",
+          "paragraphs": 5,
+          "sentences": 21,
+          "preview": "Being a good parent is, of course, what every parent would like to be.",
+          "analyzed": 0,
+          "words": 87,
+          "_order": 4
+        },
+        {
+          "id": "partb",
+          "label": "Part B",
+          "source": "2020 英语二 Part B",
+          "topic": "",
+          "type": "",
+          "paragraphs": 8,
+          "sentences": 29,
+          "preview": "There are two extra subheadings which you do not need to use.",
+          "analyzed": 0,
+          "words": 138,
+          "_order": 5
+        },
+        {
+          "id": "translation",
+          "label": "翻译",
+          "source": "2020 英语二 翻译",
+          "topic": "",
+          "type": "",
+          "paragraphs": 3,
+          "sentences": 10,
+          "preview": "It's almost impossible to go through life without experiencing some kind of failure.",
+          "analyzed": 1,
+          "words": 43,
+          "_order": 6
+        },
+        {
+          "id": "writing",
+          "label": "写作",
+          "source": "2020 英语二 写作",
+          "topic": "",
+          "type": "",
+          "paragraphs": 3,
+          "sentences": 4,
+          "preview": "Write an email to 1) tell them about the site, and 2)give them some tips for the tour.",
+          "analyzed": 0,
+          "words": 12,
+          "_order": 7
+        }
+      ],
+      "sentences": 8
+    },
+    {
+      "key": "2007",
+      "label": "2007 英语一（旧）",
+      "file": "data/wordlists/2007.json",
+      "stats": {
+        "total": 813,
+        "t1": 4,
+        "t2": 54,
+        "t3": 153,
+        "t4": 602,
+        "phrases": 5
+      },
+      "sections": [
+        {
+          "id": "text1",
+          "label": "Text 1",
+          "source": "2007 英语一（旧） Text 1",
+          "topic": "",
+          "type": "",
+          "paragraphs": 4,
+          "sentences": 18,
+          "preview": "If you were to examine the birth certificates of every soccer player in 2006's World Cup",
+          "analyzed": 0,
+          "words": 160,
+          "_order": 0
+        },
+        {
+          "id": "text2",
+          "label": "Text 2",
+          "source": "2007 英语一（旧） Text 2",
+          "topic": "",
+          "type": "",
+          "paragraphs": 4,
+          "sentences": 21,
+          "preview": "For the past several years, the Sunday newspaper supplement Parade has featured a column",
+          "analyzed": 0,
+          "words": 152,
+          "_order": 1
+        },
+        {
+          "id": "text3",
+          "label": "Text 3",
+          "source": "2007 英语一（旧） Text 3",
+          "topic": "",
+          "type": "",
+          "paragraphs": 4,
+          "sentences": 16,
+          "preview": "During the past generation, the American middle-class family that once could count on ha",
+          "analyzed": 0,
+          "words": 159,
+          "_order": 2
+        },
+        {
+          "id": "text4",
+          "label": "Text 4",
+          "source": "2007 英语一（旧） Text 4",
+          "topic": "",
+          "type": "",
+          "paragraphs": 5,
+          "sentences": 14,
+          "preview": "It never rains but it pours.",
+          "analyzed": 0,
+          "words": 163,
+          "_order": 3
+        },
+        {
+          "id": "use-of-english",
+          "label": "完形填空",
+          "source": "2007 英语一（旧） 完形填空",
+          "topic": "",
+          "type": "",
+          "paragraphs": 3,
+          "sentences": 13,
+          "preview": "By 1830 the former Spanish and Portuguese colonies had become independent nations.",
+          "analyzed": 0,
+          "words": 82,
+          "_order": 4
+        },
+        {
+          "id": "partb",
+          "label": "Part B",
+          "source": "2007 英语一（旧） Part B",
+          "topic": "",
+          "type": "",
+          "paragraphs": 10,
+          "sentences": 33,
+          "preview": "Directions: You are going to read a list of headings and a text about what parents are s",
+          "analyzed": 0,
+          "words": 209,
+          "_order": 5
+        },
+        {
+          "id": "translation",
+          "label": "翻译",
+          "source": "2007 英语一（旧） 翻译",
+          "topic": "",
+          "type": "",
+          "paragraphs": 5,
+          "sentences": 18,
+          "preview": "The study of law has been recognized for centuries as a basic intellectual discipline in",
+          "analyzed": 0,
+          "words": 132,
+          "_order": 6
+        }
+      ],
+      "sentences": 0
+    }
+  ]
+}
