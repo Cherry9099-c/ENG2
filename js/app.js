@@ -2,7 +2,8 @@
 
 import * as store from './store.js';
 import * as dict from './dict.js';
-import { initUI, closeSheet, go, openMenu } from './ui.js';
+import { initUI, closeSheet, go, openMenu, openSheet } from './ui.js';
+import { escape } from './text.js';
 
 import papersView from './views/papers.js';
 import { drillView, listView } from './views/wordlist.js';
@@ -71,6 +72,43 @@ export async function renderRoute() {
   }
 }
 
+/**
+ * 横向溢出排查：只在网址后面加 `?debug` 时才跑。
+ *
+ * 手机上打不开控制台，所以把「谁比屏幕宽」直接弹出来，截图就能发回来。
+ * 起因：有反馈说手机能一路缩小、缩完卡片不在中心——那说明有个元素比屏幕宽，
+ * 但我这边没法复现，干脆让页面自己报出来。
+ */
+function checkOverflow() {
+  if (!String(location.search || '').includes('debug')) return;
+  setTimeout(() => {
+    const vw = document.documentElement.clientWidth;
+    const sw = document.documentElement.scrollWidth;
+    const bad = [];
+    for (const el of document.querySelectorAll('body *')) {
+      if (bad.length >= 15) break;
+      const r = el.getBoundingClientRect();
+      if (r.width === 0 && r.height === 0) continue;
+      if (r.right > vw + 1 || r.left < -1) {
+        const cls = String(el.className || '').trim().split(/\s+/).filter(Boolean).join('.');
+        bad.push(`${el.tagName.toLowerCase()}${cls ? '.' + cls : ''}`
+          + `\n  左 ${Math.round(r.left)} 右 ${Math.round(r.right)} 宽 ${Math.round(r.width)}`);
+      }
+    }
+    openSheet(`
+      <div class="sheet-title" style="font-size:var(--fs-lg)">横向溢出排查</div>
+      <div class="sheet-sub">
+        视口 ${vw}px · 文档宽 ${sw}px ·
+        ${sw > vw + 1 ? '<b style="color:var(--bad)">有横向溢出</b>' : '<b style="color:var(--ok)">没有横向溢出</b>'}
+      </div>
+      ${bad.length
+        ? `<div class="sheet-quote" style="font-family:var(--font-mono);font-size:var(--fs-xs);white-space:pre-wrap">${escape(bad.join('\n\n'))}</div>`
+        : '<div class="sheet-text">没有元素超出屏幕宽度。</div>'}
+      <div class="sheet-actions"><button class="btn block" data-close>关闭</button></div>
+    `);
+  }, 800);
+}
+
 async function boot() {
   initUI();
 
@@ -91,6 +129,7 @@ async function boot() {
   await Promise.all([store.init(), dict.loadDict()]);
 
   await renderRoute();
+  checkOverflow();
 }
 
 boot();

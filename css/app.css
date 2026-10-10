@@ -62,7 +62,25 @@ html, body {
   font-family: var(--font-ui); font-size: var(--fs-md); line-height: 1.6;
   -webkit-font-smoothing: antialiased; overscroll-behavior-y: none;
 }
-body { min-height: 100dvh; }
+
+/*
+ * 底部锁死横向溢出。
+ *
+ * 为什么必须加：手机上只要有任何元素比屏幕宽一点点，页面布局宽度就会大于屏宽。
+ * iOS 的规则是「内容比屏幕宽时才允许缩小到 1 倍以下」——于是用户能一路缩到很小，
+ * 缩出去看到的是布局右侧的空白，卡片就显得「不在中心」。
+ * 这里把横向溢出裁掉，布局宽度恒等于屏宽，就不可能出现那种缩放状态了。
+ *
+ * 写在 body 上而不是 html 上：html 仍是 visible 时，overflow 会从 body
+ * 传播到视口，body 自己不会变成滚动容器，所以 #topbar 的 sticky 不受影响。
+ */
+body {
+  min-height: 100dvh;
+  overflow-x: hidden;
+  /* overflow-wrap 会继承下去：词表里的怪词、粘进来的长 URL 之类，
+     不该有能力把布局撑宽 */
+  overflow-wrap: break-word;
+}
 .hidden { display: none !important; }
 
 /* ============================ 骨架 ============================ */
@@ -197,9 +215,9 @@ body.focus-mode #view { padding-bottom: calc(var(--safe-b) + var(--s4)); }
   margin-bottom: var(--s3); text-align: left;
 }
 .picker:active { background: var(--bg-soft); }
-.picker b { font-weight: 600; }
-.picker em { font-style: normal; font-size: var(--fs-xs); color: var(--ink-3); }
-.picker .row-caret { margin-left: auto; }
+.picker b { flex: 1; min-width: 0; font-weight: 600; }
+.picker em { flex: 0 0 auto; font-style: normal; font-size: var(--fs-xs); color: var(--ink-3); white-space: nowrap; }
+.picker .row-caret { flex: 0 0 auto; margin-left: auto; }
 
 /* ============================ 分段控件 ============================ */
 
@@ -222,6 +240,10 @@ body.focus-mode #view { padding-bottom: calc(var(--safe-b) + var(--s4)); }
   display: inline-block; padding: 1px 8px; border-radius: 999px;
   background: var(--bg-soft); color: var(--ink-3);
   font-size: var(--fs-xs); white-space: nowrap;
+  /* nowrap 意味着标签内容不能折行。万一某个标签特别长（比如很长的
+     篇目名），它会硬把行撑破——所以在这里限死宽度并省略。 */
+  max-width: 100%; overflow: hidden; text-overflow: ellipsis;
+  vertical-align: bottom;
 }
 .tag.brand { background: var(--brand-tint); color: var(--brand-dark); }
 .tag.warn  { background: #f6ecd6; color: var(--warn); }
@@ -384,7 +406,7 @@ body.focus-mode #view { padding-bottom: calc(var(--safe-b) + var(--s4)); }
 
 .kv { display: flex; gap: var(--s3); margin-top: var(--s3); font-size: var(--fs-sm); }
 .kv > b { flex: 0 0 64px; color: var(--brand-dark); font-size: var(--fs-xs); padding-top: 3px; letter-spacing: .06em; }
-.kv > div { flex: 1; line-height: 1.85; }
+.kv > div { flex: 1; min-width: 0; line-height: 1.85; }
 .bracket { font-family: var(--font-mono); font-size: var(--fs-sm); line-height: 2; color: var(--ink-2); word-break: break-word; }
 
 /* ============================ 长难句 / 段落 ============================ */
