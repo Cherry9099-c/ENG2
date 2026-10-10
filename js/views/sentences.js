@@ -65,6 +65,12 @@ function rich(s) {
   return escape(s).replace(/\*\*(.+?)\*\*/g, '<b>$1</b>');
 }
 
+/** 卡片标题/标签只占一行，过长的截断——完整内容点开就有 */
+function clip(s, n) {
+  const t = String(s || '').trim();
+  return t.length > n ? t.slice(0, n) + '…' : t;
+}
+
 function currentData() {
   const inPaper = (src) => {
     if (!src) return !paperLabel;
@@ -130,7 +136,7 @@ async function renderView(root, arg) {
 
     <div class="section">${filter === '全部' ? '长难句' : escape(filter)} · ${list.length} 句</div>
     ${list.length
-      ? list.map(sentenceCard).join('')
+      ? sentenceGroups(list)
       : `<div class="empty">
            <div class="big">⌇</div>
            <div class="t">这里还没有句子</div>
@@ -139,6 +145,23 @@ async function renderView(root, arg) {
   `;
 
   wire(root, { passages, all, list });
+}
+
+/** 把长难句按篇目分组。整卷视角下有十几二十句，平铺一条在手机上要滑很久，
+ *  分组之后至少知道自己在看哪一篇。只有一篇时不加多余的组标题。 */
+function sentenceGroups(list) {
+  const bySource = new Map();
+  for (const s of list) {
+    const k = s.source || '未标出处';
+    if (!bySource.has(k)) bySource.set(k, []);
+    bySource.get(k).push(s);
+  }
+  const groups = [...bySource.entries()];
+  if (groups.length < 2) return list.map(sentenceCard).join('');
+  return groups.map(([src, arr]) => `
+    <div class="section">${escape(src)} · ${arr.length} 句</div>
+    ${arr.map(sentenceCard).join('')}
+  `).join('');
 }
 
 /** 右上角「⋯」：只放类型筛选。范围靠页面上那排卷子 + 篇目选择器。 */
@@ -264,16 +287,17 @@ function passageCard(p) {
   return `
     <div class="card tap" data-pid="${p.id}">
       <div class="card-head">
-        <span class="card-title">${escape(p.topic || '')}</span>
-        ${p.type ? `<span class="tag brand">${escape(p.type)}</span>` : ''}
+        <span class="card-title">${escape(clip(p.topic || '', 26))}</span>
+        <span class="card-more">${open ? '收起 ⌃' : '展开 ⌄'}</span>
       </div>
       <div class="card-meta">
+        ${p.type ? `<span class="tag brand">${escape(clip(p.type, 12))}</span>` : ''}
         ${p.source ? `<span class="tag">${escape(p.source)}</span>` : ''}
-        <span class="card-more">${open ? '收起 ⌃' : '展开 ⌄'}</span>
       </div>
 
       ${open ? `
         <div class="card-body">
+          ${p.type ? structRow('类型', escape(p.type)) : ''}
           ${p.mainIdea ? structRow('主旨', rich(p.mainIdea)) : ''}
           ${p.structure ? structRow('结构', `<span class="mute">${escape(p.structure)}</span>`) : ''}
           <div style="margin-top:var(--s3)">
@@ -289,7 +313,7 @@ function passageCard(p) {
           </div>
         </div>
       ` : `
-        <div class="hint" style="margin-top:var(--s3)">${rich((p.mainIdea || '').slice(0, 60))}…</div>
+        <div class="hint" style="margin-top:var(--s3)">${rich(clip(p.mainIdea || '', 56))}…</div>
       `}
     </div>
   `;
@@ -305,14 +329,17 @@ function sentenceCard(s) {
     <div class="card tap" data-sid="${s.id}">
       <div class="card-en">${escape(s.en)}</div>
       <div class="card-meta">
-        ${s.type ? `<span class="tag brand">${escape(s.type)}</span>` : ''}
-        ${s.source ? `<span class="tag">${escape(s.source)}</span>` : ''}
-        ${s.pending ? '<span class="tag warn">待拆解</span>' : ''}
+        <span class="card-tags">
+          ${s.type ? `<span class="tag brand">${escape(clip(s.type, 16))}</span>` : ''}
+          ${s.source ? `<span class="tag">${escape(s.source)}</span>` : ''}
+          ${s.pending ? '<span class="tag warn">待拆解</span>' : ''}
+        </span>
         <span class="card-more">${isOpen ? '收起 ⌃' : '拆解 ⌄'}</span>
       </div>
 
       ${isOpen ? `
         <div class="card-body">
+          ${s.type ? structRow('类型', escape(s.type)) : ''}
           ${s.main ? structRow('主干', escape(s.main)) : ''}
           ${(s.clauses || []).map((c) => structRow(
               c.part || '成分',

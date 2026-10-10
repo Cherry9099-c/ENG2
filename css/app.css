@@ -391,11 +391,14 @@ body.focus-mode #view { padding-bottom: calc(var(--safe-b) + var(--s4)); }
 
 .card.tap { cursor: pointer; }
 .card.tap:active { background: var(--bg-soft); }
-.card-head { display: flex; align-items: baseline; gap: var(--s2); flex-wrap: wrap; }
-.card-title { font-size: var(--fs-md); font-weight: 600; }
+.card-head { display: flex; align-items: baseline; gap: var(--s2); }
+.card-title { flex: 1; min-width: 0; font-size: var(--fs-md); font-weight: 600; }
 .card-en { margin-top: var(--s3); font-family: var(--font-en); font-size: var(--fs-lg); line-height: 1.95; }
-.card-meta { margin-top: var(--s2); display: flex; align-items: center; gap: var(--s2); flex-wrap: wrap; }
-.card-more { margin-left: auto; font-size: var(--fs-xs); color: var(--ink-3); }
+.card-meta { margin-top: var(--s2); display: flex; align-items: center; gap: var(--s2); }
+/* 标签自己换行，右边那个「展开 / 拆解」固定不换行——
+   早先它和标签同在一行，标签占满后它会被挤到第二行孤零零贴右边。 */
+.card-tags { flex: 1; min-width: 0; display: flex; align-items: center; gap: var(--s2); flex-wrap: wrap; }
+.card-more { flex: 0 0 auto; font-size: var(--fs-xs); color: var(--ink-3); white-space: nowrap; }
 .card-body { margin-top: var(--s3); padding-top: var(--s3); border-top: 1px solid var(--line-soft); }
 
 .para { display: flex; gap: var(--s3); padding: var(--s3) 0; border-top: 1px solid var(--line-soft); }
